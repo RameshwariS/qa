@@ -1,0 +1,44 @@
+{
+  "uuid": "e540e42e-2bc2-45b2-ade7-ddf25f702b2f",
+  "name": "TestDefaultModelsLocation/from_subdirectory",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestDefaultModelsLocation/from_subdirectory",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616825804,
+  "stop": 1790616825804,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDefaultModelsLocation/from_subdirectory"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
