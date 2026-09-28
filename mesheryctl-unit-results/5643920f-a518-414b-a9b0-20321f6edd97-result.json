@@ -1,0 +1,44 @@
+{
+  "uuid": "5643920f-a518-414b-a9b0-20321f6edd97",
+  "name": "TestStringContainedInSlice/test_with_absent_string",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestStringContainedInSlice/test_with_absent_string",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632843485,
+  "stop": 1790632843485,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStringContainedInSlice/test_with_absent_string"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

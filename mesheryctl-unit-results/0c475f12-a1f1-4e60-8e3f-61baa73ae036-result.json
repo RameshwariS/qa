@@ -1,0 +1,44 @@
+{
+  "uuid": "0c475f12-a1f1-4e60-8e3f-61baa73ae036",
+  "name": "TestIsBrokerPodName/meshery-nats-0",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/system::TestIsBrokerPodName/meshery-nats-0",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632840179,
+  "stop": 1790632840179,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/system"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsBrokerPodName/meshery-nats-0"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "0ca02143-5a2c-47d1-a818-59dbe710a95a",
+  "name": "TestRemoveMesh/Test_Remove_Linkerd_with_Namespace",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/adapter::TestRemoveMesh/Test_Remove_Linkerd_with_Namespace",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632812305,
+  "stop": 1790632812308,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/adapter"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoveMesh/Test_Remove_Linkerd_with_Namespace"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
