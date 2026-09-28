@@ -1,0 +1,44 @@
+{
+  "uuid": "560a82a2-d0fb-48d0-9b46-680637f33f9b",
+  "name": "TestWalletPatchingSkipsWhenValueDiverged",
+  "fullName": "github.com/meshery/meshery/server/policies::TestWalletPatchingSkipsWhenValueDiverged",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632933078,
+  "stop": 1790632933078,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWalletPatchingSkipsWhenValueDiverged"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "05095927-1c9f-4496-a2f3-ab858b4f7318",
+  "name": "TestMeshsyncDataHandlerStopIsIdempotent",
+  "fullName": "github.com/meshery/meshery/server/models::TestMeshsyncDataHandlerStopIsIdempotent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632920407,
+  "stop": 1790632920412,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMeshsyncDataHandlerStopIsIdempotent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

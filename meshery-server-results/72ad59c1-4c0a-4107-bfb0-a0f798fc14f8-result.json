@@ -1,0 +1,44 @@
+{
+  "uuid": "72ad59c1-4c0a-4107-bfb0-a0f798fc14f8",
+  "name": "TestCurrentValues/multi_value",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestCurrentValues/multi_value",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632923806,
+  "stop": 1790632923806,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCurrentValues/multi_value"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

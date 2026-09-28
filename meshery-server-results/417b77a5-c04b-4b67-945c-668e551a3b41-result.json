@@ -1,0 +1,44 @@
+{
+  "uuid": "417b77a5-c04b-4b67-945c-668e551a3b41",
+  "name": "TestDerivedChartVersionIsFlooredToTheOldestWorkingChart/the_floor_itself_is_published",
+  "fullName": "github.com/meshery/meshery/server/models::TestDerivedChartVersionIsFlooredToTheOldestWorkingChart/the_floor_itself_is_published",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632920818,
+  "stop": 1790632920822,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDerivedChartVersionIsFlooredToTheOldestWorkingChart/the_floor_itself_is_published"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

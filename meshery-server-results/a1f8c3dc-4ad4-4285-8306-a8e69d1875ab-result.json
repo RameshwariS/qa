@@ -1,0 +1,44 @@
+{
+  "uuid": "a1f8c3dc-4ad4-4285-8306-a8e69d1875ab",
+  "name": "TestShouldRecordDeploymentModeOverride/a_connection_registered_with_the_inherited_mode_follows_a_later_default_change",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestShouldRecordDeploymentModeOverride/a_connection_registered_with_the_inherited_mode_follows_a_later_default_change",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632918458,
+  "stop": 1790632918461,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestShouldRecordDeploymentModeOverride/a_connection_registered_with_the_inherited_mode_follows_a_later_default_change"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

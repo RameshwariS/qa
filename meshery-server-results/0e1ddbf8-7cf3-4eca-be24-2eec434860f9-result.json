@@ -1,0 +1,44 @@
+{
+  "uuid": "0e1ddbf8-7cf3-4eca-be24-2eec434860f9",
+  "name": "TestGetUserCredentialsRejectsUnsanitizedOrderInput/accepts_legitimate_order_input",
+  "fullName": "github.com/meshery/meshery/server/models::TestGetUserCredentialsRejectsUnsanitizedOrderInput/accepts_legitimate_order_input",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632919978,
+  "stop": 1790632919979,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetUserCredentialsRejectsUnsanitizedOrderInput/accepts_legitimate_order_input"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

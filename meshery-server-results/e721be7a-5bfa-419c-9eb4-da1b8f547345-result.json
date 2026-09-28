@@ -1,0 +1,44 @@
+{
+  "uuid": "e721be7a-5bfa-419c-9eb4-da1b8f547345",
+  "name": "TestRestrictedAccessJSONTagCanonicalSpelling",
+  "fullName": "github.com/meshery/meshery/server/models::TestRestrictedAccessJSONTagCanonicalSpelling",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632936348,
+  "stop": 1790632936348,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRestrictedAccessJSONTagCanonicalSpelling"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

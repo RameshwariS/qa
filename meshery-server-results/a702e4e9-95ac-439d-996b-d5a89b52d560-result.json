@@ -1,0 +1,44 @@
+{
+  "uuid": "a702e4e9-95ac-439d-996b-d5a89b52d560",
+  "name": "TestMachineCtxForConnection/nil_tracked_instance_is_not-ready",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMachineCtxForConnection/nil_tracked_instance_is_not-ready",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632921468,
+  "stop": 1790632921468,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMachineCtxForConnection/nil_tracked_instance_is_not-ready"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

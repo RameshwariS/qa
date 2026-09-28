@@ -1,0 +1,44 @@
+{
+  "uuid": "a6157e9c-701b-42b6-ad96-b565acd8d216",
+  "name": "TestUICacheHeaders/chunks_asset",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders/chunks_asset",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632922495,
+  "stop": 1790632922495,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders/chunks_asset"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

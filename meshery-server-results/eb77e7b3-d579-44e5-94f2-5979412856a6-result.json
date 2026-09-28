@@ -1,0 +1,44 @@
+{
+  "uuid": "eb77e7b3-d579-44e5-94f2-5979412856a6",
+  "name": "TestCredentialPayload",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632919967,
+  "stop": 1790632919968,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

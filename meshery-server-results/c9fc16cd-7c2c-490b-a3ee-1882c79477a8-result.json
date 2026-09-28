@@ -1,0 +1,44 @@
+{
+  "uuid": "c9fc16cd-7c2c-490b-a3ee-1882c79477a8",
+  "name": "TestMetadataPassthrough",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestMetadataPassthrough",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632924435,
+  "stop": 1790632924436,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMetadataPassthrough"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

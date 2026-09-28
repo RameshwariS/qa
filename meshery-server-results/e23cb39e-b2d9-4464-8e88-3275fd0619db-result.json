@@ -1,0 +1,44 @@
+{
+  "uuid": "e23cb39e-b2d9-4464-8e88-3275fd0619db",
+  "name": "TestHandlerWrappers_ForwardToHttputil/writeJSONEmptyObject",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestHandlerWrappers_ForwardToHttputil/writeJSONEmptyObject",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632922498,
+  "stop": 1790632922498,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHandlerWrappers_ForwardToHttputil/writeJSONEmptyObject"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

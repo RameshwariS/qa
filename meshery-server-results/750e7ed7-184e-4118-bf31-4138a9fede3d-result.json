@@ -1,0 +1,44 @@
+{
+  "uuid": "750e7ed7-184e-4118-bf31-4138a9fede3d",
+  "name": "TestSaveEnvironmentHandler_AllowsThenRefusesSameRequest",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSaveEnvironmentHandler_AllowsThenRefusesSameRequest",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632921490,
+  "stop": 1790632921491,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSaveEnvironmentHandler_AllowsThenRefusesSameRequest"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

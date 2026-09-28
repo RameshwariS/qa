@@ -1,0 +1,44 @@
+{
+  "uuid": "89d4b5ae-e84e-44d7-81c6-3cd8ae99759f",
+  "name": "TestExecuteWithholdsDependentsOfAFailedComponent",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestExecuteWithholdsDependentsOfAFailedComponent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632921824,
+  "stop": 1790632921824,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestExecuteWithholdsDependentsOfAFailedComponent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

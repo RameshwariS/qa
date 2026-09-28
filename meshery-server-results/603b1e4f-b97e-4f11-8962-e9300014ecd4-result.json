@@ -1,0 +1,44 @@
+{
+  "uuid": "603b1e4f-b97e-4f11-8962-e9300014ecd4",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632921420,
+  "stop": 1790632921449,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

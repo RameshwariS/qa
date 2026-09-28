@@ -1,0 +1,44 @@
+{
+  "uuid": "c1738b7f-66d3-47d3-814f-0fadc94d4379",
+  "name": "TestSMap",
+  "fullName": "github.com/meshery/meshery/server/internal/sql::TestSMap",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632890711,
+  "stop": 1790632890712,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/internal"
+    },
+    {
+      "name": "suite",
+      "value": "server/internal/sql"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSMap"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

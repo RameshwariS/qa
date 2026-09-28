@@ -1,0 +1,44 @@
+{
+  "uuid": "f9272f72-c880-4a27-8d6d-efe4e6d8f150",
+  "name": "TestIsDesignInAlpha2Format/future_designs.meshery.io_version_is_current_(not_alpha2)",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/utils::TestIsDesignInAlpha2Format/future_designs.meshery.io_version_is_current_(not_alpha2)",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632922996,
+  "stop": 1790632922996,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsDesignInAlpha2Format/future_designs.meshery.io_version_is_current_(not_alpha2)"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

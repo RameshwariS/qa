@@ -1,0 +1,44 @@
+{
+  "uuid": "97872880-e33e-46bd-baf2-06587147bcac",
+  "name": "TestPatternResourceWireContractMatchesSchemas",
+  "fullName": "github.com/meshery/meshery/server/models::TestPatternResourceWireContractMatchesSchemas",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632920916,
+  "stop": 1790632920916,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPatternResourceWireContractMatchesSchemas"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

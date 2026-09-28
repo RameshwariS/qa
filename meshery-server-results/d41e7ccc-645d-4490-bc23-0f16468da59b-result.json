@@ -1,0 +1,44 @@
+{
+  "uuid": "d41e7ccc-645d-4490-bc23-0f16468da59b",
+  "name": "TestGetWorkspacesHandler_AcceptsOrgIdAndLegacyOrgID/missing_parameter_returns_400",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetWorkspacesHandler_AcceptsOrgIdAndLegacyOrgID/missing_parameter_returns_400",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632922534,
+  "stop": 1790632922534,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetWorkspacesHandler_AcceptsOrgIdAndLegacyOrgID/missing_parameter_returns_400"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

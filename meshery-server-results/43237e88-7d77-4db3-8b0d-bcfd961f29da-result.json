@@ -1,0 +1,44 @@
+{
+  "uuid": "43237e88-7d77-4db3-8b0d-bcfd961f29da",
+  "name": "TestGetAll",
+  "fullName": "github.com/meshery/meshery/server/internal/store::TestGetAll",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790632891056,
+  "stop": 1790632891056,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/internal"
+    },
+    {
+      "name": "suite",
+      "value": "server/internal/store"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetAll"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
