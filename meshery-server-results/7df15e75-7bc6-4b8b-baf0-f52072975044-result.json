@@ -1,0 +1,44 @@
+{
+  "uuid": "7df15e75-7bc6-4b8b-baf0-f52072975044",
+  "name": "TestAnonymousFlowResponseDecodesSchemasContract",
+  "fullName": "github.com/meshery/meshery/server/models::TestAnonymousFlowResponseDecodesSchemasContract",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616888921,
+  "stop": 1790616888923,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAnonymousFlowResponseDecodesSchemasContract"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

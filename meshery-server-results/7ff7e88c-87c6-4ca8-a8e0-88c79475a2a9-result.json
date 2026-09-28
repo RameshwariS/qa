@@ -1,0 +1,44 @@
+{
+  "uuid": "7ff7e88c-87c6-4ca8-a8e0-88c79475a2a9",
+  "name": "TestAggregateSummariesByKind/distinct_kinds_are_preserved_in_first-seen_order",
+  "fullName": "github.com/meshery/meshery/server/models::TestAggregateSummariesByKind/distinct_kinds_are_preserved_in_first-seen_order",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790617004572,
+  "stop": 1790617004572,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAggregateSummariesByKind/distinct_kinds_are_preserved_in_first-seen_order"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

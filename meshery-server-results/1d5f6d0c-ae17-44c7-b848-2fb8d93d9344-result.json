@@ -1,0 +1,44 @@
+{
+  "uuid": "1d5f6d0c-ae17-44c7-b848-2fb8d93d9344",
+  "name": "TestGetOrganizations_PropagatesProviderStatus",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetOrganizations_PropagatesProviderStatus",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616894352,
+  "stop": 1790616894353,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetOrganizations_PropagatesProviderStatus"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

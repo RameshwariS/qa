@@ -1,0 +1,44 @@
+{
+  "uuid": "aa8ca9b9-acb5-484e-af23-6d8ac1ce6b71",
+  "name": "TestResolveSchemaPath/open_schema_many_levels",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolveSchemaPath/open_schema_many_levels",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616931804,
+  "stop": 1790616931804,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveSchemaPath/open_schema_many_levels"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

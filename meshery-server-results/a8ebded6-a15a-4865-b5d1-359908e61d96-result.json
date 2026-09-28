@@ -1,0 +1,44 @@
+{
+  "uuid": "a8ebded6-a15a-4865-b5d1-359908e61d96",
+  "name": "TestOrganizationsPage_UnmarshalResetsFieldsOnReuse",
+  "fullName": "github.com/meshery/meshery/server/models::TestOrganizationsPage_UnmarshalResetsFieldsOnReuse",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616891031,
+  "stop": 1790616891031,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestOrganizationsPage_UnmarshalResetsFieldsOnReuse"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

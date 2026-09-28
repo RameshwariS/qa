@@ -1,0 +1,44 @@
+{
+  "uuid": "c52bb069-2738-4285-89dc-979fe4bd6fc3",
+  "name": "TestResolutionFailsWhenNothingUsableIsPublished",
+  "fullName": "github.com/meshery/meshery/server/models::TestResolutionFailsWhenNothingUsableIsPublished",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616890962,
+  "stop": 1790616890962,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolutionFailsWhenNothingUsableIsPublished"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

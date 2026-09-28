@@ -1,0 +1,44 @@
+{
+  "uuid": "12d7b88d-7173-4a37-882f-544a951ff02a",
+  "name": "TestEncodeDecodeRoundtrip/given_absolute_url_when_EncodeRefUrl_and_DecodeRefURL_then_return_original_url",
+  "fullName": "github.com/meshery/meshery/server/core::TestEncodeDecodeRoundtrip/given_absolute_url_when_EncodeRefUrl_and_DecodeRefURL_then_return_original_url",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616807925,
+  "stop": 1790616807925,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/core"
+    },
+    {
+      "name": "suite",
+      "value": "server/core"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEncodeDecodeRoundtrip/given_absolute_url_when_EncodeRefUrl_and_DecodeRefURL_then_return_original_url"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

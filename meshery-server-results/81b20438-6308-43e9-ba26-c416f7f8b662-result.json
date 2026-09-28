@@ -1,0 +1,44 @@
+{
+  "uuid": "81b20438-6308-43e9-ba26-c416f7f8b662",
+  "name": "TestSaveWorkspaceHandler_SetsContentTypeOnSuccess",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSaveWorkspaceHandler_SetsContentTypeOnSuccess",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790616894443,
+  "stop": 1790616894443,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSaveWorkspaceHandler_SetsContentTypeOnSuccess"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
