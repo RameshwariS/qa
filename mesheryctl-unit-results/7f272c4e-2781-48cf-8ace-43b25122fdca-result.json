@@ -1,0 +1,44 @@
+{
+  "uuid": "7f272c4e-2781-48cf-8ace-43b25122fdca",
+  "name": "TestPluralize",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestPluralize",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637198033,
+  "stop": 1790637198033,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPluralize"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

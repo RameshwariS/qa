@@ -1,0 +1,44 @@
+{
+  "uuid": "ea8e5d74-2497-4006-ad32-274498f34f10",
+  "name": "TestSetCmdWritesToTheActiveConfigNotTheSharedFixture",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/system::TestSetCmdWritesToTheActiveConfigNotTheSharedFixture",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637203676,
+  "stop": 1790637203686,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/system"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSetCmdWritesToTheActiveConfigNotTheSharedFixture"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

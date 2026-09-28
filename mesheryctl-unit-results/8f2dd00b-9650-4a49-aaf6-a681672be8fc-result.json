@@ -1,0 +1,44 @@
+{
+  "uuid": "8f2dd00b-9650-4a49-aaf6-a681672be8fc",
+  "name": "TestConnectionListCmd/given_a_--pagesize_flag_provided_when_running_mesheryctl_connection_list_--pagesize_page-size-number_then_the_list_of_connections_with_specified_pagesize_is_displayed",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/connections::TestConnectionListCmd/given_a_--pagesize_flag_provided_when_running_mesheryctl_connection_list_--pagesize_page-size-number_then_the_list_of_connections_with_specified_pagesize_is_displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637180323,
+  "stop": 1790637180327,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestConnectionListCmd/given_a_--pagesize_flag_provided_when_running_mesheryctl_connection_list_--pagesize_page-size-number_then_the_list_of_connections_with_specified_pagesize_is_displayed"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

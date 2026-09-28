@@ -1,0 +1,44 @@
+{
+  "uuid": "8ccfa059-22da-43c8-a19d-b5633bbbb3ec",
+  "name": "TestFilterCmd/Filter_command_with_no_args",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/filter::TestFilterCmd/Filter_command_with_no_args",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637188412,
+  "stop": 1790637188414,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/filter"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFilterCmd/Filter_command_with_no_args"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

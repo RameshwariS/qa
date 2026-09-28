@@ -1,0 +1,44 @@
+{
+  "uuid": "d5149743-5817-40a9-b4d0-7603233723ec",
+  "name": "TestPlanModelVersionsIgnoresSymlinks",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestPlanModelVersionsIgnoresSymlinks",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637198019,
+  "stop": 1790637198020,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPlanModelVersionsIgnoresSymlinks"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
