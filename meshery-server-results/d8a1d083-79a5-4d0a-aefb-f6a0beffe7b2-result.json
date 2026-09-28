@@ -1,0 +1,44 @@
+{
+  "uuid": "d8a1d083-79a5-4d0a-aefb-f6a0beffe7b2",
+  "name": "TestRelationshipMutationPathsResolveAgainstComponentSchemas",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRelationshipMutationPathsResolveAgainstComponentSchemas",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637225549,
+  "stop": 1790637245765,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRelationshipMutationPathsResolveAgainstComponentSchemas"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

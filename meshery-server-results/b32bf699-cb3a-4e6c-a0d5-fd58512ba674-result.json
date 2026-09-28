@@ -1,0 +1,44 @@
+{
+  "uuid": "b32bf699-cb3a-4e6c-a0d5-fd58512ba674",
+  "name": "TestEventsPersisterPersistEventAcceptsStructValue",
+  "fullName": "github.com/meshery/meshery/server/models::TestEventsPersisterPersistEventAcceptsStructValue",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637211695,
+  "stop": 1790637211698,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEventsPersisterPersistEventAcceptsStructValue"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

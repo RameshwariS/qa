@@ -1,0 +1,44 @@
+{
+  "uuid": "24fc3b70-a15f-4eb8-b59f-99c470b665e7",
+  "name": "TestWriteMeshkitError_NilFallsBackToGenericMessage",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWriteMeshkitError_NilFallsBackToGenericMessage",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212130,
+  "stop": 1790637212130,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWriteMeshkitError_NilFallsBackToGenericMessage"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

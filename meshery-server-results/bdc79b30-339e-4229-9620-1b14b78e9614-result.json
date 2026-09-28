@@ -1,0 +1,44 @@
+{
+  "uuid": "bdc79b30-339e-4229-9620-1b14b78e9614",
+  "name": "TestMeshSyncResourcesSummaryKindsAreCamelCase",
+  "fullName": "github.com/meshery/meshery/server/models::TestMeshSyncResourcesSummaryKindsAreCamelCase",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212455,
+  "stop": 1790637212455,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMeshSyncResourcesSummaryKindsAreCamelCase"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "e9636540-02cb-46bc-983d-9ae7dbb99e4f",
+  "name": "TestB4WizardAndEditorShareOneDeploymentModeStore/nil_metadata_is_a_no-op,_not_a_panic",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB4WizardAndEditorShareOneDeploymentModeStore/nil_metadata_is_a_no-op,_not_a_panic",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637211107,
+  "stop": 1790637211107,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB4WizardAndEditorShareOneDeploymentModeStore/nil_metadata_is_a_no-op,_not_a_panic"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

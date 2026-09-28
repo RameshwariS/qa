@@ -1,0 +1,44 @@
+{
+  "uuid": "9e59848e-116c-4645-8668-e776026fa2ce",
+  "name": "TestValidateControllersConfig/valid_replicas",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/valid_replicas",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637211098,
+  "stop": 1790637211098,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/valid_replicas"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

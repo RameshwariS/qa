@@ -1,0 +1,46 @@
+{
+  "uuid": "a80b4dd0-b232-466b-8c6b-bfb68daa6cf7",
+  "name": "TestResolvePostLoginRedirect",
+  "fullName": "github.com/meshery/meshery/server/models::TestResolvePostLoginRedirect",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212016,
+  "stop": 1790637308419,
+  "statusDetails": {
+    "message": "=== PAUSE TestResolvePostLoginRedirect\n=== CONT  TestResolvePostLoginRedirect"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolvePostLoginRedirect"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

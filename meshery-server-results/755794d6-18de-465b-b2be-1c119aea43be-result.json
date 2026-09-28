@@ -1,0 +1,44 @@
+{
+  "uuid": "755794d6-18de-465b-b2be-1c119aea43be",
+  "name": "TestGetBoardNormalizesPanelsAndDatasources",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestGetBoardNormalizesPanelsAndDatasources",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637216194,
+  "stop": 1790637216196,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetBoardNormalizesPanelsAndDatasources"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

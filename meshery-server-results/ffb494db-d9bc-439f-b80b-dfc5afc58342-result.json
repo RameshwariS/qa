@@ -1,0 +1,44 @@
+{
+  "uuid": "ffb494db-d9bc-439f-b80b-dfc5afc58342",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/server_defaults",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/server_defaults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637213877,
+  "stop": 1790637213878,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/server_defaults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

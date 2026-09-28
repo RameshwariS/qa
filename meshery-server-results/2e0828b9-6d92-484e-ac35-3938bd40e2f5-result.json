@@ -1,0 +1,44 @@
+{
+  "uuid": "2e0828b9-6d92-484e-ac35-3938bd40e2f5",
+  "name": "TestMovingChartVersionNeverReachesHelm/latest",
+  "fullName": "github.com/meshery/meshery/server/models::TestMovingChartVersionNeverReachesHelm/latest",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212464,
+  "stop": 1790637212464,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMovingChartVersionNeverReachesHelm/latest"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

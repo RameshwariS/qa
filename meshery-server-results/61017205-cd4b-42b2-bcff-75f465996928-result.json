@@ -1,0 +1,44 @@
+{
+  "uuid": "61017205-cd4b-42b2-bcff-75f465996928",
+  "name": "TestMapPreferencePersisterReadFromPersisterReturnsPersistedPreference",
+  "fullName": "github.com/meshery/meshery/server/models::TestMapPreferencePersisterReadFromPersisterReturnsPersistedPreference",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212654,
+  "stop": 1790637212654,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMapPreferencePersisterReadFromPersisterReturnsPersistedPreference"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d7f1370c-0e3a-443f-bfff-7e1fbc3a1b41",
+  "name": "TestDatasourceUID",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestDatasourceUID",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637216196,
+  "stop": 1790637216197,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDatasourceUID"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

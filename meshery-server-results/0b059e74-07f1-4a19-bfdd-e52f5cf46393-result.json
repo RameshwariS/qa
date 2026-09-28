@@ -1,0 +1,44 @@
+{
+  "uuid": "0b059e74-07f1-4a19-bfdd-e52f5cf46393",
+  "name": "TestSessionPreferencePersisterReadFromPersisterReturnsDefaultsForStoredNull",
+  "fullName": "github.com/meshery/meshery/server/models::TestSessionPreferencePersisterReadFromPersisterReturnsDefaultsForStoredNull",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212659,
+  "stop": 1790637212661,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSessionPreferencePersisterReadFromPersisterReturnsDefaultsForStoredNull"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

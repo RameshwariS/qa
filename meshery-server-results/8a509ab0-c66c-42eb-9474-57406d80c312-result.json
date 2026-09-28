@@ -1,0 +1,44 @@
+{
+  "uuid": "8a509ab0-c66c-42eb-9474-57406d80c312",
+  "name": "TestB3ServerWideDeploymentModeReachesInheritingConnection/never_resolves_to_undefined",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB3ServerWideDeploymentModeReachesInheritingConnection/never_resolves_to_undefined",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637211104,
+  "stop": 1790637211104,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB3ServerWideDeploymentModeReachesInheritingConnection/never_resolves_to_undefined"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

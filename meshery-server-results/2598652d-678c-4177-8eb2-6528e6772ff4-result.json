@@ -1,0 +1,44 @@
+{
+  "uuid": "2598652d-678c-4177-8eb2-6528e6772ff4",
+  "name": "TestMesheryPattern_UnmarshalCanonicalWinsOverLegacy",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryPattern_UnmarshalCanonicalWinsOverLegacy",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212022,
+  "stop": 1790637212023,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPattern_UnmarshalCanonicalWinsOverLegacy"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

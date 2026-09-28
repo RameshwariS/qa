@@ -1,0 +1,44 @@
+{
+  "uuid": "5a876a82-1730-4b58-b14e-33478f951ea6",
+  "name": "TestDerivedChartVersionAtOrAboveTheFloorIsUsedVerbatim",
+  "fullName": "github.com/meshery/meshery/server/models::TestDerivedChartVersionAtOrAboveTheFloorIsUsedVerbatim",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212458,
+  "stop": 1790637212462,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDerivedChartVersionAtOrAboveTheFloorIsUsedVerbatim"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

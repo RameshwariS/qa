@@ -1,0 +1,44 @@
+{
+  "uuid": "cc4bfdf5-2132-436d-ad5c-9cc4c6c8c669",
+  "name": "TestSendEvent_DeDuplicatesRepeatFailure",
+  "fullName": "github.com/meshery/meshery/server/machines::TestSendEvent_DeDuplicatesRepeatFailure",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637196246,
+  "stop": 1790637196246,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSendEvent_DeDuplicatesRepeatFailure"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

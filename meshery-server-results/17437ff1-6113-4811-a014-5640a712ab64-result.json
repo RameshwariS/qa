@@ -1,0 +1,44 @@
+{
+  "uuid": "17437ff1-6113-4811-a014-5640a712ab64",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_broker.service.type",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_broker.service.type",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637213874,
+  "stop": 1790637213876,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_broker.service.type"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

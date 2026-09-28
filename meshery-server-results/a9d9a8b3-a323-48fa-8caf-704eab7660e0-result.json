@@ -1,0 +1,44 @@
+{
+  "uuid": "a9d9a8b3-a323-48fa-8caf-704eab7660e0",
+  "name": "TestPerformanceTestConfigValidator",
+  "fullName": "github.com/meshery/meshery/server/models::TestPerformanceTestConfigValidator",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637308414,
+  "stop": 1790637308415,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPerformanceTestConfigValidator"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

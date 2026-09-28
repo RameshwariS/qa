@@ -1,0 +1,44 @@
+{
+  "uuid": "1c81fa2b-57fb-4bed-88db-7991dffce3d1",
+  "name": "TestExplicitChartVersionFailsLoudlyWhenUnusable",
+  "fullName": "github.com/meshery/meshery/server/models::TestExplicitChartVersionFailsLoudlyWhenUnusable",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212465,
+  "stop": 1790637212466,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestExplicitChartVersionFailsLoudlyWhenUnusable"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

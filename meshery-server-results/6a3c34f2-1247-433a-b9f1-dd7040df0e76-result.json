@@ -1,0 +1,44 @@
+{
+  "uuid": "6a3c34f2-1247-433a-b9f1-dd7040df0e76",
+  "name": "TestCreatePlanOrdersDeclaredDependencies",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanOrdersDeclaredDependencies",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637213570,
+  "stop": 1790637213571,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanOrdersDeclaredDependencies"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

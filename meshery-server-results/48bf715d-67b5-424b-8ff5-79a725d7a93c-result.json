@@ -1,0 +1,44 @@
+{
+  "uuid": "48bf715d-67b5-424b-8ff5-79a725d7a93c",
+  "name": "TestMesheryPatternPOSTRequestBody_UnmarshalAbsentZeroes",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMesheryPatternPOSTRequestBody_UnmarshalAbsentZeroes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637214737,
+  "stop": 1790637214737,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPatternPOSTRequestBody_UnmarshalAbsentZeroes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "200620c5-1090-49d7-ba89-9464e25b5bfd",
+  "name": "TestCredentialPayload/a_payload_carrying_its_own_secret_field_is_not_unwrapped",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload/a_payload_carrying_its_own_secret_field_is_not_unwrapped",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637211690,
+  "stop": 1790637211690,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload/a_payload_carrying_its_own_secret_field_is_not_unwrapped"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "a2e46d8a-9e49-49d5-a584-494895d42aa0",
+  "name": "TestProvisionTerminatesOnCyclicDependencies",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionTerminatesOnCyclicDependencies",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637214549,
+  "stop": 1790637214565,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionTerminatesOnCyclicDependencies"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

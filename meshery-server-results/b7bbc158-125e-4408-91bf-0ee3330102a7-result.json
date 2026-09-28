@@ -1,0 +1,44 @@
+{
+  "uuid": "b7bbc158-125e-4408-91bf-0ee3330102a7",
+  "name": "TestMesheryPatternOmitsOwnerWhenUnset",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryPatternOmitsOwnerWhenUnset",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790637212021,
+  "stop": 1790637212021,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPatternOmitsOwnerWhenUnset"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
