@@ -1,0 +1,46 @@
+{
+  "uuid": "3e809591-11b7-431b-a0a5-f3854ea3c7cd",
+  "name": "TestSelectPostLoginRefValue",
+  "fullName": "github.com/meshery/meshery/server/models::TestSelectPostLoginRefValue",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373428,
+  "stop": 1790787485357,
+  "statusDetails": {
+    "message": "=== PAUSE TestSelectPostLoginRefValue\n=== CONT  TestSelectPostLoginRefValue"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSelectPostLoginRefValue"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

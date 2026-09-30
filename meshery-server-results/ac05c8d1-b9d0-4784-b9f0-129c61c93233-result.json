@@ -1,0 +1,44 @@
+{
+  "uuid": "ac05c8d1-b9d0-4784-b9f0-129c61c93233",
+  "name": "TestStatusForProviderError_FallsBackWhenUnknown",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestStatusForProviderError_FallsBackWhenUnknown",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787372944,
+  "stop": 1790787372944,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStatusForProviderError_FallsBackWhenUnknown"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

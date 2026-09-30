@@ -1,0 +1,44 @@
+{
+  "uuid": "8196a0d6-fa52-4986-9844-9202f1168c57",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerSourceRanges_without_service.type_LoadBalancer/connection_override",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerSourceRanges_without_service.type_LoadBalancer/connection_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787376073,
+  "stop": 1790787376074,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerSourceRanges_without_service.type_LoadBalancer/connection_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

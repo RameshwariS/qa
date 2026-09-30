@@ -1,0 +1,44 @@
+{
+  "uuid": "175c0601-cbe6-4120-8cee-8090fb391c1e",
+  "name": "TestUpdateConnectionControllersConfig_InheritRoundTripRemovesField",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUpdateConnectionControllersConfig_InheritRoundTripRemovesField",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787376085,
+  "stop": 1790787376089,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUpdateConnectionControllersConfig_InheritRoundTripRemovesField"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

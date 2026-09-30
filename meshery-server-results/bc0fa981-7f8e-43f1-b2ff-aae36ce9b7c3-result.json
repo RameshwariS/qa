@@ -1,0 +1,44 @@
+{
+  "uuid": "bc0fa981-7f8e-43f1-b2ff-aae36ce9b7c3",
+  "name": "TestCreatePlanRejectsCyclicDependencies",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanRejectsCyclicDependencies",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787375265,
+  "stop": 1790787375265,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanRejectsCyclicDependencies"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

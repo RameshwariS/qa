@@ -1,0 +1,44 @@
+{
+  "uuid": "040bf293-74a5-4170-af79-a05bb9d1fd2f",
+  "name": "TestMesheryFilterRequestBody_UnmarshalAcceptsBothSpellings",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryFilterRequestBody_UnmarshalAcceptsBothSpellings",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373430,
+  "stop": 1790787373431,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryFilterRequestBody_UnmarshalAcceptsBothSpellings"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

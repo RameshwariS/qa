@@ -1,0 +1,44 @@
+{
+  "uuid": "d2137d61-a9b7-47e6-8499-75ba0c5c4483",
+  "name": "TestK8sContextFromConnectionCredentialShapes/credential_form_double-nested_shape",
+  "fullName": "github.com/meshery/meshery/server/models::TestK8sContextFromConnectionCredentialShapes/credential_form_double-nested_shape",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373292,
+  "stop": 1790787373294,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sContextFromConnectionCredentialShapes/credential_form_double-nested_shape"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

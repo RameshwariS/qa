@@ -1,0 +1,44 @@
+{
+  "uuid": "a65f7049-45ef-46a3-91f2-6a3adf962e5f",
+  "name": "TestHandlerWrappers_ForwardToHttputil/writeJSONError",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestHandlerWrappers_ForwardToHttputil/writeJSONError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787377110,
+  "stop": 1790787377110,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHandlerWrappers_ForwardToHttputil/writeJSONError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

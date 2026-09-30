@@ -1,0 +1,44 @@
+{
+  "uuid": "70e80ef6-5dd0-4e6e-a53a-8fce81035ced",
+  "name": "TestSubscribeMesheryControllersStatusHandler_EmitsInitialSnapshot",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSubscribeMesheryControllersStatusHandler_EmitsInitialSnapshot",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787376098,
+  "stop": 1790787376099,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSubscribeMesheryControllersStatusHandler_EmitsInitialSnapshot"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

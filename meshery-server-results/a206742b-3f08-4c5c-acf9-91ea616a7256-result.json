@@ -1,0 +1,44 @@
+{
+  "uuid": "a206742b-3f08-4c5c-acf9-91ea616a7256",
+  "name": "TestDecodePerformanceTestConfigSupportsLegacyStoredJSON",
+  "fullName": "github.com/meshery/meshery/server/models::TestDecodePerformanceTestConfigSupportsLegacyStoredJSON",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787485347,
+  "stop": 1790787485348,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDecodePerformanceTestConfigSupportsLegacyStoredJSON"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

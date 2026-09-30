@@ -1,0 +1,44 @@
+{
+  "uuid": "6552d34d-abd7-48c2-ac86-66314ee8cfd4",
+  "name": "TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath",
+  "fullName": "github.com/meshery/meshery/server/models::TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787389945,
+  "stop": 1790787390160,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

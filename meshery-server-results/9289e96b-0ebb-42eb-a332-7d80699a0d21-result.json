@@ -1,0 +1,44 @@
+{
+  "uuid": "9289e96b-0ebb-42eb-a332-7d80699a0d21",
+  "name": "TestDeployIsRefusedWhileNoChartVersionResolves",
+  "fullName": "github.com/meshery/meshery/server/models::TestDeployIsRefusedWhileNoChartVersionResolves",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373924,
+  "stop": 1790787373925,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeployIsRefusedWhileNoChartVersionResolves"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "edc66537-f4da-4805-ace3-4e0580a72dba",
+  "name": "TestK8sContextsFromKubeconfigDiscoversAllContexts",
+  "fullName": "github.com/meshery/meshery/server/models::TestK8sContextsFromKubeconfigDiscoversAllContexts",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373323,
+  "stop": 1790787373336,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sContextsFromKubeconfigDiscoversAllContexts"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

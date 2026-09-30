@@ -1,0 +1,44 @@
+{
+  "uuid": "c312d540-2d0b-49ee-bec3-a2b46a76344b",
+  "name": "TestAnonymousFlowResponseIsTheSchemasType",
+  "fullName": "github.com/meshery/meshery/server/models::TestAnonymousFlowResponseIsTheSchemasType",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787371755,
+  "stop": 1790787371755,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAnonymousFlowResponseIsTheSchemasType"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "21c7030e-40a4-4aff-b7fa-61af648a402c",
+  "name": "TestExecutePropagatesWithholdingAlongTheChain",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestExecutePropagatesWithholdingAlongTheChain",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787375263,
+  "stop": 1790787375264,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestExecutePropagatesWithholdingAlongTheChain"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

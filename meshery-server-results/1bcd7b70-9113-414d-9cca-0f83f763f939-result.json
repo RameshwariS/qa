@@ -1,0 +1,44 @@
+{
+  "uuid": "1bcd7b70-9113-414d-9cca-0f83f763f939",
+  "name": "TestK8sEventMetadataHasError/only_successful_contexts_report_no_error",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestK8sEventMetadataHasError/only_successful_contexts_report_no_error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787376947,
+  "stop": 1790787376947,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sEventMetadataHasError/only_successful_contexts_report_no_error"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

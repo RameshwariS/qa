@@ -1,0 +1,44 @@
+{
+  "uuid": "017e6938-10b4-43c7-81c8-3fd5044cb530",
+  "name": "TestTemplateQueryString/missing",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestTemplateQueryString/missing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787377253,
+  "stop": 1790787377253,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestTemplateQueryString/missing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

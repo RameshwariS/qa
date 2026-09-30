@@ -1,0 +1,44 @@
+{
+  "uuid": "0951f106-361c-4819-95ed-9775e3ed44f7",
+  "name": "TestRegoSyntax/hierarchical_parent_child_policy.rego",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoSyntax/hierarchical_parent_child_policy.rego",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787389467,
+  "stop": 1790787389468,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoSyntax/hierarchical_parent_child_policy.rego"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

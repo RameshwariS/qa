@@ -1,0 +1,44 @@
+{
+  "uuid": "1e422a19-1d11-452d-a124-8b445c41c960",
+  "name": "TestSeedKeysChildGoroutinePanicIsContained",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedKeysChildGoroutinePanicIsContained",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373336,
+  "stop": 1790787373349,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedKeysChildGoroutinePanicIsContained"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

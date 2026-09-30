@@ -1,0 +1,44 @@
+{
+  "uuid": "e5c05f98-bf70-4105-8d41-83eafc9ab06f",
+  "name": "TestFloorFallsBackToNewestWhenNothingReachesIt",
+  "fullName": "github.com/meshery/meshery/server/models::TestFloorFallsBackToNewestWhenNothingReachesIt",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373906,
+  "stop": 1790787373907,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFloorFallsBackToNewestWhenNothingReachesIt"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

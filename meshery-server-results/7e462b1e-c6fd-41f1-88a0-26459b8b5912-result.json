@@ -1,0 +1,44 @@
+{
+  "uuid": "7e462b1e-c6fd-41f1-88a0-26459b8b5912",
+  "name": "TestIsAliasRelationship/alias",
+  "fullName": "github.com/meshery/meshery/server/policies::TestIsAliasRelationship/alias",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787386643,
+  "stop": 1790787386643,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsAliasRelationship/alias"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

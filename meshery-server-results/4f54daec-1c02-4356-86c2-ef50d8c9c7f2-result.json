@@ -1,0 +1,44 @@
+{
+  "uuid": "4f54daec-1c02-4356-86c2-ef50d8c9c7f2",
+  "name": "TestCreatePlanRejectsMalformedDependencyDeclaration",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanRejectsMalformedDependencyDeclaration",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787375262,
+  "stop": 1790787375263,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanRejectsMalformedDependencyDeclaration"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

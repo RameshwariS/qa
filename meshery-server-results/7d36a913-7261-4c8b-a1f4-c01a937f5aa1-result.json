@@ -1,0 +1,44 @@
+{
+  "uuid": "7d36a913-7261-4c8b-a1f4-c01a937f5aa1",
+  "name": "TestRegoPolicyRules",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoPolicyRules",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787387378,
+  "stop": 1790787388263,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoPolicyRules"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

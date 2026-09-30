@@ -1,0 +1,44 @@
+{
+  "uuid": "7c6c4f23-9657-4fa8-8b60-6e5dd015a74e",
+  "name": "TestCredentialAuthSecret/legacy_double-nested_grafana_payload",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret/legacy_double-nested_grafana_payload",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373067,
+  "stop": 1790787373067,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret/legacy_double-nested_grafana_payload"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

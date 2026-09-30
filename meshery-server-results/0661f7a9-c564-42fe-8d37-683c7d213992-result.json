@@ -1,0 +1,44 @@
+{
+  "uuid": "0661f7a9-c564-42fe-8d37-683c7d213992",
+  "name": "TestChartIndexCacheSurvivesAPanickingFetch",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheSurvivesAPanickingFetch",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787332255,
+  "stop": 1790787332256,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheSurvivesAPanickingFetch"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

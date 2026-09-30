@@ -1,0 +1,44 @@
+{
+  "uuid": "226c0859-37f6-4023-a679-2bb8b248e468",
+  "name": "TestReconcileInstallGoesThroughTheSharedGuard",
+  "fullName": "github.com/meshery/meshery/server/models::TestReconcileInstallGoesThroughTheSharedGuard",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787373958,
+  "stop": 1790787373958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestReconcileInstallGoesThroughTheSharedGuard"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "a313ded1-aac4-438f-acdb-7df124c52817",
+  "name": "TestReconcileInheritedDeploymentMode_SkipsConnectionWithUnparseableOverride",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestReconcileInheritedDeploymentMode_SkipsConnectionWithUnparseableOverride",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787376096,
+  "stop": 1790787376097,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestReconcileInheritedDeploymentMode_SkipsConnectionWithUnparseableOverride"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

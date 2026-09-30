@@ -1,0 +1,44 @@
+{
+  "uuid": "d277d5de-4f81-4c01-a6d6-3e64c8f8e755",
+  "name": "TestEncodeRefUrl",
+  "fullName": "github.com/meshery/meshery/server/core::TestEncodeRefUrl",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787286342,
+  "stop": 1790787286343,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/core"
+    },
+    {
+      "name": "suite",
+      "value": "server/core"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEncodeRefUrl"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
