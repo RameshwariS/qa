@@ -1,0 +1,44 @@
+{
+  "uuid": "eccbe46f-d610-43fe-b4a2-9eeb6dfea17d",
+  "name": "TestProfileCmd/given_json_output_flag_when_profile_then_display_profiles_in_json_format",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/perf::TestProfileCmd/given_json_output_flag_when_profile_then_display_profiles_in_json_format",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787362180,
+  "stop": 1790787362210,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/perf"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProfileCmd/given_json_output_flag_when_profile_then_display_profiles_in_json_format"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

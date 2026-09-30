@@ -1,0 +1,44 @@
+{
+  "uuid": "c79caa62-c845-4831-bcb8-50e33db142fb",
+  "name": "TestIsBrokerPodName/meshery-broker-0",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/system::TestIsBrokerPodName/meshery-broker-0",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787372981,
+  "stop": 1790787372981,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/system"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsBrokerPodName/meshery-broker-0"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

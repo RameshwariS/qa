@@ -1,0 +1,44 @@
+{
+  "uuid": "c6d61a38-ef44-4118-97e9-a01e51f57029",
+  "name": "TestPromptPageHandlerFailsClearlyWithoutTerminal",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/pkg/display::TestPromptPageHandlerFailsClearlyWithoutTerminal",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787339910,
+  "stop": 1790787339910,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/pkg/display"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPromptPageHandlerFailsClearlyWithoutTerminal"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

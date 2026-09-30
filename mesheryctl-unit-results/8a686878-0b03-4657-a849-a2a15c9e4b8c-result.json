@@ -1,0 +1,44 @@
+{
+  "uuid": "8a686878-0b03-4657-a849-a2a15c9e4b8c",
+  "name": "TestAuth/GetTokenLocation",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestAuth/GetTokenLocation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787375097,
+  "stop": 1790787375097,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAuth/GetTokenLocation"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

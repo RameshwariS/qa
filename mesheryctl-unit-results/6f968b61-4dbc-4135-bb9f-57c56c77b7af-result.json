@@ -1,0 +1,44 @@
+{
+  "uuid": "6f968b61-4dbc-4135-bb9f-57c56c77b7af",
+  "name": "TestClosestArgs/Test_minimum",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestClosestArgs/Test_minimum",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787375099,
+  "stop": 1790787375100,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestClosestArgs/Test_minimum"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

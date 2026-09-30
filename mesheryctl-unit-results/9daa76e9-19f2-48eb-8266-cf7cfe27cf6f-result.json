@@ -1,0 +1,44 @@
+{
+  "uuid": "9daa76e9-19f2-48eb-8266-cf7cfe27cf6f",
+  "name": "TestBuildPurgePlan/default_exclusions_honoured,_retain=1",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestBuildPurgePlan/default_exclusions_honoured,_retain=1",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790787363202,
+  "stop": 1790787363203,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBuildPurgePlan/default_exclusions_honoured,_retain=1"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
