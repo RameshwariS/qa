@@ -1,0 +1,44 @@
+{
+  "uuid": "fd1b8f78-ef5e-49e7-aaff-c4520913e17f",
+  "name": "TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/anonymous_session",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/anonymous_session",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795423821,
+  "stop": 1790795424133,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/anonymous_session"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

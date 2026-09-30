@@ -1,0 +1,44 @@
+{
+  "uuid": "491e15e2-fe86-4b32-93c9-cc8a11fd54ce",
+  "name": "TestProvisionWithholdsDependentsWhenAComponentFailedOnOneOfSeveralClusters",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionWithholdsDependentsWhenAComponentFailedOnOneOfSeveralClusters",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795410123,
+  "stop": 1790795410142,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionWithholdsDependentsWhenAComponentFailedOnOneOfSeveralClusters"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

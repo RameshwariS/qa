@@ -1,0 +1,44 @@
+{
+  "uuid": "86e57760-f3e9-438b-93aa-0f0691c6037a",
+  "name": "TestChartIndexCacheDistinguishesEmptyFromUnreadable",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheDistinguishesEmptyFromUnreadable",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795369671,
+  "stop": 1790795369672,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheDistinguishesEmptyFromUnreadable"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

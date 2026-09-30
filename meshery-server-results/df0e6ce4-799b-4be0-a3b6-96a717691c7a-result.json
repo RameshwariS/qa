@@ -1,0 +1,44 @@
+{
+  "uuid": "df0e6ce4-799b-4be0-a3b6-96a717691c7a",
+  "name": "TestProviderTracker_LocalReportsOnlineWithoutNetwork",
+  "fullName": "github.com/meshery/meshery/server/models::TestProviderTracker_LocalReportsOnlineWithoutNetwork",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795408602,
+  "stop": 1790795408602,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProviderTracker_LocalReportsOnlineWithoutNetwork"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

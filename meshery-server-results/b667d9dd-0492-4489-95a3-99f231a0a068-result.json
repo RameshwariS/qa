@@ -1,0 +1,44 @@
+{
+  "uuid": "b667d9dd-0492-4489-95a3-99f231a0a068",
+  "name": "TestUpdateConnectionControllersConfig_EmptyDocumentClearsOverride",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUpdateConnectionControllersConfig_EmptyDocumentClearsOverride",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795415980,
+  "stop": 1790795415982,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUpdateConnectionControllersConfig_EmptyDocumentClearsOverride"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

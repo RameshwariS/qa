@@ -1,0 +1,44 @@
+{
+  "uuid": "3cad51eb-6150-4541-abd4-16e6f4e7097d",
+  "name": "TestFormatRegistrantSummary",
+  "fullName": "github.com/meshery/meshery/server/models::TestFormatRegistrantSummary",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795518809,
+  "stop": 1790795518809,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFormatRegistrantSummary"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

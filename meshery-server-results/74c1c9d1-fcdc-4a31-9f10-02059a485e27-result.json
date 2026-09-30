@@ -1,0 +1,44 @@
+{
+  "uuid": "74c1c9d1-fcdc-4a31-9f10-02059a485e27",
+  "name": "TestPinnedDeploymentConfigSurfacesAnUnreadableIndex",
+  "fullName": "github.com/meshery/meshery/server/models::TestPinnedDeploymentConfigSurfacesAnUnreadableIndex",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795408287,
+  "stop": 1790795408287,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPinnedDeploymentConfigSurfacesAnUnreadableIndex"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

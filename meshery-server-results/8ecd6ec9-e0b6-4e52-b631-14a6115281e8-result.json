@@ -1,0 +1,44 @@
+{
+  "uuid": "8ecd6ec9-e0b6-4e52-b631-14a6115281e8",
+  "name": "TestInventoryPatchingCleanupOnDelete",
+  "fullName": "github.com/meshery/meshery/server/policies::TestInventoryPatchingCleanupOnDelete",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795420811,
+  "stop": 1790795420811,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInventoryPatchingCleanupOnDelete"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

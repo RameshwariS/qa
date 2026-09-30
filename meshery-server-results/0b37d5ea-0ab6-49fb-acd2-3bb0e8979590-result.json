@@ -1,0 +1,46 @@
+{
+  "uuid": "0b37d5ea-0ab6-49fb-acd2-3bb0e8979590",
+  "name": "TestProviderUIHandler_LoopGuards/PLAYGROUND=true,_PROVIDER_set_+_registered_→_auto-select_happy_path",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestProviderUIHandler_LoopGuards/PLAYGROUND=true,_PROVIDER_set_+_registered_→_auto-select_happy_path",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795416836,
+  "stop": 1790795416836,
+  "statusDetails": {
+    "message": "=== PAUSE TestProviderUIHandler_LoopGuards/PLAYGROUND=true,_PROVIDER_set_+_registered_→_auto-select_happy_path\n=== CONT  TestProviderUIHandler_LoopGuards/PLAYGROUND=true,_PROVIDER_set_+_registered_→_auto-select_happy_path"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProviderUIHandler_LoopGuards/PLAYGROUND=true,_PROVIDER_set_+_registered_→_auto-select_happy_path"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

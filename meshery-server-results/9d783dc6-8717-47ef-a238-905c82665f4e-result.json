@@ -1,0 +1,44 @@
+{
+  "uuid": "9d783dc6-8717-47ef-a238-905c82665f4e",
+  "name": "TestDeleteEnvironmentHandler_PropagatesProviderStatus",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteEnvironmentHandler_PropagatesProviderStatus",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795416007,
+  "stop": 1790795416007,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteEnvironmentHandler_PropagatesProviderStatus"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

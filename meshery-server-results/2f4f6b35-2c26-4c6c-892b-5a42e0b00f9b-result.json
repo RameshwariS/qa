@@ -1,0 +1,44 @@
+{
+  "uuid": "2f4f6b35-2c26-4c6c-892b-5a42e0b00f9b",
+  "name": "TestValidateControllersConfig/nil_config",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/nil_config",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795406095,
+  "stop": 1790795406095,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/nil_config"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

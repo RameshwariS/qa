@@ -1,0 +1,44 @@
+{
+  "uuid": "a56dac58-6b07-4aed-8dc3-005bbb278377",
+  "name": "TestAutoMigrateSystemTablesSurvivesConnectionsQuery",
+  "fullName": "github.com/meshery/meshery/server/models::TestAutoMigrateSystemTablesSurvivesConnectionsQuery",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795518811,
+  "stop": 1790795518850,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAutoMigrateSystemTablesSurvivesConnectionsQuery"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

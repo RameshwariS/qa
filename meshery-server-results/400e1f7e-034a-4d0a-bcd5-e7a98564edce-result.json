@@ -1,0 +1,44 @@
+{
+  "uuid": "400e1f7e-034a-4d0a-bcd5-e7a98564edce",
+  "name": "TestGetMesheryPatternResources_SendsCanonicalOamTypeParam",
+  "fullName": "github.com/meshery/meshery/server/models::TestGetMesheryPatternResources_SendsCanonicalOamTypeParam",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795424522,
+  "stop": 1790795424523,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetMesheryPatternResources_SendsCanonicalOamTypeParam"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

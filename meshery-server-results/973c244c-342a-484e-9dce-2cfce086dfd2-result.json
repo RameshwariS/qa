@@ -1,0 +1,44 @@
+{
+  "uuid": "973c244c-342a-484e-9dce-2cfce086dfd2",
+  "name": "TestApplyControllersConfigMeshSyncCRSettings",
+  "fullName": "github.com/meshery/meshery/server/models::TestApplyControllersConfigMeshSyncCRSettings",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795406175,
+  "stop": 1790795406202,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestApplyControllersConfigMeshSyncCRSettings"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

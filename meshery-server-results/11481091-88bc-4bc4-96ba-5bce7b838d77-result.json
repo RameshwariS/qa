@@ -1,0 +1,44 @@
+{
+  "uuid": "11481091-88bc-4bc4-96ba-5bce7b838d77",
+  "name": "TestGetUserByIDHandler_SystemInstanceReturns204",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetUserByIDHandler_SystemInstanceReturns204",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795416958,
+  "stop": 1790795416958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetUserByIDHandler_SystemInstanceReturns204"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

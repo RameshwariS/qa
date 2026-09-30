@@ -1,0 +1,44 @@
+{
+  "uuid": "2675faa9-477a-4f11-b903-43ff52771b12",
+  "name": "TestWriteEventStream_StopsOnContextCancellation",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestWriteEventStream_StopsOnContextCancellation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1790795416009,
+  "stop": 1790795416009,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWriteEventStream_StopsOnContextCancellation"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
