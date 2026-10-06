@@ -1,0 +1,44 @@
+{
+  "uuid": "5431d9a5-a06e-4684-88b9-5bfb95ba15e3",
+  "name": "TestHealthReturnsVersion",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestHealthReturnsVersion",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307107374,
+  "stop": 1791307107376,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHealthReturnsVersion"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "624e8415-3116-49d4-ac87-3449bca43172",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerClass_without_service.type_LoadBalancer/server_defaults",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerClass_without_service.type_LoadBalancer/server_defaults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307104040,
+  "stop": 1791307104041,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/loadBalancerClass_without_service.type_LoadBalancer/server_defaults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

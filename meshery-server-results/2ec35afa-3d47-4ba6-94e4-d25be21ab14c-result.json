@@ -1,0 +1,44 @@
+{
+  "uuid": "2ec35afa-3d47-4ba6-94e4-d25be21ab14c",
+  "name": "TestGetPaginationParams/zero_pageSize_defaults",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetPaginationParams/zero_pageSize_defaults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307105022,
+  "stop": 1791307105022,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetPaginationParams/zero_pageSize_defaults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

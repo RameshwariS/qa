@@ -1,0 +1,44 @@
+{
+  "uuid": "49a0a586-cd1a-415e-896d-1c2940aa403d",
+  "name": "TestSubscribeEventsHandler_StreamsPublishedEvent",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSubscribeEventsHandler_StreamsPublishedEvent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307104072,
+  "stop": 1791307104093,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSubscribeEventsHandler_StreamsPublishedEvent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

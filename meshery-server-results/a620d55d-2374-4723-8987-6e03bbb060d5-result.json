@@ -1,0 +1,44 @@
+{
+  "uuid": "a620d55d-2374-4723-8987-6e03bbb060d5",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/broker.replicas_above_range/connection_override",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/broker.replicas_above_range/connection_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307104037,
+  "stop": 1791307104038,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/broker.replicas_above_range/connection_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

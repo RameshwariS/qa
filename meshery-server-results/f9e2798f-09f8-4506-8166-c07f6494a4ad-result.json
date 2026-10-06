@@ -1,0 +1,44 @@
+{
+  "uuid": "f9e2798f-09f8-4506-8166-c07f6494a4ad",
+  "name": "TestValidateControllersConfig/whitelist_entry_missing_resource",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/whitelist_entry_missing_resource",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307102058,
+  "stop": 1791307102058,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/whitelist_entry_missing_resource"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

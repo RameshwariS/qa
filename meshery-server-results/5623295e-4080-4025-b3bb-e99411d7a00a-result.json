@@ -1,0 +1,44 @@
+{
+  "uuid": "5623295e-4080-4025-b3bb-e99411d7a00a",
+  "name": "TestPerformConnectionAction_MalformedBody",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestPerformConnectionAction_MalformedBody",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307050305,
+  "stop": 1791307050306,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPerformConnectionAction_MalformedBody"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

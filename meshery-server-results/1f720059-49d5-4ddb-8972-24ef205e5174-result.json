@@ -1,0 +1,44 @@
+{
+  "uuid": "1f720059-49d5-4ddb-8972-24ef205e5174",
+  "name": "TestMutateOrdersComponentsBehindACustomResourceDefinition",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMutateOrdersComponentsBehindACustomResourceDefinition",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307104068,
+  "stop": 1791307104068,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMutateOrdersComponentsBehindACustomResourceDefinition"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

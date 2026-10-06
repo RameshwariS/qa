@@ -1,0 +1,44 @@
+{
+  "uuid": "fa8bc701-83f4-455c-a30b-57d780503b48",
+  "name": "TestRemoteProviderInitiateLogin_OmitsPlaceholderVersions",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderInitiateLogin_OmitsPlaceholderVersions",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307119661,
+  "stop": 1791307119661,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderInitiateLogin_OmitsPlaceholderVersions"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

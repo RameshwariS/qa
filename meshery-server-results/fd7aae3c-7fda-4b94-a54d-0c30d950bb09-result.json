@@ -1,0 +1,44 @@
+{
+  "uuid": "fd7aae3c-7fda-4b94-a54d-0c30d950bb09",
+  "name": "TestCollectControllersStatus_UnresolvedConnectionReportsNothing",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestCollectControllersStatus_UnresolvedConnectionReportsNothing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307104059,
+  "stop": 1791307104059,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCollectControllersStatus_UnresolvedConnectionReportsNothing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

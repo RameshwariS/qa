@@ -1,0 +1,46 @@
+{
+  "uuid": "bf855e3c-0266-410a-8045-0c9f83b3a3dc",
+  "name": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationNeverReachesAnAuthPath",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307103833,
+  "stop": 1791307199030,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationNeverReachesAnAuthPath\n=== CONT  TestPostLoginRedirect_LocationNeverReachesAnAuthPath"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
