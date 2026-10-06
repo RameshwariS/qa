@@ -1,0 +1,44 @@
+{
+  "uuid": "3df1bfca-85e6-4b2f-bd9c-9004f4f789b6",
+  "name": "TestValidateControllersConfig/meshsync_replicas_too_high",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/meshsync_replicas_too_high",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309679823,
+  "stop": 1791309679823,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/meshsync_replicas_too_high"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

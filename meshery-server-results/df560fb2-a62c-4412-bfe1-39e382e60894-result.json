@@ -1,0 +1,44 @@
+{
+  "uuid": "df560fb2-a62c-4412-bfe1-39e382e60894",
+  "name": "TestMesheryPatternUPDATERequestBody_UnmarshalCytoscapeAcceptsBothSpellings/canonical_cytoscapeJSON_only",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMesheryPatternUPDATERequestBody_UnmarshalCytoscapeAcceptsBothSpellings/canonical_cytoscapeJSON_only",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689921,
+  "stop": 1791309689921,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPatternUPDATERequestBody_UnmarshalCytoscapeAcceptsBothSpellings/canonical_cytoscapeJSON_only"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

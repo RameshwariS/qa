@@ -1,0 +1,44 @@
+{
+  "uuid": "39fba5e8-0f77-4817-b274-8a48d6818e4e",
+  "name": "TestB2OperatorVersionResolvesThroughTheLayeredDocument",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2OperatorVersionResolvesThroughTheLayeredDocument",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309682239,
+  "stop": 1791309682239,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2OperatorVersionResolvesThroughTheLayeredDocument"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

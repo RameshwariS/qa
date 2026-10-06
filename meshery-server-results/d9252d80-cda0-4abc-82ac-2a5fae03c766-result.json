@@ -1,0 +1,44 @@
+{
+  "uuid": "d9252d80-cda0-4abc-82ac-2a5fae03c766",
+  "name": "TestGetControllersDefaultConfig_UnsetReturnsEmptyStampedDocument",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetControllersDefaultConfig_UnsetReturnsEmptyStampedDocument",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689005,
+  "stop": 1791309689007,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetControllersDefaultConfig_UnsetReturnsEmptyStampedDocument"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

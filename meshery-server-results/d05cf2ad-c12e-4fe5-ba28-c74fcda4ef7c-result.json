@@ -1,0 +1,44 @@
+{
+  "uuid": "d05cf2ad-c12e-4fe5-ba28-c74fcda4ef7c",
+  "name": "TestB2ReconcileOperatorChartVersionNoOps/inheriting_after_attaching_at_the_boot_version_is_not_a_change",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2ReconcileOperatorChartVersionNoOps/inheriting_after_attaching_at_the_boot_version_is_not_a_change",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309682232,
+  "stop": 1791309682234,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2ReconcileOperatorChartVersionNoOps/inheriting_after_attaching_at_the_boot_version_is_not_a_change"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "2fe63ce9-bbf2-4b36-a8df-fdb66f07afa8",
+  "name": "TestB4WizardAndEditorShareOneDeploymentModeStore",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB4WizardAndEditorShareOneDeploymentModeStore",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309679825,
+  "stop": 1791309679831,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB4WizardAndEditorShareOneDeploymentModeStore"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

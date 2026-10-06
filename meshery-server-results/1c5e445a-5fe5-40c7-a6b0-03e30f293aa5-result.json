@@ -1,0 +1,44 @@
+{
+  "uuid": "1c5e445a-5fe5-40c7-a6b0-03e30f293aa5",
+  "name": "TestEvaluationTracker_PublishIsIdempotent",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestEvaluationTracker_PublishIsIdempotent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689063,
+  "stop": 1791309689063,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEvaluationTracker_PublishIsIdempotent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

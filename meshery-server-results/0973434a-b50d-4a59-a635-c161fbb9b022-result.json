@@ -1,0 +1,44 @@
+{
+  "uuid": "0973434a-b50d-4a59-a635-c161fbb9b022",
+  "name": "TestIsDesignInAlpha2Format",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/utils::TestIsDesignInAlpha2Format",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309683964,
+  "stop": 1791309683965,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsDesignInAlpha2Format"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

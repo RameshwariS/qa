@@ -1,0 +1,44 @@
+{
+  "uuid": "2f6d243f-728a-4eac-8abf-a23884cd8a6d",
+  "name": "TestCurrentValues/missing",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestCurrentValues/missing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309685027,
+  "stop": 1791309685027,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCurrentValues/missing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

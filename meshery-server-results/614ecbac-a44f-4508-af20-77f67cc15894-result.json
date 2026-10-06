@@ -1,0 +1,44 @@
+{
+  "uuid": "614ecbac-a44f-4508-af20-77f67cc15894",
+  "name": "TestPrereleaseChartsRemainReachableWhenNamed",
+  "fullName": "github.com/meshery/meshery/server/models::TestPrereleaseChartsRemainReachableWhenNamed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309682226,
+  "stop": 1791309682228,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPrereleaseChartsRemainReachableWhenNamed"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

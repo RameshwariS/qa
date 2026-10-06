@@ -1,0 +1,44 @@
+{
+  "uuid": "bf9edd17-1e18-425c-9219-6c61740f2923",
+  "name": "TestExecuteSettlesOnMixedDependencyOutcomes",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestExecuteSettlesOnMixedDependencyOutcomes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309682739,
+  "stop": 1791309682740,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestExecuteSettlesOnMixedDependencyOutcomes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

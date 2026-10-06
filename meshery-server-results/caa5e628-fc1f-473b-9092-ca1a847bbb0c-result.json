@@ -1,0 +1,44 @@
+{
+  "uuid": "caa5e628-fc1f-473b-9092-ca1a847bbb0c",
+  "name": "TestMissingOperatorHandlerIsNeverASilentNoOp",
+  "fullName": "github.com/meshery/meshery/server/models::TestMissingOperatorHandlerIsNeverASilentNoOp",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309682193,
+  "stop": 1791309682194,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMissingOperatorHandlerIsNeverASilentNoOp"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d7740741-014e-4a2c-a196-b931f8b93e9f",
+  "name": "TestBroadcastConcurrentPublishUnsubscribeNoPanic",
+  "fullName": "github.com/meshery/meshery/server/models::TestBroadcastConcurrentPublishUnsubscribeNoPanic",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309681338,
+  "stop": 1791309681540,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBroadcastConcurrentPublishUnsubscribeNoPanic"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

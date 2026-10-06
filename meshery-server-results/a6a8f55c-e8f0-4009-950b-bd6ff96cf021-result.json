@@ -1,0 +1,44 @@
+{
+  "uuid": "a6a8f55c-e8f0-4009-950b-bd6ff96cf021",
+  "name": "TestEnvironmentPayloadWire_MarshalsCanonicalCamelCase/client_sent_canonical_organizationId",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestEnvironmentPayloadWire_MarshalsCanonicalCamelCase/client_sent_canonical_organizationId",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689059,
+  "stop": 1791309689059,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEnvironmentPayloadWire_MarshalsCanonicalCamelCase/client_sent_canonical_organizationId"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "34a41208-80ed-4022-ad56-6463b8ea78ff",
+  "name": "TestProvisionReportsAComponentThatReportedNoOutcome",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionReportsAComponentThatReportedNoOutcome",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309683968,
+  "stop": 1791309683989,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionReportsAComponentThatReportedNoOutcome"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

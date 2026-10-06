@@ -1,0 +1,46 @@
+{
+  "uuid": "9ebf43ae-15fd-4cd9-9275-e4a286228123",
+  "name": "TestResolveProviderName/enforced_default_wins_over_query_(None_alias_does_not_select_Local)",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestResolveProviderName/enforced_default_wins_over_query_(None_alias_does_not_select_Local)",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689928,
+  "stop": 1791309689929,
+  "statusDetails": {
+    "message": "=== PAUSE TestResolveProviderName/enforced_default_wins_over_query_(None_alias_does_not_select_Local)\n=== CONT  TestResolveProviderName/enforced_default_wins_over_query_(None_alias_does_not_select_Local)"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveProviderName/enforced_default_wins_over_query_(None_alias_does_not_select_Local)"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

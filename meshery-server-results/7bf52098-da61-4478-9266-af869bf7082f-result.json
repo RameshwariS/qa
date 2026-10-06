@@ -1,0 +1,44 @@
+{
+  "uuid": "7bf52098-da61-4478-9266-af869bf7082f",
+  "name": "TestDeleteContext_MissingToken",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteContext_MissingToken",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309689004,
+  "stop": 1791309689005,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteContext_MissingToken"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

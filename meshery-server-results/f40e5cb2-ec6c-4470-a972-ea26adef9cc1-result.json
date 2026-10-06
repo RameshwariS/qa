@@ -1,0 +1,44 @@
+{
+  "uuid": "f40e5cb2-ec6c-4470-a972-ea26adef9cc1",
+  "name": "TestRemoteProviderGetWorkspaces_PreservesJSONBodyForOK",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderGetWorkspaces_PreservesJSONBodyForOK",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309698353,
+  "stop": 1791309698355,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderGetWorkspaces_PreservesJSONBodyForOK"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d4ef2e9f-bd6b-4deb-a2e9-6fe6f8a87d05",
+  "name": "TestPerformConnectionAction_UnsupportedAction",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestPerformConnectionAction_UnsupportedAction",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309616870,
+  "stop": 1791309616870,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPerformConnectionAction_UnsupportedAction"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

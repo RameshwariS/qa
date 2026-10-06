@@ -1,0 +1,44 @@
+{
+  "uuid": "a3616234-37f0-4b31-8ee7-11d82e1723c6",
+  "name": "TestSanitizeOrderInput/column_outside_the_whitelist_is_ignored",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/column_outside_the_whitelist_is_ignored",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309793014,
+  "stop": 1791309793014,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/column_outside_the_whitelist_is_ignored"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

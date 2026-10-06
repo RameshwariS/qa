@@ -1,0 +1,44 @@
+{
+  "uuid": "0170586a-2522-4188-a608-fa3c1b8d5a15",
+  "name": "TestLabelValuesDecodesData",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestLabelValuesDecodesData",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309685692,
+  "stop": 1791309685693,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLabelValuesDecodesData"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
