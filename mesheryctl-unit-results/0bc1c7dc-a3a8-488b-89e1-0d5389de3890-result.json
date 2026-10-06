@@ -1,0 +1,44 @@
+{
+  "uuid": "0bc1c7dc-a3a8-488b-89e1-0d5389de3890",
+  "name": "TestPlanModelVersions/zero_parseable_version_directories",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestPlanModelVersions/zero_parseable_version_directories",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309687210,
+  "stop": 1791309687212,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPlanModelVersions/zero_parseable_version_directories"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

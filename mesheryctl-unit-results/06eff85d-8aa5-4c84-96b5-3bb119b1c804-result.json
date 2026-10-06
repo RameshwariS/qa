@@ -1,0 +1,44 @@
+{
+  "uuid": "06eff85d-8aa5-4c84-96b5-3bb119b1c804",
+  "name": "TestInitModelDeriveDisplayName",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/model::TestInitModelDeriveDisplayName",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309680155,
+  "stop": 1791309680155,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/model"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInitModelDeriveDisplayName"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

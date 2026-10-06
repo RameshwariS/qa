@@ -1,0 +1,44 @@
+{
+  "uuid": "0b87301c-96b1-47c2-a0c5-0d8b0bf2ada3",
+  "name": "TestListManifests/happy_path_with_valid_ManifestList",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestListManifests/happy_path_with_valid_ManifestList",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309698260,
+  "stop": 1791309698261,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestListManifests/happy_path_with_valid_ManifestList"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

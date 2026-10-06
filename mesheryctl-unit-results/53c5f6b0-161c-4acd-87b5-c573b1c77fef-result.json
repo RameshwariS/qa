@@ -1,0 +1,44 @@
+{
+  "uuid": "53c5f6b0-161c-4acd-87b5-c573b1c77fef",
+  "name": "TestDoc/Test_linkHandler_function_(directory_structure)",
+  "fullName": "github.com/meshery/meshery/mesheryctl/doc::TestDoc/Test_linkHandler_function_(directory_structure)",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309657851,
+  "stop": 1791309657851,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDoc/Test_linkHandler_function_(directory_structure)"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "2a30c14e-23ad-4c88-9b4d-d74627a54e33",
+  "name": "TestCodeBlockCopyButton/Options_blocks_are_not_copyable",
+  "fullName": "github.com/meshery/meshery/mesheryctl/doc::TestCodeBlockCopyButton/Options_blocks_are_not_copyable",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309657854,
+  "stop": 1791309657856,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCodeBlockCopyButton/Options_blocks_are_not_copyable"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

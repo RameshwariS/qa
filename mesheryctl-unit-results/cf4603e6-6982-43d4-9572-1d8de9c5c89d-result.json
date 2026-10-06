@@ -1,0 +1,44 @@
+{
+  "uuid": "cf4603e6-6982-43d4-9572-1d8de9c5c89d",
+  "name": "TestGetManifestTreeURL",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestGetManifestTreeURL",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791309698256,
+  "stop": 1791309698259,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetManifestTreeURL"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
