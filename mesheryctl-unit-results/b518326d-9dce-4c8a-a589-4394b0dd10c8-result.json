@@ -1,0 +1,44 @@
+{
+  "uuid": "b518326d-9dce-4c8a-a589-4394b0dd10c8",
+  "name": "TestListCmdCount/Fetch_Filter_Count",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/filter::TestListCmdCount/Fetch_Filter_Count",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791307007244,
+  "stop": 1791307007253,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/filter"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestListCmdCount/Fetch_Filter_Count"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

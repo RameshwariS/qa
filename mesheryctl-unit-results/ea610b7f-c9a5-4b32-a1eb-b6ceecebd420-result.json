@@ -1,0 +1,44 @@
+{
+  "uuid": "ea610b7f-c9a5-4b32-a1eb-b6ceecebd420",
+  "name": "TestGetOperatorStatus",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/config::TestGetOperatorStatus",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791306998358,
+  "stop": 1791306998358,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/config"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetOperatorStatus"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "36d94daf-4508-4114-9c0b-68f857c9ba83",
+  "name": "TestValidateRelativeOrAbsolutePath/given_simple_relative_path_when_isRelOrAbsPath_then_returns_no_error",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/pkg/flags::TestValidateRelativeOrAbsolutePath/given_simple_relative_path_when_isRelOrAbsPath_then_returns_no_error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791306989746,
+  "stop": 1791306989746,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/pkg/flags"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateRelativeOrAbsolutePath/given_simple_relative_path_when_isRelOrAbsPath_then_returns_no_error"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
