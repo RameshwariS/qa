@@ -1,0 +1,44 @@
+{
+  "uuid": "4da7b3c5-11ba-4c19-a5ee-5881f86e9cb6",
+  "name": "TestGenerationOptionsCreation",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestGenerationOptionsCreation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791496912332,
+  "stop": 1791496912332,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGenerationOptionsCreation"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

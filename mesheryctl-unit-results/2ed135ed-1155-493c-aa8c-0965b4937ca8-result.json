@@ -1,0 +1,44 @@
+{
+  "uuid": "2ed135ed-1155-493c-aa8c-0965b4937ca8",
+  "name": "TestInitModelInjectName/yaml",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/model::TestInitModelInjectName/yaml",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791496904997,
+  "stop": 1791496905015,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/model"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInitModelInjectName/yaml"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "51f9fb04-b733-49c1-9bae-7d5106dd115f",
+  "name": "TestPurgeCmdFlags",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestPurgeCmdFlags",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791496912393,
+  "stop": 1791496912393,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPurgeCmdFlags"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
