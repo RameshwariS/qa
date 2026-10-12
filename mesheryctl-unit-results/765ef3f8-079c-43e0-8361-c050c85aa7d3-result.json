@@ -1,0 +1,44 @@
+{
+  "uuid": "765ef3f8-079c-43e0-8361-c050c85aa7d3",
+  "name": "Test_Given_JSONOutputFormatterSaver_With_NoFilepath_When_Save_Then_Error_Is_Returned",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/pkg/display::Test_Given_JSONOutputFormatterSaver_With_NoFilepath_When_Save_Then_Error_Is_Returned",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788072874,
+  "stop": 1791788072874,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/pkg/display"
+    },
+    {
+      "name": "subSuite",
+      "value": "Test_Given_JSONOutputFormatterSaver_With_NoFilepath_When_Save_Then_Error_Is_Returned"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

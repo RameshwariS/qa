@@ -1,0 +1,44 @@
+{
+  "uuid": "02c33c23-3f4d-44db-867b-8c8b431a51fe",
+  "name": "TestStringDiffWindowsAVeryLongLine",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestStringDiffWindowsAVeryLongLine",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788110430,
+  "stop": 1791788110430,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStringDiffWindowsAVeryLongLine"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "67c98a93-f19d-4715-8b70-1e6fffa708cb",
+  "name": "TestSubcommandNames",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestSubcommandNames",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788107840,
+  "stop": 1791788107842,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSubcommandNames"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

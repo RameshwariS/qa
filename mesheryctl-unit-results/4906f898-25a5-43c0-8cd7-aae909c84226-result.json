@@ -1,0 +1,44 @@
+{
+  "uuid": "4906f898-25a5-43c0-8cd7-aae909c84226",
+  "name": "TestBuildExcludeSet/defaults_only",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestBuildExcludeSet/defaults_only",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788098325,
+  "stop": 1791788098325,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBuildExcludeSet/defaults_only"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

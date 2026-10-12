@@ -1,0 +1,44 @@
+{
+  "uuid": "de4c6683-9bb5-45da-9ec0-1d892703ea36",
+  "name": "TestPurgeCmdFlags/dry-run",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/registry::TestPurgeCmdFlags/dry-run",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788098334,
+  "stop": 1791788098334,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/registry"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPurgeCmdFlags/dry-run"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "ad1bd7c4-9f2d-4f00-acaf-a99e4d37a41c",
+  "name": "TestModelBuild/given_folder_does_not_exist_when_model_build_then_throw_error",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/root/model::TestModelBuild/given_folder_does_not_exist_when_model_build_then_throw_error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788091108,
+  "stop": 1791788091108,
+  "statusDetails": {
+    "message": "Error: Invalid value for --path './not_existing_folder': directory does not exist | Short Description: Invalid flag(s) provided | Probable Cause: The value for one or more flags provided is invalid. | Suggested Remediation: Provide valid flag value and try again."
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/root/model"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestModelBuild/given_folder_does_not_exist_when_model_build_then_throw_error"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

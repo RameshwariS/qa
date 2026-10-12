@@ -1,0 +1,44 @@
+{
+  "uuid": "3e8988a8-7ffa-485d-83c8-7c3da9152773",
+  "name": "TestStringDiffReportsTrailingNewlineDifferences",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestStringDiffReportsTrailingNewlineDifferences",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788110429,
+  "stop": 1791788110430,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStringDiffReportsTrailingNewlineDifferences"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

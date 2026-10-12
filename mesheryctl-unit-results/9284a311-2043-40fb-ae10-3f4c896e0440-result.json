@@ -1,0 +1,44 @@
+{
+  "uuid": "9284a311-2043-40fb-ae10-3f4c896e0440",
+  "name": "TestGetCleanPodName",
+  "fullName": "github.com/meshery/meshery/mesheryctl/pkg/utils::TestGetCleanPodName",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788107847,
+  "stop": 1791788107847,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/pkg"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/pkg/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetCleanPodName"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
