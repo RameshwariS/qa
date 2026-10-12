@@ -1,0 +1,44 @@
+{
+  "uuid": "e1ae8014-2b27-432c-94c9-da370bf8f3b7",
+  "name": "TestPromptAsyncPagination/Given_Zero_Results_When_PromptAsyncPagination_Then_ErrNotFound",
+  "fullName": "github.com/meshery/meshery/mesheryctl/internal/cli/pkg/display::TestPromptAsyncPagination/Given_Zero_Results_When_PromptAsyncPagination_Then_ErrNotFound",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825826773,
+  "stop": 1791825826774,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/internal"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/internal/cli/pkg/display"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPromptAsyncPagination/Given_Zero_Results_When_PromptAsyncPagination_Then_ErrNotFound"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
