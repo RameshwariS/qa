@@ -1,0 +1,44 @@
+{
+  "uuid": "88e9ea87-ca30-4650-9eb6-dc2b41fef472",
+  "name": "TestDerivedChartVersionIsFlooredToTheOldestWorkingChart",
+  "fullName": "github.com/meshery/meshery/server/models::TestDerivedChartVersionIsFlooredToTheOldestWorkingChart",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788071813,
+  "stop": 1791788071815,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDerivedChartVersionIsFlooredToTheOldestWorkingChart"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "7e006616-c7cf-4c02-9d45-00138f6b286a",
+  "name": "TestShouldRecordDeploymentModeOverride/no_requested_mode_is_never_an_override",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestShouldRecordDeploymentModeOverride/no_requested_mode_is_never_an_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788069975,
+  "stop": 1791788069975,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestShouldRecordDeploymentModeOverride/no_requested_mode_is_never_an_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

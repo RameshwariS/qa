@@ -1,0 +1,44 @@
+{
+  "uuid": "0329ccd4-b502-44cc-a42e-db326f4c96e9",
+  "name": "TestCredentialPayload/legacy_double-nested_payload_is_unwrapped",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload/legacy_double-nested_payload_is_unwrapped",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788071031,
+  "stop": 1791788071032,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload/legacy_double-nested_payload_is_unwrapped"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

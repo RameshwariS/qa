@@ -1,0 +1,44 @@
+{
+  "uuid": "e331bd3a-3267-41a5-9c60-c589b4d5415c",
+  "name": "TestSearchBoards",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestSearchBoards",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788074632,
+  "stop": 1791788074634,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSearchBoards"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

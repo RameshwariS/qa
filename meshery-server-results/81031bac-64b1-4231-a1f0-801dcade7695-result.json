@@ -1,0 +1,44 @@
+{
+  "uuid": "81031bac-64b1-4231-a1f0-801dcade7695",
+  "name": "TestProvisionTerminatesOnAnUnresolvableDependency",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionTerminatesOnAnUnresolvableDependency",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788073958,
+  "stop": 1791788073972,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionTerminatesOnAnUnresolvableDependency"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

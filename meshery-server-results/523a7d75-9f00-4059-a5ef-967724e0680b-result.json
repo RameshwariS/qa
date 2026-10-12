@@ -1,0 +1,46 @@
+{
+  "uuid": "523a7d75-9f00-4059-a5ef-967724e0680b",
+  "name": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath//extension/meshmap#/../../auth/login",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationNeverReachesAnAuthPath//extension/meshmap#/../../auth/login",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788166840,
+  "stop": 1791788166842,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationNeverReachesAnAuthPath//extension/meshmap#/../../auth/login\n=== CONT  TestPostLoginRedirect_LocationNeverReachesAnAuthPath//extension/meshmap#/../../auth/login"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath//extension/meshmap#/../../auth/login"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

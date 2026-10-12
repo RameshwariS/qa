@@ -1,0 +1,44 @@
+{
+  "uuid": "8c0ed9bf-e257-409c-97b9-5d1991326771",
+  "name": "TestControllersConfigMetadataRoundTrip",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestControllersConfigMetadataRoundTrip",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788069966,
+  "stop": 1791788069967,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigMetadataRoundTrip"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

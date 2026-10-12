@@ -1,0 +1,44 @@
+{
+  "uuid": "90b9379e-e27c-4284-9b54-f471cd9b055d",
+  "name": "TestNormalizeBoardTemplateVars",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestNormalizeBoardTemplateVars",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788074638,
+  "stop": 1791788074639,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNormalizeBoardTemplateVars"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

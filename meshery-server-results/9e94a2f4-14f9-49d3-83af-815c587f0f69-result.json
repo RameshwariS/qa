@@ -1,0 +1,44 @@
+{
+  "uuid": "9e94a2f4-14f9-49d3-83af-815c587f0f69",
+  "name": "TestUICacheHeaders/media_asset",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders/media_asset",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788073410,
+  "stop": 1791788073410,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders/media_asset"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

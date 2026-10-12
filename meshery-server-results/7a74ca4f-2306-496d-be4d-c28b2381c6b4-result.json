@@ -1,0 +1,44 @@
+{
+  "uuid": "7a74ca4f-2306-496d-be4d-c28b2381c6b4",
+  "name": "TestAuthHeader/empty",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestAuthHeader/empty",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788075413,
+  "stop": 1791788075413,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAuthHeader/empty"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

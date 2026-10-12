@@ -1,0 +1,44 @@
+{
+  "uuid": "a1500626-7ef0-4a66-8803-12f473c81d5f",
+  "name": "TestConnectionControllersConfigEndpoints_RejectUnusableConnections/malformed_connection_id",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestConnectionControllersConfigEndpoints_RejectUnusableConnections/malformed_connection_id",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788072441,
+  "stop": 1791788072442,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestConnectionControllersConfigEndpoints_RejectUnusableConnections/malformed_connection_id"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

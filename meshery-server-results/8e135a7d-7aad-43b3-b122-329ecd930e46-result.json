@@ -1,0 +1,44 @@
+{
+  "uuid": "8e135a7d-7aad-43b3-b122-329ecd930e46",
+  "name": "TestBroadcastUnsubscribeIsIdempotent",
+  "fullName": "github.com/meshery/meshery/server/models::TestBroadcastUnsubscribeIsIdempotent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788071247,
+  "stop": 1791788071247,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBroadcastUnsubscribeIsIdempotent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

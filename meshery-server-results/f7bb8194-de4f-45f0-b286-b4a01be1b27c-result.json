@@ -1,0 +1,44 @@
+{
+  "uuid": "f7bb8194-de4f-45f0-b286-b4a01be1b27c",
+  "name": "TestOperatorStatusHandler_UnknownForUnresolvedConnection",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestOperatorStatusHandler_UnknownForUnresolvedConnection",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788072445,
+  "stop": 1791788072445,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestOperatorStatusHandler_UnknownForUnresolvedConnection"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

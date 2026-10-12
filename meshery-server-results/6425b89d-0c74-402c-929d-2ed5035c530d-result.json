@@ -1,0 +1,44 @@
+{
+  "uuid": "6425b89d-0c74-402c-929d-2ed5035c530d",
+  "name": "TestSeedKeysContainsPanickingSave",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedKeysContainsPanickingSave",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788071309,
+  "stop": 1791788071323,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedKeysContainsPanickingSave"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

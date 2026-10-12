@@ -1,0 +1,44 @@
+{
+  "uuid": "ac65fd1a-576d-4bd2-8679-b2b188ddfbc2",
+  "name": "TestB2OperatorChartVersionFromControllersConfig/no_operator_section",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB2OperatorChartVersionFromControllersConfig/no_operator_section",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788069969,
+  "stop": 1791788069969,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2OperatorChartVersionFromControllersConfig/no_operator_section"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

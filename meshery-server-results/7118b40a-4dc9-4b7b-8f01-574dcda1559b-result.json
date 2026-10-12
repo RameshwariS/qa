@@ -1,0 +1,44 @@
+{
+  "uuid": "7118b40a-4dc9-4b7b-8f01-574dcda1559b",
+  "name": "TestInstallGuardRefusesOnALatchedChartError",
+  "fullName": "github.com/meshery/meshery/server/models::TestInstallGuardRefusesOnALatchedChartError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788071849,
+  "stop": 1791788071849,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInstallGuardRefusesOnALatchedChartError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
