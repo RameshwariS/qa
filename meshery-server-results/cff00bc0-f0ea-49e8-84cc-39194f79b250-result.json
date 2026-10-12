@@ -1,0 +1,44 @@
+{
+  "uuid": "cff00bc0-f0ea-49e8-84cc-39194f79b250",
+  "name": "TestBuildMesheryConnectionPayloadEmitsCanonicalCamelCaseKeys",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestBuildMesheryConnectionPayloadEmitsCanonicalCamelCaseKeys",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825937310,
+  "stop": 1791825937311,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBuildMesheryConnectionPayloadEmitsCanonicalCamelCaseKeys"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

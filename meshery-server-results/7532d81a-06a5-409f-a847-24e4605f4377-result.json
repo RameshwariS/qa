@@ -1,0 +1,46 @@
+{
+  "uuid": "7532d81a-06a5-409f-a847-24e4605f4377",
+  "name": "TestPostLoginRedirect_LocationNeverLeavesTheOrigin",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationNeverLeavesTheOrigin",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825939079,
+  "stop": 1791826052473,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationNeverLeavesTheOrigin\n=== CONT  TestPostLoginRedirect_LocationNeverLeavesTheOrigin"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationNeverLeavesTheOrigin"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "f1d70244-2d9d-48d1-8626-f80b2d543e7e",
+  "name": "TestGetOrganizations_ProviderErrorReturnsFallbackStatus",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetOrganizations_ProviderErrorReturnsFallbackStatus",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825946826,
+  "stop": 1791825946827,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetOrganizations_ProviderErrorReturnsFallbackStatus"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

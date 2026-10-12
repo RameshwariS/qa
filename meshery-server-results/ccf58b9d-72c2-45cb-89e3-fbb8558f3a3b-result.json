@@ -1,0 +1,44 @@
+{
+  "uuid": "ccf58b9d-72c2-45cb-89e3-fbb8558f3a3b",
+  "name": "TestDeleteUserCredential_QueryParamContract/legacy_snake_case",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteUserCredential_QueryParamContract/legacy_snake_case",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825945939,
+  "stop": 1791825945939,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteUserCredential_QueryParamContract/legacy_snake_case"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

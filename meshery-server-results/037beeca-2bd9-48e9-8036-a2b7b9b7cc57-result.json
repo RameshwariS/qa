@@ -1,0 +1,46 @@
+{
+  "uuid": "037beeca-2bd9-48e9-8036-a2b7b9b7cc57",
+  "name": "TestPostLoginHost/falls_back_to_the_inbound_host_without_its_port",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginHost/falls_back_to_the_inbound_host_without_its_port",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791826052469,
+  "stop": 1791826052471,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginHost/falls_back_to_the_inbound_host_without_its_port\n=== CONT  TestPostLoginHost/falls_back_to_the_inbound_host_without_its_port"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginHost/falls_back_to_the_inbound_host_without_its_port"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

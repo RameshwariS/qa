@@ -1,0 +1,44 @@
+{
+  "uuid": "f771e852-3c2b-4905-b775-33d0f466f214",
+  "name": "TestUserInitiatedDeployRetriesResolutionAfterTheRepositoryRecovers",
+  "fullName": "github.com/meshery/meshery/server/models::TestUserInitiatedDeployRetriesResolutionAfterTheRepositoryRecovers",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825939576,
+  "stop": 1791825939582,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUserInitiatedDeployRetriesResolutionAfterTheRepositoryRecovers"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "835c0dad-e78f-4656-bf8d-a69a620b45bb",
+  "name": "TestSendEvent_InvalidTransitionPropagatesError",
+  "fullName": "github.com/meshery/meshery/server/machines::TestSendEvent_InvalidTransitionPropagatesError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825920723,
+  "stop": 1791825920723,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSendEvent_InvalidTransitionPropagatesError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

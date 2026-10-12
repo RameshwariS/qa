@@ -1,0 +1,44 @@
+{
+  "uuid": "477f2871-03f2-400c-85be-a473cb4e6e0c",
+  "name": "TestSanitizeOrderInput",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791826052418,
+  "stop": 1791826052421,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "94d1266e-9c9c-4cb9-bd7a-af4df13eefc9",
+  "name": "TestChartIndexCacheServesStaleWhileRefreshing",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheServesStaleWhileRefreshing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825897787,
+  "stop": 1791825897788,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheServesStaleWhileRefreshing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

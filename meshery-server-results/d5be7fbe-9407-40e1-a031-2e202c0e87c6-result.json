@@ -1,0 +1,44 @@
+{
+  "uuid": "d5be7fbe-9407-40e1-a031-2e202c0e87c6",
+  "name": "TestRemoteFilterFileShortGitHubURLReturnsError/owner_only",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteFilterFileShortGitHubURLReturnsError/owner_only",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825938747,
+  "stop": 1791825938747,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteFilterFileShortGitHubURLReturnsError/owner_only"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

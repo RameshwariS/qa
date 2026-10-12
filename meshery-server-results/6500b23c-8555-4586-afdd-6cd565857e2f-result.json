@@ -1,0 +1,44 @@
+{
+  "uuid": "6500b23c-8555-4586-afdd-6cd565857e2f",
+  "name": "TestApplyControllersConfigBrokerCRSettings",
+  "fullName": "github.com/meshery/meshery/server/models::TestApplyControllersConfigBrokerCRSettings",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825937482,
+  "stop": 1791825937492,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestApplyControllersConfigBrokerCRSettings"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

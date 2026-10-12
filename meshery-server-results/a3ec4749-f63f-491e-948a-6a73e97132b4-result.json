@@ -1,0 +1,44 @@
+{
+  "uuid": "a3ec4749-f63f-491e-948a-6a73e97132b4",
+  "name": "TestEncodeDecodeRoundtrip",
+  "fullName": "github.com/meshery/meshery/server/core::TestEncodeDecodeRoundtrip",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825855760,
+  "stop": 1791825855760,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/core"
+    },
+    {
+      "name": "suite",
+      "value": "server/core"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestEncodeDecodeRoundtrip"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

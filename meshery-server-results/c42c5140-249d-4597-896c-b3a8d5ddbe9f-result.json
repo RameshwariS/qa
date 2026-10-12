@@ -1,0 +1,44 @@
+{
+  "uuid": "c42c5140-249d-4597-896c-b3a8d5ddbe9f",
+  "name": "TestWorkspacePayloadWire_UnmarshalJSON",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestWorkspacePayloadWire_UnmarshalJSON",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825946949,
+  "stop": 1791825946949,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWorkspacePayloadWire_UnmarshalJSON"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

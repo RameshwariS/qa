@@ -1,0 +1,44 @@
+{
+  "uuid": "ea3fa14f-27a1-4c48-b08a-0070ec5b90a0",
+  "name": "TestSanitizeOrderInput/acronym_run_stays_intact_when_folding",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/acronym_run_stays_intact_when_folding",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791826052419,
+  "stop": 1791826052419,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/acronym_run_stays_intact_when_folding"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

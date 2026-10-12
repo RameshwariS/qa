@@ -1,0 +1,44 @@
+{
+  "uuid": "608bcf83-de18-493a-ac1f-c12b272c323d",
+  "name": "TestStampLocalProviderFilterOwner",
+  "fullName": "github.com/meshery/meshery/server/models::TestStampLocalProviderFilterOwner",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825939085,
+  "stop": 1791825939085,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStampLocalProviderFilterOwner"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

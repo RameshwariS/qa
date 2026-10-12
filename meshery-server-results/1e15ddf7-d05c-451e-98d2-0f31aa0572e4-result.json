@@ -1,0 +1,44 @@
+{
+  "uuid": "1e15ddf7-d05c-451e-98d2-0f31aa0572e4",
+  "name": "TestB2ReconcileOperatorChartVersionNoOps/unchanged_version:_the_attached_handler_already_carries_it",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2ReconcileOperatorChartVersionNoOps/unchanged_version:_the_attached_handler_already_carries_it",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825939617,
+  "stop": 1791825939621,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2ReconcileOperatorChartVersionNoOps/unchanged_version:_the_attached_handler_already_carries_it"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

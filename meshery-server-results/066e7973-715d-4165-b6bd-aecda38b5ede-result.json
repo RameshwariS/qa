@@ -1,0 +1,44 @@
+{
+  "uuid": "066e7973-715d-4165-b6bd-aecda38b5ede",
+  "name": "TestRemoteProviderDeleteUserCredential_SendsCanonicalCredentialIdParam",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderDeleteUserCredential_SendsCanonicalCredentialIdParam",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825955608,
+  "stop": 1791825955609,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderDeleteUserCredential_SendsCanonicalCredentialIdParam"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

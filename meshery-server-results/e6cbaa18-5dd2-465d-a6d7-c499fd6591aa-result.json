@@ -1,0 +1,44 @@
+{
+  "uuid": "e6cbaa18-5dd2-465d-a6d7-c499fd6591aa",
+  "name": "TestResolveSchemaPath/typed_additionalProperties_map",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolveSchemaPath/typed_additionalProperties_map",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825983132,
+  "stop": 1791825983132,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveSchemaPath/typed_additionalProperties_map"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

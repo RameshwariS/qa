@@ -1,0 +1,46 @@
+{
+  "uuid": "83c6cb8b-41a7-45e7-a013-c96b1e32e28d",
+  "name": "TestRelationshipEvaluationScenarios/is_alias_relationship_true",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRelationshipEvaluationScenarios/is_alias_relationship_true",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825953697,
+  "stop": 1791825953959,
+  "statusDetails": {
+    "message": "rego_test.go:328: Expected error for \"is_alias_relationship_true\" (design: inline): 1 error occurred: 1:1: rego_type_error: undefined ref: data.eval.is_alias_relationship\n        \tdata.eval.is_alias_relationship\n        \t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n        \thave: (any) => boolean"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRelationshipEvaluationScenarios/is_alias_relationship_true"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

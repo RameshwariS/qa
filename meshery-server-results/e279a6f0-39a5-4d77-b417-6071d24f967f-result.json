@@ -1,0 +1,44 @@
+{
+  "uuid": "e279a6f0-39a5-4d77-b417-6071d24f967f",
+  "name": "TestQueryRangeBatch",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestQueryRangeBatch",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825942279,
+  "stop": 1791825942282,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestQueryRangeBatch"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

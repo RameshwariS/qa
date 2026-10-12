@@ -1,0 +1,44 @@
+{
+  "uuid": "40ce2a1b-3401-4ad6-bf6c-7761c495c3fe",
+  "name": "TestResolveSchemaPath/through_allOf_wrapper",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolveSchemaPath/through_allOf_wrapper",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825983132,
+  "stop": 1791825983132,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveSchemaPath/through_allOf_wrapper"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

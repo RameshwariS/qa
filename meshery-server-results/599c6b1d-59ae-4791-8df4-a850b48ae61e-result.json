@@ -1,0 +1,44 @@
+{
+  "uuid": "599c6b1d-59ae-4791-8df4-a850b48ae61e",
+  "name": "TestControllersConfigFromMetadataTolerance",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestControllersConfigFromMetadataTolerance",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791825937313,
+  "stop": 1791825937313,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigFromMetadataTolerance"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
