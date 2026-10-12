@@ -1,0 +1,27 @@
+{
+  "uuid": "a29f4bff-2c69-4049-a2df-e5b6ff5cb755",
+  "name": "given all requirements met when running mesheryctl design list --count then the total numbers of designs is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788089194,
+  "stop": 1791788089195,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "3c0cc160-e9fb-4e14-b569-92a50263c93c",
+  "name": "given an invalid context-name provided when running mesheryctl system context delete invalid-context-name then an error message is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788089196,
+  "stop": 1791788089197,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

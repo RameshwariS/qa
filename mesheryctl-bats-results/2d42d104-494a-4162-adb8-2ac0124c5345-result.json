@@ -1,0 +1,27 @@
+{
+  "uuid": "2d42d104-494a-4162-adb8-2ac0124c5345",
+  "name": "given all requirements met when running mesheryctl system context view then the details of current context is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791788089196,
+  "stop": 1791788089197,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}
