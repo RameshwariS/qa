@@ -1,0 +1,44 @@
+{
+  "uuid": "8468ce01-b3dd-4a81-a4fe-6006337d030e",
+  "name": "TestUserInitiatedUndeployIsNeverSilent",
+  "fullName": "github.com/meshery/meshery/server/models::TestUserInitiatedUndeployIsNeverSilent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908959866,
+  "stop": 1791908959866,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUserInitiatedUndeployIsNeverSilent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

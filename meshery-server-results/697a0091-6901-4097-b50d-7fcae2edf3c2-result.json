@@ -1,0 +1,44 @@
+{
+  "uuid": "697a0091-6901-4097-b50d-7fcae2edf3c2",
+  "name": "TestUICacheHeaders",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908967892,
+  "stop": 1791908967893,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

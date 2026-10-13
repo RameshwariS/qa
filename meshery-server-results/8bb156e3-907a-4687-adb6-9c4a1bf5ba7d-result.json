@@ -1,0 +1,44 @@
+{
+  "uuid": "8bb156e3-907a-4687-adb6-9c4a1bf5ba7d",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/connection_override",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/connection_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908966877,
+  "stop": 1791908966882,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/malformed_JSON_body/connection_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

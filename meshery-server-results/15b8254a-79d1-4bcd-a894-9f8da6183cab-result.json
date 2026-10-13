@@ -1,0 +1,44 @@
+{
+  "uuid": "15b8254a-79d1-4bcd-a894-9f8da6183cab",
+  "name": "TestRemoteProviderDeleteConnectionUnreachableProvider",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderDeleteConnectionUnreachableProvider",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908975954,
+  "stop": 1791908975955,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderDeleteConnectionUnreachableProvider"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

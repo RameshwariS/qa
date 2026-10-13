@@ -1,0 +1,44 @@
+{
+  "uuid": "d0adb1ec-36e1-4c93-ae96-843f0ca44edf",
+  "name": "TestServeUI_HTMLConditionalRequestReturns304",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestServeUI_HTMLConditionalRequestReturns304",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908967888,
+  "stop": 1791908967889,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestServeUI_HTMLConditionalRequestReturns304"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

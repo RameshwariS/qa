@@ -1,0 +1,44 @@
+{
+  "uuid": "0311cbe3-c461-4490-9009-79cfedcaca0e",
+  "name": "TestRemoteProviderGetWorkspaces_ReturnsEmptyPageForNoContent",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderGetWorkspaces_ReturnsEmptyPageForNoContent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908975966,
+  "stop": 1791908975967,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderGetWorkspaces_ReturnsEmptyPageForNoContent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

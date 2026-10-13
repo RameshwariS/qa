@@ -1,0 +1,44 @@
+{
+  "uuid": "37b1b69d-4078-4f8b-8752-9d2585229636",
+  "name": "TestUpdateControllersDefaultConfig_PersistsAndReadsBack",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUpdateControllersDefaultConfig_PersistsAndReadsBack",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908966839,
+  "stop": 1791908966841,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUpdateControllersDefaultConfig_PersistsAndReadsBack"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

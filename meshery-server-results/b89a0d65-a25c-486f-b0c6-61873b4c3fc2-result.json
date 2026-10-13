@@ -1,0 +1,44 @@
+{
+  "uuid": "b89a0d65-a25c-486f-b0c6-61873b4c3fc2",
+  "name": "TestUICacheHeaders/dynamic_extension_html_with_build",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders/dynamic_extension_html_with_build",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908967892,
+  "stop": 1791908967892,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders/dynamic_extension_html_with_build"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "c69d9264-3713-4485-ada4-ce42d9a2a3f3",
+  "name": "TestInterceptAnonymousSession_RefusesReplyWithoutUserID",
+  "fullName": "github.com/meshery/meshery/server/models::TestInterceptAnonymousSession_RefusesReplyWithoutUserID",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908975632,
+  "stop": 1791908975761,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInterceptAnonymousSession_RefusesReplyWithoutUserID"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

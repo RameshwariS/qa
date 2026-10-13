@@ -1,0 +1,44 @@
+{
+  "uuid": "a1b1de2e-98e4-4da6-8326-cb28ce9913b3",
+  "name": "TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath/fragment_traversal_onto_an_auth_path_falls_back",
+  "fullName": "github.com/meshery/meshery/server/models::TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath/fragment_traversal_onto_an_auth_path_falls_back",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908975852,
+  "stop": 1791908975896,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInterceptAnonymousSession_RefusesRefsThatNormalizeOntoAnAuthPath/fragment_traversal_onto_an_auth_path_falls_back"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

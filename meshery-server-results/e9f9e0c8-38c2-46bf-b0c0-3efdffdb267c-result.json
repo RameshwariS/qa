@@ -1,0 +1,44 @@
+{
+  "uuid": "e9f9e0c8-38c2-46bf-b0c0-3efdffdb267c",
+  "name": "TestWriteMeshkitError_OmitsNoneSentinel",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWriteMeshkitError_OmitsNoneSentinel",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908958558,
+  "stop": 1791908958558,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWriteMeshkitError_OmitsNoneSentinel"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

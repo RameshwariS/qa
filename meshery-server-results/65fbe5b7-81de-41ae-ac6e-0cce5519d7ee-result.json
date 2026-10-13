@@ -1,0 +1,46 @@
+{
+  "uuid": "65fbe5b7-81de-41ae-ac6e-0cce5519d7ee",
+  "name": "TestResolvePostLoginRedirect/plain_/api/user/token_ref_falls_back",
+  "fullName": "github.com/meshery/meshery/server/models::TestResolvePostLoginRedirect/plain_/api/user/token_ref_falls_back",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791909071436,
+  "stop": 1791909071437,
+  "statusDetails": {
+    "message": "=== PAUSE TestResolvePostLoginRedirect/plain_/api/user/token_ref_falls_back\n=== CONT  TestResolvePostLoginRedirect/plain_/api/user/token_ref_falls_back"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolvePostLoginRedirect/plain_/api/user/token_ref_falls_back"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

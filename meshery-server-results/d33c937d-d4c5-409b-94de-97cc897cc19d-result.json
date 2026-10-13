@@ -1,0 +1,44 @@
+{
+  "uuid": "d33c937d-d4c5-409b-94de-97cc897cc19d",
+  "name": "TestToConnectionDefinitions",
+  "fullName": "github.com/meshery/meshery/server/machines/helpers::TestToConnectionDefinitions",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908941712,
+  "stop": 1791908941713,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines/helpers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestToConnectionDefinitions"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

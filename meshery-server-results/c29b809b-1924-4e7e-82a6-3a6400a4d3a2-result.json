@@ -1,0 +1,44 @@
+{
+  "uuid": "c29b809b-1924-4e7e-82a6-3a6400a4d3a2",
+  "name": "TestGetConnectionControllersConfig_PrecedenceOverrideBeatsDefaultBeatsBuiltIn",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetConnectionControllersConfig_PrecedenceOverrideBeatsDefaultBeatsBuiltIn",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908966882,
+  "stop": 1791908966887,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetConnectionControllersConfig_PrecedenceOverrideBeatsDefaultBeatsBuiltIn"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

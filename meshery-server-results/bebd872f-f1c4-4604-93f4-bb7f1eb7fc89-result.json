@@ -1,0 +1,44 @@
+{
+  "uuid": "bebd872f-f1c4-4604-93f4-bb7f1eb7fc89",
+  "name": "TestRemoteProvider_OutboundOrgIdIsCanonical/GetEnvironments_uses_orgId",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProvider_OutboundOrgIdIsCanonical/GetEnvironments_uses_orgId",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908975959,
+  "stop": 1791908975961,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProvider_OutboundOrgIdIsCanonical/GetEnvironments_uses_orgId"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

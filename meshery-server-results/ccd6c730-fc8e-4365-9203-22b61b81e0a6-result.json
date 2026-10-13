@@ -1,0 +1,44 @@
+{
+  "uuid": "ccd6c730-fc8e-4365-9203-22b61b81e0a6",
+  "name": "TestDoSurfacesNon2xx",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestDoSurfacesNon2xx",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908962265,
+  "stop": 1791908962265,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDoSurfacesNon2xx"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

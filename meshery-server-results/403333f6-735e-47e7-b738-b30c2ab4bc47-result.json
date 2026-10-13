@@ -1,0 +1,44 @@
+{
+  "uuid": "403333f6-735e-47e7-b738-b30c2ab4bc47",
+  "name": "TestResolveSchemaPath/array_descent_on_a_non-array",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolveSchemaPath/array_descent_on_a_non-array",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791909001616,
+  "stop": 1791909001616,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveSchemaPath/array_descent_on_a_non-array"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

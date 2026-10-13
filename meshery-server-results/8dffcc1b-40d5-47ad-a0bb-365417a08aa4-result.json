@@ -1,0 +1,44 @@
+{
+  "uuid": "8dffcc1b-40d5-47ad-a0bb-365417a08aa4",
+  "name": "TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/v1.0.64",
+  "fullName": "github.com/meshery/meshery/server/models::TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/v1.0.64",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908959897,
+  "stop": 1791908959897,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/v1.0.64"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "768fbaf0-3301-4692-bb66-27a395800dd6",
+  "name": "TestQueryRangeBatchEmpty",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestQueryRangeBatchEmpty",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908962763,
+  "stop": 1791908962763,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestQueryRangeBatchEmpty"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

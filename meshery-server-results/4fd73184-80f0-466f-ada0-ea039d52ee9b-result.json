@@ -1,0 +1,44 @@
+{
+  "uuid": "4fd73184-80f0-466f-ada0-ea039d52ee9b",
+  "name": "TestB4WizardAndEditorShareOneDeploymentModeStore/clearing_the_mode_returns_the_connection_to_inheriting",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB4WizardAndEditorShareOneDeploymentModeStore/clearing_the_mode_returns_the_connection_to_inheriting",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908957527,
+  "stop": 1791908957527,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB4WizardAndEditorShareOneDeploymentModeStore/clearing_the_mode_returns_the_connection_to_inheriting"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

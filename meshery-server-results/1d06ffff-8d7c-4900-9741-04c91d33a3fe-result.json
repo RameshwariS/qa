@@ -1,0 +1,44 @@
+{
+  "uuid": "1d06ffff-8d7c-4900-9741-04c91d33a3fe",
+  "name": "TestGetComponentMetadataWithNilModel",
+  "fullName": "github.com/meshery/meshery/server/models::TestGetComponentMetadataWithNilModel",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908959367,
+  "stop": 1791908959388,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetComponentMetadataWithNilModel"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
