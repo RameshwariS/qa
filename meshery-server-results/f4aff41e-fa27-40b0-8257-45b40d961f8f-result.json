@@ -1,0 +1,44 @@
+{
+  "uuid": "f4aff41e-fa27-40b0-8257-45b40d961f8f",
+  "name": "TestCredentialAuthSecret/legacy_string_shape",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret/legacy_string_shape",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931219038,
+  "stop": 1791931219038,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret/legacy_string_shape"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "a0e91320-e735-4ce1-af16-8dfab4870b93",
+  "name": "TestCanonicalSeedDeterminism",
+  "fullName": "github.com/meshery/meshery/server/policies::TestCanonicalSeedDeterminism",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931261957,
+  "stop": 1791931261958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCanonicalSeedDeterminism"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

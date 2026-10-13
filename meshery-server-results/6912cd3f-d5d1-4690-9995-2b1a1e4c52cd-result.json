@@ -1,0 +1,44 @@
+{
+  "uuid": "6912cd3f-d5d1-4690-9995-2b1a1e4c52cd",
+  "name": "TestSanitizeOrderInput/more_than_two_words_is_rejected",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/more_than_two_words_is_rejected",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931333574,
+  "stop": 1791931333574,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/more_than_two_words_is_rejected"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "752248ac-3e82-4430-8365-194064f66869",
+  "name": "TestToConnectionDefinitions/given_only_connection_definitions_when_converting_then_no_phantom_entries_are_returned",
+  "fullName": "github.com/meshery/meshery/server/machines/helpers::TestToConnectionDefinitions/given_only_connection_definitions_when_converting_then_no_phantom_entries_are_returned",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931201590,
+  "stop": 1791931201590,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines/helpers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestToConnectionDefinitions/given_only_connection_definitions_when_converting_then_no_phantom_entries_are_returned"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

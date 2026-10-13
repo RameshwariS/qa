@@ -1,0 +1,44 @@
+{
+  "uuid": "fe646b40-5570-43ae-8388-cf5cf172ee1f",
+  "name": "TestApplyControllersConfigMeshSyncCRSettings/version,_replicas_and_a_whitelist",
+  "fullName": "github.com/meshery/meshery/server/models::TestApplyControllersConfigMeshSyncCRSettings/version,_replicas_and_a_whitelist",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931217757,
+  "stop": 1791931217776,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestApplyControllersConfigMeshSyncCRSettings/version,_replicas_and_a_whitelist"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

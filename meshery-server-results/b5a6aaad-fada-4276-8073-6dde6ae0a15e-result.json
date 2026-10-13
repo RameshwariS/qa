@@ -1,0 +1,44 @@
+{
+  "uuid": "b5a6aaad-fada-4276-8073-6dde6ae0a15e",
+  "name": "TestCreatePlanInvertsOrderForUndeploy",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanInvertsOrderForUndeploy",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931220180,
+  "stop": 1791931220180,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanInvertsOrderForUndeploy"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "457c75c5-5d62-4432-8e0e-cca9c0e491d6",
+  "name": "TestAnonymousFlowResponseRejectsLegacyOwnerKey",
+  "fullName": "github.com/meshery/meshery/server/models::TestAnonymousFlowResponseRejectsLegacyOwnerKey",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931217756,
+  "stop": 1791931217756,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAnonymousFlowResponseRejectsLegacyOwnerKey"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

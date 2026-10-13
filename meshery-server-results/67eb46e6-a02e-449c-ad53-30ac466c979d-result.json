@@ -1,0 +1,44 @@
+{
+  "uuid": "67eb46e6-a02e-449c-ad53-30ac466c979d",
+  "name": "TestHealthUnparseableStillReachable",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestHealthUnparseableStillReachable",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931223011,
+  "stop": 1791931223012,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHealthUnparseableStillReachable"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

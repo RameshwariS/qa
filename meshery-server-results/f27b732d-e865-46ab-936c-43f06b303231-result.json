@@ -1,0 +1,44 @@
+{
+  "uuid": "f27b732d-e865-46ab-936c-43f06b303231",
+  "name": "TestPreferenceOmittedOrganizationKeyPreservesSelection",
+  "fullName": "github.com/meshery/meshery/server/models::TestPreferenceOmittedOrganizationKeyPreservesSelection",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931220194,
+  "stop": 1791931220194,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPreferenceOmittedOrganizationKeyPreservesSelection"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

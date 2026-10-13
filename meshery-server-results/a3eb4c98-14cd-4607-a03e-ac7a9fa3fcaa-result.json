@@ -1,0 +1,44 @@
+{
+  "uuid": "a3eb4c98-14cd-4607-a03e-ac7a9fa3fcaa",
+  "name": "TestCredentialAuthSecret/nil_secret",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret/nil_secret",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931219039,
+  "stop": 1791931219039,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret/nil_secret"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

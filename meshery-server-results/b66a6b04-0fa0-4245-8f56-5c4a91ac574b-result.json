@@ -1,0 +1,44 @@
+{
+  "uuid": "b66a6b04-0fa0-4245-8f56-5c4a91ac574b",
+  "name": "TestReconcileComparesPinnedVersionsNotRequestedOnes",
+  "fullName": "github.com/meshery/meshery/server/models::TestReconcileComparesPinnedVersionsNotRequestedOnes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931219963,
+  "stop": 1791931219963,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestReconcileComparesPinnedVersionsNotRequestedOnes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

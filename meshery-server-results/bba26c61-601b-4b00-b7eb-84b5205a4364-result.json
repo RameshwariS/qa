@@ -1,0 +1,44 @@
+{
+  "uuid": "bba26c61-601b-4b00-b7eb-84b5205a4364",
+  "name": "TestCreatePlanTreatsDependencyOnAnnotationAsSatisfied",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanTreatsDependencyOnAnnotationAsSatisfied",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931220180,
+  "stop": 1791931220180,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanTreatsDependencyOnAnnotationAsSatisfied"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "8752e4b4-806d-44c5-9fb3-bb406eae92b7",
+  "name": "TestLocalProviderUserIdentityIsSingleSourced",
+  "fullName": "github.com/meshery/meshery/server/models::TestLocalProviderUserIdentityIsSingleSourced",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931219452,
+  "stop": 1791931219452,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestLocalProviderUserIdentityIsSingleSourced"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

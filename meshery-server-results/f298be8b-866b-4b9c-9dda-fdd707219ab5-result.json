@@ -1,0 +1,44 @@
+{
+  "uuid": "f298be8b-866b-4b9c-9dda-fdd707219ab5",
+  "name": "TestSaveMesheryPattern_SendsPatternDataWrapperKey",
+  "fullName": "github.com/meshery/meshery/server/models::TestSaveMesheryPattern_SendsPatternDataWrapperKey",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791931236086,
+  "stop": 1791931236089,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSaveMesheryPattern_SendsPatternDataWrapperKey"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
