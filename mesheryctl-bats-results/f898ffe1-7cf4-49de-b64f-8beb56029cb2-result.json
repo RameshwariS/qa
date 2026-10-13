@@ -1,0 +1,35 @@
+{
+  "uuid": "f898ffe1-7cf4-49de-b64f-8beb56029cb2",
+  "name": "mesheryctl model export displays usage instructions when no model name provided",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885578144,
+  "stop": 1791885578145,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Model"
+    },
+    {
+      "name": "testGroup",
+      "value": "Model Export"
+    }
+  ]
+}

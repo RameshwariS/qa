@@ -1,0 +1,27 @@
+{
+  "uuid": "7af0b0ce-7ef9-4d3f-b5f0-25ae93b6d88c",
+  "name": "mesheryctl design import -f nginx.yaml displays imported and output the design Id",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885578145,
+  "stop": 1791885578146,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}
