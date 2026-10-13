@@ -1,0 +1,46 @@
+{
+  "uuid": "409839e5-203b-416a-8d98-07898e2c6ed2",
+  "name": "TestProcessEvaluationResponse_NilPointerGuard/IsAnnotation_metadata_is_copied_to_hydrated_component",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestProcessEvaluationResponse_NilPointerGuard/IsAnnotation_metadata_is_copied_to_hydrated_component",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885685641,
+  "stop": 1791885685674,
+  "statusDetails": {
+    "message": "=== PAUSE TestProcessEvaluationResponse_NilPointerGuard/IsAnnotation_metadata_is_copied_to_hydrated_component\n=== CONT  TestProcessEvaluationResponse_NilPointerGuard/IsAnnotation_metadata_is_copied_to_hydrated_component"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProcessEvaluationResponse_NilPointerGuard/IsAnnotation_metadata_is_copied_to_hydrated_component"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

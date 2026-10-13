@@ -1,0 +1,46 @@
+{
+  "uuid": "88599094-8e6f-4806-8a81-554617220589",
+  "name": "TestPostLoginRedirect_LocationNeverLeavesTheOrigin/aHR0cHM6Ly9rYW52YXMubmV3Ly9ldmlsLmV4YW1wbGUvcHJldGVuZC1sb2dpbg==",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationNeverLeavesTheOrigin/aHR0cHM6Ly9rYW52YXMubmV3Ly9ldmlsLmV4YW1wbGUvcHJldGVuZC1sb2dpbg==",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885778380,
+  "stop": 1791885778381,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationNeverLeavesTheOrigin/aHR0cHM6Ly9rYW52YXMubmV3Ly9ldmlsLmV4YW1wbGUvcHJldGVuZC1sb2dpbg==\n=== CONT  TestPostLoginRedirect_LocationNeverLeavesTheOrigin/aHR0cHM6Ly9rYW52YXMubmV3Ly9ldmlsLmV4YW1wbGUvcHJldGVuZC1sb2dpbg=="
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationNeverLeavesTheOrigin/aHR0cHM6Ly9rYW52YXMubmV3Ly9ldmlsLmV4YW1wbGUvcHJldGVuZC1sb2dpbg=="
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "ce19ff7f-db9e-454e-a25d-8af5268932e7",
+  "name": "TestB2OperatorVersionSelectsTheOperatorChartVersion/surrounding_whitespace_is_trimmed",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2OperatorVersionSelectsTheOperatorChartVersion/surrounding_whitespace_is_trimmed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885683398,
+  "stop": 1791885683399,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2OperatorVersionSelectsTheOperatorChartVersion/surrounding_whitespace_is_trimmed"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

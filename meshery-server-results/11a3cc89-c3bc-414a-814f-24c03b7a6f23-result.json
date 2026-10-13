@@ -1,0 +1,44 @@
+{
+  "uuid": "11a3cc89-c3bc-414a-814f-24c03b7a6f23",
+  "name": "TestValidateControllersConfig/valid_deployment_mode",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/valid_deployment_mode",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885681203,
+  "stop": 1791885681203,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/valid_deployment_mode"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

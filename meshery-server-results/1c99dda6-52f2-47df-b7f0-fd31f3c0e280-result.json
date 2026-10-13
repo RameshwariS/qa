@@ -1,0 +1,44 @@
+{
+  "uuid": "1c99dda6-52f2-47df-b7f0-fd31f3c0e280",
+  "name": "TestDerivedChartVersionSubstitutionIsNeverSilent",
+  "fullName": "github.com/meshery/meshery/server/models::TestDerivedChartVersionSubstitutionIsNeverSilent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885683324,
+  "stop": 1791885683324,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDerivedChartVersionSubstitutionIsNeverSilent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

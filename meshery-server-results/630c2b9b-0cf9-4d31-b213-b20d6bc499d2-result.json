@@ -1,0 +1,44 @@
+{
+  "uuid": "630c2b9b-0cf9-4d31-b213-b20d6bc499d2",
+  "name": "TestB2ReconcileOperatorChartVersionRedeploysOnChange",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2ReconcileOperatorChartVersionRedeploysOnChange",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885683400,
+  "stop": 1791885683402,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2ReconcileOperatorChartVersionRedeploysOnChange"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

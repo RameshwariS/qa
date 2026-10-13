@@ -1,0 +1,44 @@
+{
+  "uuid": "86e74467-4145-456d-a5c5-e045e8942288",
+  "name": "TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/cloud-bound_login/ref_query_overwrites_a_stale_ref_cookie",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/cloud-bound_login/ref_query_overwrites_a_stale_ref_cookie",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885698827,
+  "stop": 1791885698827,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderInitiateLogin_RefCookieCarriesOnlyThisAttemptsDestination/cloud-bound_login/ref_query_overwrites_a_stale_ref_cookie"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

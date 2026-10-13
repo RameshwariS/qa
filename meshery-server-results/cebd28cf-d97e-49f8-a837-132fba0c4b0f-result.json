@@ -1,0 +1,44 @@
+{
+  "uuid": "cebd28cf-d97e-49f8-a837-132fba0c4b0f",
+  "name": "TestCredentialPayload/canonical_kubernetes_payload_is_the_secret_map_itself",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload/canonical_kubernetes_payload_is_the_secret_map_itself",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885682547,
+  "stop": 1791885682547,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload/canonical_kubernetes_payload_is_the_secret_map_itself"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

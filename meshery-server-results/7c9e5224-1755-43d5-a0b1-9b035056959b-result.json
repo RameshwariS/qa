@@ -1,0 +1,44 @@
+{
+  "uuid": "7c9e5224-1755-43d5-a0b1-9b035056959b",
+  "name": "TestAnalyzer",
+  "fullName": "github.com/meshery/meshery/server/internal/lint/orderby::TestAnalyzer",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885657474,
+  "stop": 1791885660624,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/internal"
+    },
+    {
+      "name": "suite",
+      "value": "server/internal/lint/orderby"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAnalyzer"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "e3b34998-3317-4a89-90aa-22d616a7f7ce",
+  "name": "TestQueryRangeBatchConcurrencyKeepsAllResults",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestQueryRangeBatchConcurrencyKeepsAllResults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791885687343,
+  "stop": 1791885687347,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestQueryRangeBatchConcurrencyKeepsAllResults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
