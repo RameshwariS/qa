@@ -1,0 +1,35 @@
+{
+  "uuid": "ac3cf910-40af-4ef1-813d-79db8373437d",
+  "name": "given no file, filePath or URL when running mesheryctl model generate then usage instructions are displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908815126,
+  "stop": 1791908815127,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Model"
+    },
+    {
+      "name": "testGroup",
+      "value": "Model Generate"
+    }
+  ]
+}

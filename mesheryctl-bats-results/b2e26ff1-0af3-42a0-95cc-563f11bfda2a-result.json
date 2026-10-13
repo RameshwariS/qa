@@ -1,0 +1,27 @@
+{
+  "uuid": "b2e26ff1-0af3-42a0-95cc-563f11bfda2a",
+  "name": "mesheryctl design view with no argument throws an error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908815126,
+  "stop": 1791908815127,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

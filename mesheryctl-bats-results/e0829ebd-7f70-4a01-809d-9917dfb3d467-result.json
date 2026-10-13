@@ -1,0 +1,35 @@
+{
+  "uuid": "e0829ebd-7f70-4a01-809d-9917dfb3d467",
+  "name": "component list shows header and pagination info",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908815127,
+  "stop": 1791908815128,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Component"
+    },
+    {
+      "name": "testGroup",
+      "value": "Component List"
+    }
+  ]
+}

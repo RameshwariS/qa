@@ -1,0 +1,36 @@
+(from function `assert_line' in file /usr/lib/bats-assert/src/assert_line.bash, line 219,
+ in test file 003-design/03-design-list.bats, line 17)
+  `assert_line --regexp "$DESIGN_LIST_OUTPUT__HEADER_REGEX_PATTERN"' failed
+
+-- no output line matches regular expression --
+regexp : ^DESIGN[[:space:]]ID[[:space:]]+(USER[[:space:]]ID)?[[:space:]]+NAME[[:space:]]+CREATED[[:space:]]+UPDATED[[:space:]]+$
+output (13 lines):
+  Total number of designs: 72574
+  Page: 1
+  DESIGN ID                             OWNER     NAME                          CREATED     UPDATED
+  6ef1b815-846d-46da-9c82-3d1e1fd83bfd  dea82811  nginx                         10-13-2026  10-13-2026
+  db2c5d34-1588-428e-ba84-05fb115c3019  dea82811  nginx                         10-13-2026  10-13-2026
+  3f8896c1-4611-4ea4-aae3-083c2bb38d6b  dea82811                                10-13-2026  10-13-2026
+  14e1f12b-1664-4d16-8def-3f6291fe6d82  5da162a6  My First Meshery Design       10-13-2026  10-13-2026
+  3ad42e98-abcc-47c1-aa50-ae277fd774df  103553a1  bluegreen-demo-kanvas         10-13-2026  10-13-2026
+  f66c0f63-d7a2-4bf1-8d3e-80c93442e3d0  103553a1  bluegreen-demo                10-13-2026  10-13-2026
+  8ed28a93-54ee-4104-b8b1-4c1aca3da46b  6a52192b  My first Kubernetes Design    10-13-2026  10-13-2026
+  7014a736-bb31-4610-98c1-f6101a0970ba  6a52192b  My first Kubernetes Design    10-13-2026  10-13-2026
+  8eb893e6-f152-4c81-985a-2f456abd3eef  398097cf  Kubernetes Web Application    10-13-2026  10-13-2026
+  4d0b9f8e-c2c3-4c85-a6b3-575abb99e9ce  398097cf  Cloud-Native Web Application  10-13-2026  10-13-2026
+--
+
+Last output:
+Total number of designs: 72574
+Page: 1
+DESIGN ID                             OWNER     NAME                          CREATED     UPDATED
+6ef1b815-846d-46da-9c82-3d1e1fd83bfd  dea82811  nginx                         10-13-2026  10-13-2026
+db2c5d34-1588-428e-ba84-05fb115c3019  dea82811  nginx                         10-13-2026  10-13-2026
+3f8896c1-4611-4ea4-aae3-083c2bb38d6b  dea82811                                10-13-2026  10-13-2026
+14e1f12b-1664-4d16-8def-3f6291fe6d82  5da162a6  My First Meshery Design       10-13-2026  10-13-2026
+3ad42e98-abcc-47c1-aa50-ae277fd774df  103553a1  bluegreen-demo-kanvas         10-13-2026  10-13-2026
+f66c0f63-d7a2-4bf1-8d3e-80c93442e3d0  103553a1  bluegreen-demo                10-13-2026  10-13-2026
+8ed28a93-54ee-4104-b8b1-4c1aca3da46b  6a52192b  My first Kubernetes Design    10-13-2026  10-13-2026
+7014a736-bb31-4610-98c1-f6101a0970ba  6a52192b  My first Kubernetes Design    10-13-2026  10-13-2026
+8eb893e6-f152-4c81-985a-2f456abd3eef  398097cf  Kubernetes Web Application    10-13-2026  10-13-2026
+4d0b9f8e-c2c3-4c85-a6b3-575abb99e9ce  398097cf  Cloud-Native Web Application  10-13-2026  10-13-2026

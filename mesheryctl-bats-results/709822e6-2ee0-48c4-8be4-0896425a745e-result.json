@@ -1,0 +1,35 @@
+{
+  "uuid": "709822e6-2ee0-48c4-8be4-0896425a745e",
+  "name": "mesheryctl model import fails for invalid model artifact",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1791908815125,
+  "stop": 1791908815126,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Model"
+    },
+    {
+      "name": "testGroup",
+      "value": "Model Import"
+    }
+  ]
+}
