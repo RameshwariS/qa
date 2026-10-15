@@ -1,0 +1,44 @@
+{
+  "uuid": "0ead4803-dab6-4c64-9b5f-230be1d5130d",
+  "name": "TestDeleteMeshSyncResource",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteMeshSyncResource",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087012861,
+  "stop": 1792087012879,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteMeshSyncResource"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

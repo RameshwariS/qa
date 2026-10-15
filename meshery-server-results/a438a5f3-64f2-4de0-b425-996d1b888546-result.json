@@ -1,0 +1,44 @@
+{
+  "uuid": "a438a5f3-64f2-4de0-b425-996d1b888546",
+  "name": "TestUICacheHeaders/html_with_Not_set_build_suppresses_etag",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders/html_with_Not_set_build_suppresses_etag",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087012960,
+  "stop": 1792087012960,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders/html_with_Not_set_build_suppresses_etag"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

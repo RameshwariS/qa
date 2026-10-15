@@ -1,0 +1,44 @@
+{
+  "uuid": "e25c7b30-f883-4908-bf75-503b36e102de",
+  "name": "TestB2OperatorDeploymentConfigKeepsTheServerWideFields",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2OperatorDeploymentConfigKeepsTheServerWideFields",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087013877,
+  "stop": 1792087013877,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2OperatorDeploymentConfigKeepsTheServerWideFields"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "d45575ae-2701-4034-ae57-b7d697c265ba",
+  "name": "TestFetchChartIndexVersionsToleratesATrailingSlash",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestFetchChartIndexVersionsToleratesATrailingSlash",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792086975555,
+  "stop": 1792086975557,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFetchChartIndexVersionsToleratesATrailingSlash"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

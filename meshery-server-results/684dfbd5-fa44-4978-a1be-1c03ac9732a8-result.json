@@ -1,0 +1,44 @@
+{
+  "uuid": "684dfbd5-fa44-4978-a1be-1c03ac9732a8",
+  "name": "TestServeUI_HTMLHasNoCacheAndVersionETag",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestServeUI_HTMLHasNoCacheAndVersionETag",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087012935,
+  "stop": 1792087012957,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestServeUI_HTMLHasNoCacheAndVersionETag"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

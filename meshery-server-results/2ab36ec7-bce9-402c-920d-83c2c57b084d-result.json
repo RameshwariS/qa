@@ -1,0 +1,44 @@
+{
+  "uuid": "2ab36ec7-bce9-402c-920d-83c2c57b084d",
+  "name": "TestMeshsyncDeploymentModeFromMetadata/wrong_type",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestMeshsyncDeploymentModeFromMetadata/wrong_type",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087011976,
+  "stop": 1792087011976,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMeshsyncDeploymentModeFromMetadata/wrong_type"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "cb24ce5d-0f0b-4abe-a9af-da73e18d76cf",
+  "name": "TestMissingHandlerNeverClobbersTheSpecificDiagnostic",
+  "fullName": "github.com/meshery/meshery/server/models::TestMissingHandlerNeverClobbersTheSpecificDiagnostic",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087013861,
+  "stop": 1792087013861,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMissingHandlerNeverClobbersTheSpecificDiagnostic"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

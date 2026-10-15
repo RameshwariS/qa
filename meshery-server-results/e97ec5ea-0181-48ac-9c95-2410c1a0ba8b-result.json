@@ -1,0 +1,44 @@
+{
+  "uuid": "e97ec5ea-0181-48ac-9c95-2410c1a0ba8b",
+  "name": "TestCurrentValues/unexpected_number",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestCurrentValues/unexpected_number",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087015375,
+  "stop": 1792087015375,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCurrentValues/unexpected_number"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

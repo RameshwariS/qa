@@ -1,0 +1,44 @@
+{
+  "uuid": "2effb224-f1d1-42e5-93d8-06e3defd85b8",
+  "name": "TestReconcileLeavesTheAttachedVersionClearedWhenResolutionFails",
+  "fullName": "github.com/meshery/meshery/server/models::TestReconcileLeavesTheAttachedVersionClearedWhenResolutionFails",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087013862,
+  "stop": 1792087013867,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestReconcileLeavesTheAttachedVersionClearedWhenResolutionFails"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

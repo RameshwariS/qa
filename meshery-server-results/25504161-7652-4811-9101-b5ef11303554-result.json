@@ -1,0 +1,44 @@
+{
+  "uuid": "25504161-7652-4811-9101-b5ef11303554",
+  "name": "TestRegisterRegistryRoute",
+  "fullName": "github.com/meshery/meshery/server/router::TestRegisterRegistryRoute",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087022547,
+  "stop": 1792087022548,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/router"
+    },
+    {
+      "name": "suite",
+      "value": "server/router"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegisterRegistryRoute"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

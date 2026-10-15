@@ -1,0 +1,44 @@
+{
+  "uuid": "dcce9f15-4822-4a19-a0d4-c7f471f29ef4",
+  "name": "TestProviderUIHandler_LoopGuards",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestProviderUIHandler_LoopGuards",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087012859,
+  "stop": 1792087012860,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProviderUIHandler_LoopGuards"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

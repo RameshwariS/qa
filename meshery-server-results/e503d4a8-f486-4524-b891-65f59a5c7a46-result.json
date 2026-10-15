@@ -1,0 +1,44 @@
+{
+  "uuid": "e503d4a8-f486-4524-b891-65f59a5c7a46",
+  "name": "TestSaveUserCredentialReturnsPopulatedCredential",
+  "fullName": "github.com/meshery/meshery/server/models::TestSaveUserCredentialReturnsPopulatedCredential",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087013058,
+  "stop": 1792087013061,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSaveUserCredentialReturnsPopulatedCredential"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

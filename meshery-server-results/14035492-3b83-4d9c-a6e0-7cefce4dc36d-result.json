@@ -1,0 +1,44 @@
+{
+  "uuid": "14035492-3b83-4d9c-a6e0-7cefce4dc36d",
+  "name": "TestRelationshipV1alpha3ToV1beta2_PreservesFieldsDroppedByJSON",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/utils::TestRelationshipV1alpha3ToV1beta2_PreservesFieldsDroppedByJSON",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087015004,
+  "stop": 1792087015006,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRelationshipV1alpha3ToV1beta2_PreservesFieldsDroppedByJSON"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

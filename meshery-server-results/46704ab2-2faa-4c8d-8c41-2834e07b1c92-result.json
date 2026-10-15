@@ -1,0 +1,44 @@
+{
+  "uuid": "46704ab2-2faa-4c8d-8c41-2834e07b1c92",
+  "name": "TestPreferenceUnmarshalsCanonicalAndLegacySelectedOrganizationId/canonical",
+  "fullName": "github.com/meshery/meshery/server/models::TestPreferenceUnmarshalsCanonicalAndLegacySelectedOrganizationId/canonical",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087014007,
+  "stop": 1792087014007,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPreferenceUnmarshalsCanonicalAndLegacySelectedOrganizationId/canonical"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

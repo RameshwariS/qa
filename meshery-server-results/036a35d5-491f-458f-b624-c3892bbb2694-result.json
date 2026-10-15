@@ -1,0 +1,44 @@
+{
+  "uuid": "036a35d5-491f-458f-b624-c3892bbb2694",
+  "name": "TestGetUsersKeys_ProviderErrorReturnsFallbackStatus",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetUsersKeys_ProviderErrorReturnsFallbackStatus",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792087012881,
+  "stop": 1792087012881,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetUsersKeys_ProviderErrorReturnsFallbackStatus"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
