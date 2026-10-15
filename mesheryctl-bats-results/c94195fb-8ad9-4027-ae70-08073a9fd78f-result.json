@@ -1,0 +1,27 @@
+{
+  "uuid": "c94195fb-8ad9-4027-ae70-08073a9fd78f",
+  "name": "given an invalid source type when mesheryctl design deploy --file file-path --source invalid-source-type then an error message is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792081983307,
+  "stop": 1792081983308,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

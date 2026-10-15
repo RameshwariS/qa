@@ -1,0 +1,35 @@
+{
+  "uuid": "65186800-d0ac-4f4a-a3d1-e43e51cc4479",
+  "name": "mesheryctl perf apply with URL and mesh istio runs successfully",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792081983307,
+  "stop": 1792081983308,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Performance"
+    },
+    {
+      "name": "testGroup",
+      "value": "Performance Apply"
+    }
+  ]
+}

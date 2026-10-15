@@ -1,0 +1,35 @@
+{
+  "uuid": "a6a27d5d-224e-49a1-99ff-f935e00e2ae0",
+  "name": "Search for a known component",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792081983308,
+  "stop": 1792081983309,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Component"
+    },
+    {
+      "name": "testGroup",
+      "value": "Component Search"
+    }
+  ]
+}
