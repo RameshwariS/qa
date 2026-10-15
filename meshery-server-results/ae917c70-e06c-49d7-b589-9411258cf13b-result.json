@@ -1,0 +1,44 @@
+{
+  "uuid": "ae917c70-e06c-49d7-b589-9411258cf13b",
+  "name": "TestGetPaginationParams",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestGetPaginationParams",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082234228,
+  "stop": 1792082234231,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetPaginationParams"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

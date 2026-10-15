@@ -1,0 +1,44 @@
+{
+  "uuid": "8fae7c74-c31d-4ea8-850b-0be7823c9ee5",
+  "name": "TestFlushMeshSyncResourcesForCluster",
+  "fullName": "github.com/meshery/meshery/server/models::TestFlushMeshSyncResourcesForCluster",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082238599,
+  "stop": 1792082238614,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFlushMeshSyncResourcesForCluster"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

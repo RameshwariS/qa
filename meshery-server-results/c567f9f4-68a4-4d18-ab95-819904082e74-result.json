@@ -1,0 +1,44 @@
+{
+  "uuid": "c567f9f4-68a4-4d18-ab95-819904082e74",
+  "name": "TestB1EffectiveConfigReportsTheModeTheConnectionRuns/the_merged_document_is_left_carrying_only_explicitly-set_fields",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB1EffectiveConfigReportsTheModeTheConnectionRuns/the_merged_document_is_left_carrying_only_explicitly-set_fields",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082237044,
+  "stop": 1792082237044,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB1EffectiveConfigReportsTheModeTheConnectionRuns/the_merged_document_is_left_carrying_only_explicitly-set_fields"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

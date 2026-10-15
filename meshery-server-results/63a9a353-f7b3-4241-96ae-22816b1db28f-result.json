@@ -1,0 +1,44 @@
+{
+  "uuid": "63a9a353-f7b3-4241-96ae-22816b1db28f",
+  "name": "TestK8sContextFromConnectionCredentialShapes",
+  "fullName": "github.com/meshery/meshery/server/models::TestK8sContextFromConnectionCredentialShapes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082238592,
+  "stop": 1792082238598,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sContextFromConnectionCredentialShapes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

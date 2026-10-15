@@ -1,0 +1,44 @@
+{
+  "uuid": "f53e5ddc-2bb9-49c7-8990-1bb367dda0ef",
+  "name": "TestMergeControllersConfigWatchListAtomic",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestMergeControllersConfigWatchListAtomic",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082237036,
+  "stop": 1792082237036,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMergeControllersConfigWatchListAtomic"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

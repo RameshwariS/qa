@@ -1,0 +1,44 @@
+{
+  "uuid": "a1e288fc-30d8-40a8-a35a-5f22134c998d",
+  "name": "TestNewParallelProcessGraphRejectsAnEdgeToAnUnknownNode",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestNewParallelProcessGraphRejectsAnEdgeToAnUnknownNode",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082238973,
+  "stop": 1792082238973,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNewParallelProcessGraphRejectsAnEdgeToAnUnknownNode"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

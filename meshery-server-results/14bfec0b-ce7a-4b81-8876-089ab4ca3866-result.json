@@ -1,0 +1,44 @@
+{
+  "uuid": "14bfec0b-ce7a-4b81-8876-089ab4ca3866",
+  "name": "TestAggregateSummariesByKind/empty_kind_is_skipped",
+  "fullName": "github.com/meshery/meshery/server/models::TestAggregateSummariesByKind/empty_kind_is_skipped",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082334900,
+  "stop": 1792082334900,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAggregateSummariesByKind/empty_kind_is_skipped"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

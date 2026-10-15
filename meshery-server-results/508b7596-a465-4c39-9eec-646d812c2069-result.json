@@ -1,0 +1,44 @@
+{
+  "uuid": "508b7596-a465-4c39-9eec-646d812c2069",
+  "name": "TestSanitizeOrderInput/legacy_snake_case_input_still_accepted",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/legacy_snake_case_input_still_accepted",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082334901,
+  "stop": 1792082334901,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/legacy_snake_case_input_still_accepted"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

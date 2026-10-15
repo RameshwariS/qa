@@ -1,0 +1,44 @@
+{
+  "uuid": "db636dc6-86eb-4d5b-9e83-28ba029062fa",
+  "name": "TestChartVersionSpellingIsSemverNotStringEquality",
+  "fullName": "github.com/meshery/meshery/server/models::TestChartVersionSpellingIsSemverNotStringEquality",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082239203,
+  "stop": 1792082239204,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartVersionSpellingIsSemverNotStringEquality"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

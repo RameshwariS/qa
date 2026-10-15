@@ -1,0 +1,44 @@
+{
+  "uuid": "89828c85-f551-400e-8d93-5663e4bffea4",
+  "name": "TestMachineCtxForConnection",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMachineCtxForConnection",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082233178,
+  "stop": 1792082233179,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMachineCtxForConnection"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
