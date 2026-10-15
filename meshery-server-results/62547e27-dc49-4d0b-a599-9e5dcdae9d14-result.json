@@ -1,0 +1,44 @@
+{
+  "uuid": "62547e27-dc49-4d0b-a599-9e5dcdae9d14",
+  "name": "TestUpdateControllersDefaultConfig_EmptyDocumentClearsDefaults",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUpdateControllersDefaultConfig_EmptyDocumentClearsDefaults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082875120,
+  "stop": 1792082875122,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUpdateControllersDefaultConfig_EmptyDocumentClearsDefaults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

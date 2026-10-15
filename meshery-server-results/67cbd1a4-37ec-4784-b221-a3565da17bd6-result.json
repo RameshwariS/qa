@@ -1,0 +1,44 @@
+{
+  "uuid": "67cbd1a4-37ec-4784-b221-a3565da17bd6",
+  "name": "TestMesheryPattern_UnmarshalAcceptsBothCountSpellings/legacy_snake_case",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryPattern_UnmarshalAcceptsBothCountSpellings/legacy_snake_case",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082869580,
+  "stop": 1792082869580,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPattern_UnmarshalAcceptsBothCountSpellings/legacy_snake_case"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

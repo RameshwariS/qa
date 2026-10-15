@@ -1,0 +1,44 @@
+{
+  "uuid": "7a08a46e-0e7e-459d-9480-338f100d8609",
+  "name": "TestRestrictToEnforcedProvider/remote_pin_drops_Local_and_other_remotes",
+  "fullName": "github.com/meshery/meshery/server/models::TestRestrictToEnforcedProvider/remote_pin_drops_Local_and_other_remotes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082885551,
+  "stop": 1792082885551,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRestrictToEnforcedProvider/remote_pin_drops_Local_and_other_remotes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

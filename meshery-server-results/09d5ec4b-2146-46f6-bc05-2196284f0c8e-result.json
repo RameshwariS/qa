@@ -1,0 +1,44 @@
+{
+  "uuid": "09d5ec4b-2146-46f6-bc05-2196284f0c8e",
+  "name": "TestApplyControllersConfigReportsAbsentTargetsAsSkipped/custom_resources_absent,_deployment_present",
+  "fullName": "github.com/meshery/meshery/server/models::TestApplyControllersConfigReportsAbsentTargetsAsSkipped/custom_resources_absent,_deployment_present",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082869190,
+  "stop": 1792082869197,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestApplyControllersConfigReportsAbsentTargetsAsSkipped/custom_resources_absent,_deployment_present"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

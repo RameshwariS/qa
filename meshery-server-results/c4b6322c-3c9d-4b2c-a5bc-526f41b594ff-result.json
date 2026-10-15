@@ -1,0 +1,44 @@
+{
+  "uuid": "c4b6322c-3c9d-4b2c-a5bc-526f41b594ff",
+  "name": "TestUICacheHeaders/css_asset",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestUICacheHeaders/css_asset",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082876203,
+  "stop": 1792082876203,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUICacheHeaders/css_asset"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

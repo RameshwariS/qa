@@ -1,0 +1,44 @@
+{
+  "uuid": "cddd8fef-9fc6-4700-9313-ccb22fd93d1f",
+  "name": "TestSendEvent_TransitionErrorOnDiscoveryDeDuplicated",
+  "fullName": "github.com/meshery/meshery/server/machines::TestSendEvent_TransitionErrorOnDiscoveryDeDuplicated",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082851658,
+  "stop": 1792082851658,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSendEvent_TransitionErrorOnDiscoveryDeDuplicated"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

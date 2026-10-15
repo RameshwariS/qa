@@ -1,0 +1,44 @@
+{
+  "uuid": "ccc77c28-d9bb-4025-83ef-07e4ffd0428e",
+  "name": "TestSeedUpdatesForClearsOwnerButKeepsCredential/carried_on_the_canonical_columns",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedUpdatesForClearsOwnerButKeepsCredential/carried_on_the_canonical_columns",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082983295,
+  "stop": 1792082983295,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedUpdatesForClearsOwnerButKeepsCredential/carried_on_the_canonical_columns"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

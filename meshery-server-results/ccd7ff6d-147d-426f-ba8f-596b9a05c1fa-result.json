@@ -1,0 +1,44 @@
+{
+  "uuid": "ccd7ff6d-147d-426f-ba8f-596b9a05c1fa",
+  "name": "TestProvisionReportsAComponentThatCouldNotBeEnriched",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionReportsAComponentThatCouldNotBeEnriched",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082871594,
+  "stop": 1792082871611,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionReportsAComponentThatCouldNotBeEnriched"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

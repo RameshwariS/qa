@@ -1,0 +1,44 @@
+{
+  "uuid": "9c617504-7932-4068-8e43-864b2391c89f",
+  "name": "TestMachineCtxForConnection/nil_Context_is_not-ready",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMachineCtxForConnection/nil_Context_is_not-ready",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082875186,
+  "stop": 1792082875187,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMachineCtxForConnection/nil_Context_is_not-ready"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "5b21f060-7932-419b-b1ae-0b5f107e49c3",
+  "name": "TestChartResolutionFailureIsClearedByALaterSuccess",
+  "fullName": "github.com/meshery/meshery/server/models::TestChartResolutionFailureIsClearedByALaterSuccess",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082870058,
+  "stop": 1792082870068,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartResolutionFailureIsClearedByALaterSuccess"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

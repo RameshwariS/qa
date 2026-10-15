@@ -1,0 +1,44 @@
+{
+  "uuid": "e76aeb56-5a13-4ecf-867d-0ad3a96aaa05",
+  "name": "TestMovingChartVersionNeverReachesHelm/edge-latest",
+  "fullName": "github.com/meshery/meshery/server/models::TestMovingChartVersionNeverReachesHelm/edge-latest",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082870045,
+  "stop": 1792082870045,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMovingChartVersionNeverReachesHelm/edge-latest"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

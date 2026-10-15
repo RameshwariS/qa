@@ -1,0 +1,44 @@
+{
+  "uuid": "a38653fb-5752-4bf6-a49c-356c00b231dd",
+  "name": "TestMeshsyncDataHandlerStopStopsListeners",
+  "fullName": "github.com/meshery/meshery/server/models::TestMeshsyncDataHandlerStopStopsListeners",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082869616,
+  "stop": 1792082869622,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMeshsyncDataHandlerStopStopsListeners"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

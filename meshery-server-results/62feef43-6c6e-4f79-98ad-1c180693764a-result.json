@@ -1,0 +1,44 @@
+{
+  "uuid": "62feef43-6c6e-4f79-98ad-1c180693764a",
+  "name": "TestSeedUpdatesForLeavesStatusAlone",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedUpdatesForLeavesStatusAlone",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082983295,
+  "stop": 1792082983295,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedUpdatesForLeavesStatusAlone"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
