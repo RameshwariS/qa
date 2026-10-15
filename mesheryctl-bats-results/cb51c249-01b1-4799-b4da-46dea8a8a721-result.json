@@ -1,0 +1,27 @@
+{
+  "uuid": "cb51c249-01b1-4799-b4da-46dea8a8a721",
+  "name": "mesheryctl design apply -f invalid path shows error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792086852694,
+  "stop": 1792086852695,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

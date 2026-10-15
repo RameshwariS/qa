@@ -1,0 +1,36 @@
+(from function `assert_line' in file /usr/lib/bats-assert/src/assert_line.bash, line 219,
+ in test file 003-design/03-design-list.bats, line 17)
+  `assert_line --regexp "$DESIGN_LIST_OUTPUT__HEADER_REGEX_PATTERN"' failed
+
+-- no output line matches regular expression --
+regexp : ^DESIGN[[:space:]]ID[[:space:]]+(USER[[:space:]]ID)?[[:space:]]+NAME[[:space:]]+CREATED[[:space:]]+UPDATED[[:space:]]+$
+output (13 lines):
+  Total number of designs: 72597
+  Page: 1
+  DESIGN ID                             OWNER     NAME                                              CREATED     UPDATED
+  ae677983-200b-4381-b596-3b126078ede2  dea82811  nginx                                             10-15-2026  10-15-2026
+  4ac09ecd-d557-4d78-8d55-222df892129b  4b062c12  Example: Configure a Kubernetes Pod (Copy)        10-15-2026  10-15-2026
+  49163775-609b-4e87-93f4-fe8fa2f7fb38  4b062c12  [Tutorial] Exploring Kubernetes Pod               10-15-2026  10-15-2026
+  7f70f6bf-8f73-4bff-b6ec-e331ea4aa661  dea82811  nginx                                             10-15-2026  10-15-2026
+  bcadec5b-113c-4326-b631-407863ecfe9d  dea82811                                                    10-15-2026  10-15-2026
+  bb52c3c7-0c68-4e7e-bb3a-36cfd6c99439  4b062c12  Example: Persistent storage in Kubernetes (Copy)  10-15-2026  10-15-2026
+  c4d73b3f-8d73-46df-8452-3921eb7ad31e  4b062c12  Architecture Diagramming                          10-15-2026  10-15-2026
+  11f45498-f50d-44fb-b326-694cea6c3893  dea82811  nginx                                             10-15-2026  10-15-2026
+  dd031373-8c0d-415d-98f0-657d53f1e9eb  dea82811                                                    10-15-2026  10-15-2026
+  fc29556d-c6a6-4829-9668-6d6025b6d53a  4b062c12  Example: Configure a Kubernetes Pod (Copy)        10-15-2026  10-15-2026
+--
+
+Last output:
+Total number of designs: 72597
+Page: 1
+DESIGN ID                             OWNER     NAME                                              CREATED     UPDATED
+ae677983-200b-4381-b596-3b126078ede2  dea82811  nginx                                             10-15-2026  10-15-2026
+4ac09ecd-d557-4d78-8d55-222df892129b  4b062c12  Example: Configure a Kubernetes Pod (Copy)        10-15-2026  10-15-2026
+49163775-609b-4e87-93f4-fe8fa2f7fb38  4b062c12  [Tutorial] Exploring Kubernetes Pod               10-15-2026  10-15-2026
+7f70f6bf-8f73-4bff-b6ec-e331ea4aa661  dea82811  nginx                                             10-15-2026  10-15-2026
+bcadec5b-113c-4326-b631-407863ecfe9d  dea82811                                                    10-15-2026  10-15-2026
+bb52c3c7-0c68-4e7e-bb3a-36cfd6c99439  4b062c12  Example: Persistent storage in Kubernetes (Copy)  10-15-2026  10-15-2026
+c4d73b3f-8d73-46df-8452-3921eb7ad31e  4b062c12  Architecture Diagramming                          10-15-2026  10-15-2026
+11f45498-f50d-44fb-b326-694cea6c3893  dea82811  nginx                                             10-15-2026  10-15-2026
+dd031373-8c0d-415d-98f0-657d53f1e9eb  dea82811                                                    10-15-2026  10-15-2026
+fc29556d-c6a6-4829-9668-6d6025b6d53a  4b062c12  Example: Configure a Kubernetes Pod (Copy)        10-15-2026  10-15-2026
