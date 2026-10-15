@@ -1,0 +1,27 @@
+{
+  "uuid": "41fda078-aea8-4775-bd81-b8ef79f523e2",
+  "name": "mesheryctl design view using name displays the design content",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082760957,
+  "stop": 1792082760958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

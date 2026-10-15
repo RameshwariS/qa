@@ -1,0 +1,35 @@
+{
+  "uuid": "8076c7ce-618f-42b0-8ed8-3fea672d2e3e",
+  "name": "mesheryctl perf result displays results with correct headers and at least 2 entries",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082760957,
+  "stop": 1792082760958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Performance"
+    },
+    {
+      "name": "testGroup",
+      "value": "Performance Result"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "679ad5ff-ec6e-4d09-838e-3b946d9703b5",
+  "name": "given an invalid file path when mesheryctl design deploy --file invalid-file-path --source source-type then an error message is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082760957,
+  "stop": 1792082760958,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "06d894d9-52a8-43c1-9504-d894107cec04",
+  "name": "cli is available",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082760955,
+  "stop": 1792082760956,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

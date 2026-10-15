@@ -1,0 +1,27 @@
+{
+  "uuid": "618fed83-0b85-4faa-b431-69220a12cdaa",
+  "name": "meshery-broker service is deployed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792082760955,
+  "stop": 1792082760956,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}
