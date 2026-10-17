@@ -1,0 +1,44 @@
+{
+  "uuid": "7042c016-f519-4070-8ae8-3763d4ec5881",
+  "name": "TestRegoSyntax/edge_non_binding.rego",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoSyntax/edge_non_binding.rego",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245096716,
+  "stop": 1792245096716,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoSyntax/edge_non_binding.rego"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

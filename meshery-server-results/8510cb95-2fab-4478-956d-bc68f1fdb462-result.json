@@ -1,0 +1,44 @@
+{
+  "uuid": "8510cb95-2fab-4478-956d-bc68f1fdb462",
+  "name": "TestNormalizeBoardCollapsedRow",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestNormalizeBoardCollapsedRow",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245088349,
+  "stop": 1792245088350,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNormalizeBoardCollapsedRow"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

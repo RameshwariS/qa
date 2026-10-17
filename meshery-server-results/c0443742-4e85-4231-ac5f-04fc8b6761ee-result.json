@@ -1,0 +1,44 @@
+{
+  "uuid": "c0443742-4e85-4231-ac5f-04fc8b6761ee",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/server_defaults",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/server_defaults",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245084951,
+  "stop": 1792245084952,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/server_defaults"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

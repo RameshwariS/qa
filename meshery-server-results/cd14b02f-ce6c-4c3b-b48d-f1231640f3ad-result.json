@@ -1,0 +1,44 @@
+{
+  "uuid": "cd14b02f-ce6c-4c3b-b48d-f1231640f3ad",
+  "name": "TestBufferEncodePattern_PartialFailureDoesNotCorruptResponse",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestBufferEncodePattern_PartialFailureDoesNotCorruptResponse",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245086632,
+  "stop": 1792245086633,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBufferEncodePattern_PartialFailureDoesNotCorruptResponse"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

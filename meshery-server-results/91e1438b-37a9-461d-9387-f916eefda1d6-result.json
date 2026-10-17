@@ -1,0 +1,44 @@
+{
+  "uuid": "91e1438b-37a9-461d-9387-f916eefda1d6",
+  "name": "TestSanitizeOrderInput/direction_is_case-insensitive",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/direction_is_case-insensitive",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245165041,
+  "stop": 1792245165041,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/direction_is_case-insensitive"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

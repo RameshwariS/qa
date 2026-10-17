@@ -1,0 +1,44 @@
+{
+  "uuid": "880384d2-2c18-45c1-8b9e-68f8598e8e39",
+  "name": "TestServeUI_ImmutableAssetCacheControl",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestServeUI_ImmutableAssetCacheControl",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245085911,
+  "stop": 1792245085912,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestServeUI_ImmutableAssetCacheControl"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

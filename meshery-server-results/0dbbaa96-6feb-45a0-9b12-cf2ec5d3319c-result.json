@@ -1,0 +1,44 @@
+{
+  "uuid": "0dbbaa96-6feb-45a0-9b12-cf2ec5d3319c",
+  "name": "TestCreatePlanRejectsUnresolvableDependency",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanRejectsUnresolvableDependency",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245087330,
+  "stop": 1792245087330,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanRejectsUnresolvableDependency"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

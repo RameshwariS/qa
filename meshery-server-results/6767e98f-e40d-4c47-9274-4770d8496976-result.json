@@ -1,0 +1,44 @@
+{
+  "uuid": "6767e98f-e40d-4c47-9274-4770d8496976",
+  "name": "TestChartErrorLatchSurvivesAReattachThatNeverResolves",
+  "fullName": "github.com/meshery/meshery/server/models::TestChartErrorLatchSurvivesAReattachThatNeverResolves",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245087554,
+  "stop": 1792245087557,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartErrorLatchSurvivesAReattachThatNeverResolves"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

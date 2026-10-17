@@ -1,0 +1,44 @@
+{
+  "uuid": "774116de-690e-401b-b989-79f4de499152",
+  "name": "TestDeleteContext_GetK8sContextError_WithNameFallback",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteContext_GetK8sContextError_WithNameFallback",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245084938,
+  "stop": 1792245084938,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteContext_GetK8sContextError_WithNameFallback"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

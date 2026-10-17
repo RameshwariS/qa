@@ -1,0 +1,44 @@
+{
+  "uuid": "2b47f424-37d7-455c-807f-35f60645d87c",
+  "name": "TestCredentialPayload/nil_secret",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload/nil_secret",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245086790,
+  "stop": 1792245086790,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload/nil_secret"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "3a1cfcb8-1ee3-4bba-b9eb-9d58a5be2e70",
+  "name": "TestPatternResourceRoundTripsOwnerThroughMigratedDB",
+  "fullName": "github.com/meshery/meshery/server/models::TestPatternResourceRoundTripsOwnerThroughMigratedDB",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245087567,
+  "stop": 1792245087594,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPatternResourceRoundTripsOwnerThroughMigratedDB"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

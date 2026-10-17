@@ -1,0 +1,44 @@
+{
+  "uuid": "bc3fbd00-5a5b-4e1d-812b-a31c31b680ad",
+  "name": "TestProvisionWithholdsDependentsOfAComponentThatFailedToApply",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionWithholdsDependentsOfAComponentThatFailedToApply",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245088079,
+  "stop": 1792245088099,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionWithholdsDependentsOfAComponentThatFailedToApply"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

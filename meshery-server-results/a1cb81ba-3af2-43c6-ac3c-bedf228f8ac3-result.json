@@ -1,0 +1,44 @@
+{
+  "uuid": "a1cb81ba-3af2-43c6-ac3c-bedf228f8ac3",
+  "name": "TestChartIndexCacheReturnsACopyOfTheCatalogue",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheReturnsACopyOfTheCatalogue",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245059512,
+  "stop": 1792245059514,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheReturnsACopyOfTheCatalogue"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "1684368e-3bb5-40a6-a899-358236045129",
+  "name": "TestUndeployIsNotBlockedByAnUnresolvableChartVersion/reconcile",
+  "fullName": "github.com/meshery/meshery/server/models::TestUndeployIsNotBlockedByAnUnresolvableChartVersion/reconcile",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792245087550,
+  "stop": 1792245087550,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUndeployIsNotBlockedByAnUnresolvableChartVersion/reconcile"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
