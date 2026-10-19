@@ -1,0 +1,44 @@
+{
+  "uuid": "0e438999-0633-4ad8-8d61-b2046cd409e7",
+  "name": "TestUnpublishedVersionsNameTheRepositoryThatWasRead",
+  "fullName": "github.com/meshery/meshery/server/models::TestUnpublishedVersionsNameTheRepositoryThatWasRead",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370140279,
+  "stop": 1792370140280,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUnpublishedVersionsNameTheRepositoryThatWasRead"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "eaac57ab-3e89-45c8-af61-1ad57d3745d3",
+  "name": "TestMesheryPatternMarshalsSchemasOwnerContract",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryPatternMarshalsSchemasOwnerContract",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370139798,
+  "stop": 1792370139800,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPatternMarshalsSchemasOwnerContract"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

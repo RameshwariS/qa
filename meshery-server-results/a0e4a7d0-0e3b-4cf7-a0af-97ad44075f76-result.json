@@ -1,0 +1,44 @@
+{
+  "uuid": "a0e4a7d0-0e3b-4cf7-a0af-97ad44075f76",
+  "name": "TestGetPerformanceProfilesReadsMigratedColumns",
+  "fullName": "github.com/meshery/meshery/server/models::TestGetPerformanceProfilesReadsMigratedColumns",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370140431,
+  "stop": 1792370140500,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetPerformanceProfilesReadsMigratedColumns"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

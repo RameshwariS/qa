@@ -1,0 +1,44 @@
+{
+  "uuid": "849d556f-2be2-4ddd-a8e7-19ea60b6fa0e",
+  "name": "TestIngressToServiceEdgeUsesNetworkingV1BackendShape",
+  "fullName": "github.com/meshery/meshery/server/policies::TestIngressToServiceEdgeUsesNetworkingV1BackendShape",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370183088,
+  "stop": 1792370183103,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIngressToServiceEdgeUsesNetworkingV1BackendShape"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

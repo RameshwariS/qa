@@ -1,0 +1,44 @@
+{
+  "uuid": "4943a359-9ea6-4858-acf7-a16b50ade56d",
+  "name": "TestWithProviderStatus_PreservesMeshkitMetadata",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWithProviderStatus_PreservesMeshkitMetadata",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370139159,
+  "stop": 1792370139162,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWithProviderStatus_PreservesMeshkitMetadata"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

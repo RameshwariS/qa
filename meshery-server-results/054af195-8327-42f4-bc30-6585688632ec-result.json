@@ -1,0 +1,44 @@
+{
+  "uuid": "054af195-8327-42f4-bc30-6585688632ec",
+  "name": "TestGetMachineCoversEveryDefinitionKind",
+  "fullName": "github.com/meshery/meshery/server/machines/helpers::TestGetMachineCoversEveryDefinitionKind",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370122263,
+  "stop": 1792370122265,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines/helpers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGetMachineCoversEveryDefinitionKind"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

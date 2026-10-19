@@ -1,0 +1,44 @@
+{
+  "uuid": "a4b1f178-c352-4e69-9d96-1d73d7ff8a34",
+  "name": "TestProvisionDeploysEveryComponentWhenNoneFails",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionDeploysEveryComponentWhenNoneFails",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370142285,
+  "stop": 1792370142308,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionDeploysEveryComponentWhenNoneFails"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

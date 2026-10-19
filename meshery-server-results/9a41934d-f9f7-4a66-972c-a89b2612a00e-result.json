@@ -1,0 +1,44 @@
+{
+  "uuid": "9a41934d-f9f7-4a66-972c-a89b2612a00e",
+  "name": "TestMesheryFilterRequestBody_UnmarshalPrecedenceCanonicalWins",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryFilterRequestBody_UnmarshalPrecedenceCanonicalWins",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370139795,
+  "stop": 1792370139795,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryFilterRequestBody_UnmarshalPrecedenceCanonicalWins"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

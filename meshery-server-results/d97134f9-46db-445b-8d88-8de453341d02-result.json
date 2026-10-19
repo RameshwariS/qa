@@ -1,0 +1,44 @@
+{
+  "uuid": "d97134f9-46db-445b-8d88-8de453341d02",
+  "name": "TestAggregateSummariesByKind/duplicate_kinds_are_folded_into_one_summary",
+  "fullName": "github.com/meshery/meshery/server/models::TestAggregateSummariesByKind/duplicate_kinds_are_folded_into_one_summary",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370255033,
+  "stop": 1792370255034,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAggregateSummariesByKind/duplicate_kinds_are_folded_into_one_summary"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

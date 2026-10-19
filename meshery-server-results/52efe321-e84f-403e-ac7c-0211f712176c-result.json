@@ -1,0 +1,44 @@
+{
+  "uuid": "52efe321-e84f-403e-ac7c-0211f712176c",
+  "name": "TestPreferenceCanonicalKeyWinsOverLegacyOnMerge",
+  "fullName": "github.com/meshery/meshery/server/models::TestPreferenceCanonicalKeyWinsOverLegacyOnMerge",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370140595,
+  "stop": 1792370140595,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPreferenceCanonicalKeyWinsOverLegacyOnMerge"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

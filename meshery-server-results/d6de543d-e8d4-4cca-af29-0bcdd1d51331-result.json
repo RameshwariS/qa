@@ -1,0 +1,44 @@
+{
+  "uuid": "d6de543d-e8d4-4cca-af29-0bcdd1d51331",
+  "name": "TestRemoteProvider_VersionedCapabilitiesFallback",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProvider_VersionedCapabilitiesFallback",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370155798,
+  "stop": 1792370155800,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProvider_VersionedCapabilitiesFallback"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

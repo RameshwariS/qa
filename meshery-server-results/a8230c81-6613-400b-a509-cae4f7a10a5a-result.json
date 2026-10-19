@@ -1,0 +1,46 @@
+{
+  "uuid": "a8230c81-6613-400b-a509-cae4f7a10a5a",
+  "name": "TestIdentifyInventoryAdditions_PodImpliesNamespace",
+  "fullName": "github.com/meshery/meshery/server/policies::TestIdentifyInventoryAdditions_PodImpliesNamespace",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370152773,
+  "stop": 1792370183429,
+  "statusDetails": {
+    "message": "=== PAUSE TestIdentifyInventoryAdditions_PodImpliesNamespace\n=== CONT  TestIdentifyInventoryAdditions_PodImpliesNamespace"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIdentifyInventoryAdditions_PodImpliesNamespace"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

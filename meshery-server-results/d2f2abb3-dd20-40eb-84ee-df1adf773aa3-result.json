@@ -1,0 +1,44 @@
+{
+  "uuid": "d2f2abb3-dd20-40eb-84ee-df1adf773aa3",
+  "name": "TestChartIndexCacheDoesNotHoldTheLockAcrossAFetch",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheDoesNotHoldTheLockAcrossAFetch",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370100638,
+  "stop": 1792370100639,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheDoesNotHoldTheLockAcrossAFetch"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

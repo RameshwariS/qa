@@ -1,0 +1,44 @@
+{
+  "uuid": "1a896069-95f6-45e8-bf50-9a62b2a5e398",
+  "name": "TestPrereleaseChartsAreNeverSelectedAutomatically/the_newest-published_fallback_skips_a_prerelease",
+  "fullName": "github.com/meshery/meshery/server/models::TestPrereleaseChartsAreNeverSelectedAutomatically/the_newest-published_fallback_skips_a_prerelease",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370140328,
+  "stop": 1792370140331,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPrereleaseChartsAreNeverSelectedAutomatically/the_newest-published_fallback_skips_a_prerelease"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

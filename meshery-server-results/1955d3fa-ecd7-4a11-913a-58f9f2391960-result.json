@@ -1,0 +1,46 @@
+{
+  "uuid": "1955d3fa-ecd7-4a11-913a-58f9f2391960",
+  "name": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath/L2V4dGVuc2lvbi9tZXNobWFwIy8uLi8uLi91c2VyL2xvZ2lu",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationNeverReachesAnAuthPath/L2V4dGVuc2lvbi9tZXNobWFwIy8uLi8uLi91c2VyL2xvZ2lu",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370255084,
+  "stop": 1792370255085,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationNeverReachesAnAuthPath/L2V4dGVuc2lvbi9tZXNobWFwIy8uLi8uLi91c2VyL2xvZ2lu\n=== CONT  TestPostLoginRedirect_LocationNeverReachesAnAuthPath/L2V4dGVuc2lvbi9tZXNobWFwIy8uLi8uLi91c2VyL2xvZ2lu"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationNeverReachesAnAuthPath/L2V4dGVuc2lvbi9tZXNobWFwIy8uLi8uLi91c2VyL2xvZ2lu"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

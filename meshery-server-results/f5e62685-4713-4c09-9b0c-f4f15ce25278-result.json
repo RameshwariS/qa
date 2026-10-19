@@ -1,0 +1,44 @@
+{
+  "uuid": "f5e62685-4713-4c09-9b0c-f4f15ce25278",
+  "name": "TestReconcileLeavesTheLatchStandingWhenReattachFails",
+  "fullName": "github.com/meshery/meshery/server/models::TestReconcileLeavesTheLatchStandingWhenReattachFails",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370140324,
+  "stop": 1792370140328,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestReconcileLeavesTheLatchStandingWhenReattachFails"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

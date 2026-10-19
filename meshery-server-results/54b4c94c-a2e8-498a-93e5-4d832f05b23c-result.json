@@ -1,0 +1,44 @@
+{
+  "uuid": "54b4c94c-a2e8-498a-93e5-4d832f05b23c",
+  "name": "TestRemotePatternFileShortGitHubURLReturnsError/host_only",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemotePatternFileShortGitHubURLReturnsError/host_only",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370139429,
+  "stop": 1792370139429,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemotePatternFileShortGitHubURLReturnsError/host_only"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

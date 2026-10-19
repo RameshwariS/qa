@@ -1,0 +1,44 @@
+{
+  "uuid": "6956a4a1-191f-4e76-bcea-3dcc915c03f0",
+  "name": "TestSaveEnvironmentHandler_PropagatesProviderStatus/provider_403_surfaces_as_403,_not_404",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSaveEnvironmentHandler_PropagatesProviderStatus/provider_403_surfaces_as_403,_not_404",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792370145181,
+  "stop": 1792370145181,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSaveEnvironmentHandler_PropagatesProviderStatus/provider_403_surfaces_as_403,_not_404"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
