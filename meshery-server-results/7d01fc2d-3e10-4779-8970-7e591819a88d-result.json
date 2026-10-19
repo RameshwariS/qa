@@ -1,0 +1,44 @@
+{
+  "uuid": "7d01fc2d-3e10-4779-8970-7e591819a88d",
+  "name": "TestCredentialPayload/canonical_prometheus_payload_is_the_secret_map_itself",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialPayload/canonical_prometheus_payload_is_the_secret_map_itself",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369486782,
+  "stop": 1792369486782,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialPayload/canonical_prometheus_payload_is_the_secret_map_itself"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

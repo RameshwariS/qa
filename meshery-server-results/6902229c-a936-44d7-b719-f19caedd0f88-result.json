@@ -1,0 +1,44 @@
+{
+  "uuid": "6902229c-a936-44d7-b719-f19caedd0f88",
+  "name": "TestConnectionControllersConfigEndpoints_RejectUnusableConnections/non-kubernetes_connection/PUT",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestConnectionControllersConfigEndpoints_RejectUnusableConnections/non-kubernetes_connection/PUT",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369493648,
+  "stop": 1792369493650,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestConnectionControllersConfigEndpoints_RejectUnusableConnections/non-kubernetes_connection/PUT"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

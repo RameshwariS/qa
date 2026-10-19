@@ -1,0 +1,44 @@
+{
+  "uuid": "0c9eddd0-07d0-48f1-947b-71ccb1fc7eac",
+  "name": "TestSanitizeOrderInput/canonical_camelCase_wire_key_folds_onto_the_db_column",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/canonical_camelCase_wire_key_folds_onto_the_db_column",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369600837,
+  "stop": 1792369600837,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/canonical_camelCase_wire_key_folds_onto_the_db_column"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

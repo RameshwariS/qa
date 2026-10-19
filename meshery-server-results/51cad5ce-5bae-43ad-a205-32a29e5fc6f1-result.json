@@ -1,0 +1,44 @@
+{
+  "uuid": "51cad5ce-5bae-43ad-a205-32a29e5fc6f1",
+  "name": "TestFetchChartIndexVersionsReportsStructuredFailures",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestFetchChartIndexVersionsReportsStructuredFailures",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369449354,
+  "stop": 1792369449358,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFetchChartIndexVersionsReportsStructuredFailures"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

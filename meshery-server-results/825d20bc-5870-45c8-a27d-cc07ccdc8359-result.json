@@ -1,0 +1,44 @@
+{
+  "uuid": "825d20bc-5870-45c8-a27d-cc07ccdc8359",
+  "name": "TestB2OperatorVersionSelectsTheOperatorChartVersion/an_explicit_version_becomes_the_chart_version",
+  "fullName": "github.com/meshery/meshery/server/models::TestB2OperatorVersionSelectsTheOperatorChartVersion/an_explicit_version_becomes_the_chart_version",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369487713,
+  "stop": 1792369487713,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB2OperatorVersionSelectsTheOperatorChartVersion/an_explicit_version_becomes_the_chart_version"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

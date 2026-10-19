@@ -1,0 +1,44 @@
+{
+  "uuid": "4a8c824c-f684-4bd0-8236-37808c38da0a",
+  "name": "TestMetricNamesFiltersAndLimits",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/prometheus::TestMetricNamesFiltersAndLimits",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369491124,
+  "stop": 1792369491126,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/prometheus"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMetricNamesFiltersAndLimits"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

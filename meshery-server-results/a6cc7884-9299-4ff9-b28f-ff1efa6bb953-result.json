@@ -1,0 +1,44 @@
+{
+  "uuid": "a6cc7884-9299-4ff9-b28f-ff1efa6bb953",
+  "name": "TestValidateControllersConfig/whitelist_and_blacklist_together",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/whitelist_and_blacklist_together",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369485361,
+  "stop": 1792369485361,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/whitelist_and_blacklist_together"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

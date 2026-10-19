@@ -1,0 +1,44 @@
+{
+  "uuid": "2acf5d86-9979-4aaf-b7cc-1494cdee88d7",
+  "name": "TestSanitizeOrderInput/camelCase_column_outside_the_whitelist_is_ignored",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/camelCase_column_outside_the_whitelist_is_ignored",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369600838,
+  "stop": 1792369600838,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/camelCase_column_outside_the_whitelist_is_ignored"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

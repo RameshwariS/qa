@@ -1,0 +1,44 @@
+{
+  "uuid": "f71acaf9-b8bb-470f-9f3e-b6a86f06e8a1",
+  "name": "TestPreferenceRoundTripsEveryField",
+  "fullName": "github.com/meshery/meshery/server/models::TestPreferenceRoundTripsEveryField",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369487951,
+  "stop": 1792369487951,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPreferenceRoundTripsEveryField"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

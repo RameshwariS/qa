@@ -1,0 +1,44 @@
+{
+  "uuid": "51155aef-1a8b-43fa-9241-b16103742662",
+  "name": "TestQueryRangeUnresolvableSurfacesOriginalError",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestQueryRangeUnresolvableSurfacesOriginalError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369490593,
+  "stop": 1792369490595,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestQueryRangeUnresolvableSurfacesOriginalError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "c289cd31-5ab5-4620-bbc2-7446b7364b9e",
+  "name": "TestIsSeedableRequiresAnonymousUse/definition_without_a_kind",
+  "fullName": "github.com/meshery/meshery/server/models::TestIsSeedableRequiresAnonymousUse/definition_without_a_kind",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369599389,
+  "stop": 1792369599389,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsSeedableRequiresAnonymousUse/definition_without_a_kind"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

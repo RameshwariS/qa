@@ -1,0 +1,44 @@
+{
+  "uuid": "25ebb6e5-cf1b-4e93-b3a8-d73b4cc3e6e0",
+  "name": "TestTeardownOfANeverConnectedConnectionIsQuiet",
+  "fullName": "github.com/meshery/meshery/server/models::TestTeardownOfANeverConnectedConnectionIsQuiet",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369487680,
+  "stop": 1792369487680,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestTeardownOfANeverConnectedConnectionIsQuiet"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
