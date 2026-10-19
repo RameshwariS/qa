@@ -1,0 +1,35 @@
+{
+  "uuid": "5d26da8e-2dd6-41c7-8642-d3663905c3bc",
+  "name": "mesheryctl system token create succeeds",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369290319,
+  "stop": 1792369290320,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "System"
+    },
+    {
+      "name": "testGroup",
+      "value": "Token Management"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "521cf2e4-33e2-46c4-a5b3-07b825cf288a",
+  "name": "given invalid spreadsheet credentials when running mesheryctl registry publish then an error is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369290322,
+  "stop": 1792369290323,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

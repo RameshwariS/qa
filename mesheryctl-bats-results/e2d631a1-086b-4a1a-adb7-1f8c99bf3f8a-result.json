@@ -1,0 +1,29 @@
+{
+  "uuid": "e2d631a1-086b-4a1a-adb7-1f8c99bf3f8a",
+  "name": "given valid credentials when running mesheryctl registry publish to website with md format then models are published",
+  "status": "skipped",
+  "stage": "finished",
+  "start": 1792369290322,
+  "stop": 1792369290323,
+  "statusDetails": {
+    "message": "Spreadsheet credentials not configured"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    }
+  ]
+}

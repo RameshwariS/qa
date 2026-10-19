@@ -1,0 +1,35 @@
+{
+  "uuid": "154317dc-bd3f-4c62-89d2-8d9c42ccfbc8",
+  "name": "mesheryctl model view displays an existing model",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792369290320,
+  "stop": 1792369290321,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "client",
+      "value": "CLI"
+    },
+    {
+      "name": "componentUnderTest",
+      "value": "Model"
+    },
+    {
+      "name": "testGroup",
+      "value": "Model View"
+    }
+  ]
+}
