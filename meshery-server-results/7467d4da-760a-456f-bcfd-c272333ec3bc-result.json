@@ -1,0 +1,44 @@
+{
+  "uuid": "7467d4da-760a-456f-bcfd-c272333ec3bc",
+  "name": "TestInterceptAnonymousSession_RefusesReplyWithoutUserID/legacy_owner_key",
+  "fullName": "github.com/meshery/meshery/server/models::TestInterceptAnonymousSession_RefusesReplyWithoutUserID/legacy_owner_key",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514742488,
+  "stop": 1792514742521,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestInterceptAnonymousSession_RefusesReplyWithoutUserID/legacy_owner_key"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

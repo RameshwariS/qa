@@ -1,0 +1,44 @@
+{
+  "uuid": "b1eebcd6-9f23-4b5f-8dd9-1bac732af06c",
+  "name": "TestNewAdaptersTracker/Handle_Duplicate_Adapter_URLs",
+  "fullName": "github.com/meshery/meshery/server/helpers::TestNewAdaptersTracker/Handle_Duplicate_Adapter_URLs",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514691605,
+  "stop": 1792514691605,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNewAdaptersTracker/Handle_Duplicate_Adapter_URLs"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

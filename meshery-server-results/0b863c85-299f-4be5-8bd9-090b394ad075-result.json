@@ -1,0 +1,44 @@
+{
+  "uuid": "0b863c85-299f-4be5-8bd9-090b394ad075",
+  "name": "TestCredentialAuthSecret/canonical_grafana_payload",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret/canonical_grafana_payload",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514726038,
+  "stop": 1792514726038,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret/canonical_grafana_payload"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

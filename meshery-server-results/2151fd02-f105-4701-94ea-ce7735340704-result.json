@@ -1,0 +1,44 @@
+{
+  "uuid": "2151fd02-f105-4701-94ea-ce7735340704",
+  "name": "TestSafeOpenFile/empty_path",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSafeOpenFile/empty_path",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514718001,
+  "stop": 1792514718001,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSafeOpenFile/empty_path"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

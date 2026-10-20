@@ -1,0 +1,44 @@
+{
+  "uuid": "5c2950be-d257-4488-b924-5be16f5bca89",
+  "name": "TestChartIndexCacheServesStaleThroughAnOutage",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheServesStaleThroughAnOutage",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514691535,
+  "stop": 1792514691539,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheServesStaleThroughAnOutage"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

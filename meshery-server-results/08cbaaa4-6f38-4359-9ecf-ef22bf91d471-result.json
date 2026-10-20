@@ -1,0 +1,44 @@
+{
+  "uuid": "08cbaaa4-6f38-4359-9ecf-ef22bf91d471",
+  "name": "TestB1EffectiveConfigReportsTheModeTheConnectionRuns",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB1EffectiveConfigReportsTheModeTheConnectionRuns",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514724684,
+  "stop": 1792514724685,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB1EffectiveConfigReportsTheModeTheConnectionRuns"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

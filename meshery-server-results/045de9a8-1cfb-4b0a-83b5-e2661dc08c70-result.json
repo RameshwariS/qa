@@ -1,0 +1,44 @@
+{
+  "uuid": "045de9a8-1cfb-4b0a-83b5-e2661dc08c70",
+  "name": "TestSeedKeysDrainsBufferedRowAndErrorAfterCancel",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedKeysDrainsBufferedRowAndErrorAfterCancel",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514726316,
+  "stop": 1792514726325,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedKeysDrainsBufferedRowAndErrorAfterCancel"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

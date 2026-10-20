@@ -1,0 +1,44 @@
+{
+  "uuid": "f2188d3f-c5bc-4289-9f2b-07fa3697be9c",
+  "name": "TestDesignPostPayload_MarshalEmitsBothDesignFileKeyFlavors",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDesignPostPayload_MarshalEmitsBothDesignFileKeyFlavors",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514717866,
+  "stop": 1792514717866,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDesignPostPayload_MarshalEmitsBothDesignFileKeyFlavors"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

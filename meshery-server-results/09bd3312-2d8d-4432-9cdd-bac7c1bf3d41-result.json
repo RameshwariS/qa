@@ -1,0 +1,44 @@
+{
+  "uuid": "09bd3312-2d8d-4432-9cdd-bac7c1bf3d41",
+  "name": "TestDefaultLocalProviderInstallExtension_RequiresPackageWhenAssetsMissing",
+  "fullName": "github.com/meshery/meshery/server/models::TestDefaultLocalProviderInstallExtension_RequiresPackageWhenAssetsMissing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514726050,
+  "stop": 1792514726050,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDefaultLocalProviderInstallExtension_RequiresPackageWhenAssetsMissing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

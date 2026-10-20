@@ -1,0 +1,44 @@
+{
+  "uuid": "62e91c67-e669-4685-9526-a5cbc4477d69",
+  "name": "TestIsSeedableRequiresAnonymousUse/required_credential_from_JSON_round-trip",
+  "fullName": "github.com/meshery/meshery/server/models::TestIsSeedableRequiresAnonymousUse/required_credential_from_JSON_round-trip",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514808212,
+  "stop": 1792514808212,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestIsSeedableRequiresAnonymousUse/required_credential_from_JSON_round-trip"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

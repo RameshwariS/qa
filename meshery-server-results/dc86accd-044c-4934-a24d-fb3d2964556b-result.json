@@ -1,0 +1,44 @@
+{
+  "uuid": "dc86accd-044c-4934-a24d-fb3d2964556b",
+  "name": "TestResolveSchemaPath/open_schema_array_descent",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolveSchemaPath/open_schema_array_descent",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514753584,
+  "stop": 1792514753584,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveSchemaPath/open_schema_array_descent"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

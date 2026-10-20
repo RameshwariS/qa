@@ -1,0 +1,44 @@
+{
+  "uuid": "774982b2-cc60-49fe-be5f-68cf77c458f3",
+  "name": "TestConvertRelationships",
+  "fullName": "github.com/meshery/meshery/server/policies::TestConvertRelationships",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514733685,
+  "stop": 1792514733686,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestConvertRelationships"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

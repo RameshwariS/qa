@@ -1,0 +1,44 @@
+{
+  "uuid": "6021bef8-1c90-4110-8ff5-c54b1436b420",
+  "name": "TestSubscribeMesheryControllersStatusHandler_StopsOnContextCancellation",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSubscribeMesheryControllersStatusHandler_StopsOnContextCancellation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514717001,
+  "stop": 1792514717001,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSubscribeMesheryControllersStatusHandler_StopsOnContextCancellation"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

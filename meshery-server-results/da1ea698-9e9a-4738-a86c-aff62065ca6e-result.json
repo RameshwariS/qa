@@ -1,0 +1,44 @@
+{
+  "uuid": "da1ea698-9e9a-4738-a86c-aff62065ca6e",
+  "name": "TestControllerStatusHandlers_RejectInvalidConnectionID/meshsync",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllerStatusHandlers_RejectInvalidConnectionID/meshsync",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514717001,
+  "stop": 1792514717001,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllerStatusHandlers_RejectInvalidConnectionID/meshsync"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "78928d4e-b71a-4580-9245-5f1da810e51d",
+  "name": "TestDecodePerformanceTestConfigSupportsSchemaNativeJSON",
+  "fullName": "github.com/meshery/meshery/server/models::TestDecodePerformanceTestConfigSupportsSchemaNativeJSON",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514809243,
+  "stop": 1792514809243,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDecodePerformanceTestConfigSupportsSchemaNativeJSON"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

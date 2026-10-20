@@ -1,0 +1,44 @@
+{
+  "uuid": "e5302d6e-a015-40af-bf4e-b174e8211999",
+  "name": "TestGoEngineCreation",
+  "fullName": "github.com/meshery/meshery/server/policies::TestGoEngineCreation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514733688,
+  "stop": 1792514733688,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestGoEngineCreation"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

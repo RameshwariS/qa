@@ -1,0 +1,44 @@
+{
+  "uuid": "d2e09611-c49d-4df1-9587-012d6d9e1fa7",
+  "name": "TestSanitizeOrderInput/single_word_is_rejected",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/single_word_is_rejected",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514809209,
+  "stop": 1792514809209,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/single_word_is_rejected"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

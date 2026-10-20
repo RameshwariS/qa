@@ -1,0 +1,44 @@
+{
+  "uuid": "f1de7d30-5064-4a97-b977-43bdd701175c",
+  "name": "TestHasMachineContext",
+  "fullName": "github.com/meshery/meshery/server/machines/helpers::TestHasMachineContext",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792514711556,
+  "stop": 1792514711556,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/machines"
+    },
+    {
+      "name": "suite",
+      "value": "server/machines/helpers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHasMachineContext"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
