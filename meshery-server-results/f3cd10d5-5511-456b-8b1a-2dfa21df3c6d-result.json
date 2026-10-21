@@ -1,0 +1,44 @@
+{
+  "uuid": "f3cd10d5-5511-456b-8b1a-2dfa21df3c6d",
+  "name": "TestDefaultLocalProviderRemoveExtension_RemovesMatchingNavigatorExtension",
+  "fullName": "github.com/meshery/meshery/server/models::TestDefaultLocalProviderRemoveExtension_RemovesMatchingNavigatorExtension",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556625905,
+  "stop": 1792556625905,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDefaultLocalProviderRemoveExtension_RemovesMatchingNavigatorExtension"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "997af42a-b9d6-4242-8c1b-e0712e759b2e",
+  "name": "TestSeedUpdatesForWritesBothSchemaHalves",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedUpdatesForWritesBothSchemaHalves",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556740793,
+  "stop": 1792556740793,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedUpdatesForWritesBothSchemaHalves"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

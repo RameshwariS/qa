@@ -1,0 +1,44 @@
+{
+  "uuid": "98d515b1-c11f-42cf-9efa-aa90531c4fe2",
+  "name": "TestChartIndexCacheBlocksOnlyOnAColdCache",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestChartIndexCacheBlocksOnlyOnAColdCache",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556579631,
+  "stop": 1792556579631,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestChartIndexCacheBlocksOnlyOnAColdCache"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

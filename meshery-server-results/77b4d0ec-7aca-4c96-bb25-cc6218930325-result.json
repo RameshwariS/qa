@@ -1,0 +1,44 @@
+{
+  "uuid": "77b4d0ec-7aca-4c96-bb25-cc6218930325",
+  "name": "TestRemoteProviderDeleteConnectionPropagatesStatus/provider_error",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderDeleteConnectionPropagatesStatus/provider_error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556642747,
+  "stop": 1792556642748,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderDeleteConnectionPropagatesStatus/provider_error"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

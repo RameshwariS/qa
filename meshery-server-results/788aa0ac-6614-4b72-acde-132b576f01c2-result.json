@@ -1,0 +1,44 @@
+{
+  "uuid": "788aa0ac-6614-4b72-acde-132b576f01c2",
+  "name": "TestPerformConnectionAction_InvalidConnectionID",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestPerformConnectionAction_InvalidConnectionID",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556549987,
+  "stop": 1792556549988,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPerformConnectionAction_InvalidConnectionID"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

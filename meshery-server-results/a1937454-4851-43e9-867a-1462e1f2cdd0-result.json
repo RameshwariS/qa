@@ -1,0 +1,44 @@
+{
+  "uuid": "a1937454-4851-43e9-867a-1462e1f2cdd0",
+  "name": "TestRegoSyntax/matchlabels-policy.rego",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoSyntax/matchlabels-policy.rego",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556641940,
+  "stop": 1792556641943,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoSyntax/matchlabels-policy.rego"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

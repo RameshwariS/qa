@@ -1,0 +1,44 @@
+{
+  "uuid": "6a64cb0f-7dab-40c5-a83b-b6cb884815bb",
+  "name": "TestPatternResourceJSONKeysMatchSchemasConstruct",
+  "fullName": "github.com/meshery/meshery/server/models::TestPatternResourceJSONKeysMatchSchemasConstruct",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556626791,
+  "stop": 1792556626791,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPatternResourceJSONKeysMatchSchemasConstruct"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

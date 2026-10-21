@@ -1,0 +1,44 @@
+{
+  "uuid": "d92b6a32-a0ea-4b17-9da6-2ca379114326",
+  "name": "TestObjectGetNested/array_index",
+  "fullName": "github.com/meshery/meshery/server/policies::TestObjectGetNested/array_index",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556671276,
+  "stop": 1792556671276,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestObjectGetNested/array_index"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

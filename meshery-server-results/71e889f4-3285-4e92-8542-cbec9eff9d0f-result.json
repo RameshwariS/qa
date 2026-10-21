@@ -1,0 +1,44 @@
+{
+  "uuid": "71e889f4-3285-4e92-8542-cbec9eff9d0f",
+  "name": "TestBroadcastDeliversToSubscriber",
+  "fullName": "github.com/meshery/meshery/server/models::TestBroadcastDeliversToSubscriber",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556625906,
+  "stop": 1792556625906,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBroadcastDeliversToSubscriber"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

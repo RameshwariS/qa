@@ -1,0 +1,44 @@
+{
+  "uuid": "1658d5f7-0620-4303-bfca-6863452ec0ba",
+  "name": "TestK8sEventMetadataHasError",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestK8sEventMetadataHasError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556626240,
+  "stop": 1792556626241,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sEventMetadataHasError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

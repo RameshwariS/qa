@@ -1,0 +1,44 @@
+{
+  "uuid": "cced4d18-5cae-45bd-bf1b-aa8ef97e8af0",
+  "name": "TestProvisionReportsAComponentThatCouldNotBeDispatched",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionReportsAComponentThatCouldNotBeDispatched",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556628390,
+  "stop": 1792556628409,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionReportsAComponentThatCouldNotBeDispatched"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

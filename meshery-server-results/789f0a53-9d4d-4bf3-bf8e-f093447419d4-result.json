@@ -1,0 +1,44 @@
+{
+  "uuid": "789f0a53-9d4d-4bf3-bf8e-f093447419d4",
+  "name": "TestCompareChartVersionsOrdersBySemverNotLexically",
+  "fullName": "github.com/meshery/meshery/server/models::TestCompareChartVersionsOrdersBySemverNotLexically",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792556626784,
+  "stop": 1792556626784,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCompareChartVersionsOrdersBySemverNotLexically"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
