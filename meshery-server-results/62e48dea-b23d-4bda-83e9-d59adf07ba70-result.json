@@ -1,0 +1,44 @@
+{
+  "uuid": "62e48dea-b23d-4bda-83e9-d59adf07ba70",
+  "name": "TestDeleteContext_GetK8sContextError",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteContext_GetK8sContextError",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653867842,
+  "stop": 1792653867845,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteContext_GetK8sContextError"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

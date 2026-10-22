@@ -1,0 +1,44 @@
+{
+  "uuid": "88d1292c-9fdd-471e-9a66-f5aa0f7ca42d",
+  "name": "TestSanitizeOrderInput/camelCase_ascending",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/camelCase_ascending",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653939747,
+  "stop": 1792653939747,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/camelCase_ascending"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

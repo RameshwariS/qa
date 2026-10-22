@@ -1,0 +1,44 @@
+{
+  "uuid": "3786ac7a-3f99-4e43-9e02-6c8a26c4e189",
+  "name": "TestB4WizardAndEditorShareOneDeploymentModeStore/a_malformed_stored_override_surfaces_as_an_error,_not_a_silent_overwrite",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestB4WizardAndEditorShareOneDeploymentModeStore/a_malformed_stored_override_surfaces_as_an_error,_not_a_silent_overwrite",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653869105,
+  "stop": 1792653869105,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestB4WizardAndEditorShareOneDeploymentModeStore/a_malformed_stored_override_surfaces_as_an_error,_not_a_silent_overwrite"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "5d585bf1-9a5c-4cbb-b567-a2754df95f05",
+  "name": "TestAuthHeader/empty",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestAuthHeader/empty",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653871844,
+  "stop": 1792653871844,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAuthHeader/empty"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

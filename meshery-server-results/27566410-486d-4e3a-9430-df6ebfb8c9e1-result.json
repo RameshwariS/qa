@@ -1,0 +1,44 @@
+{
+  "uuid": "27566410-486d-4e3a-9430-df6ebfb8c9e1",
+  "name": "TestRegoSyntax/identify_additions.rego",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoSyntax/identify_additions.rego",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653879778,
+  "stop": 1792653879779,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoSyntax/identify_additions.rego"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

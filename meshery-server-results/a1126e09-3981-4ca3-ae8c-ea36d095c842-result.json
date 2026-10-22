@@ -1,0 +1,44 @@
+{
+  "uuid": "a1126e09-3981-4ca3-ae8c-ea36d095c842",
+  "name": "TestResolveControllersConfigNilLayers",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestResolveControllersConfigNilLayers",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653869100,
+  "stop": 1792653869100,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveControllersConfigNilLayers"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

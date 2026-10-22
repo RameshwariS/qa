@@ -1,0 +1,44 @@
+{
+  "uuid": "a14eb0e8-3cc2-49c8-ab57-1536624f6292",
+  "name": "TestDecodeRemoteProviderConnection/null_page_entry",
+  "fullName": "github.com/meshery/meshery/server/models::TestDecodeRemoteProviderConnection/null_page_entry",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653886686,
+  "stop": 1792653886686,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDecodeRemoteProviderConnection/null_page_entry"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "99bc02ba-6160-497c-a9bd-d11d8f130c5c",
+  "name": "TestValidateControllersConfig/loadBalancerSourceRanges_with_LoadBalancer_type",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestValidateControllersConfig/loadBalancerSourceRanges_with_LoadBalancer_type",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653869103,
+  "stop": 1792653869103,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestValidateControllersConfig/loadBalancerSourceRanges_with_LoadBalancer_type"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

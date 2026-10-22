@@ -1,0 +1,44 @@
+{
+  "uuid": "f546d623-b276-4e95-9171-b98ff330750a",
+  "name": "TestMesheryPattern_UnmarshalAcceptsBothCountSpellings",
+  "fullName": "github.com/meshery/meshery/server/models::TestMesheryPattern_UnmarshalAcceptsBothCountSpellings",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653870730,
+  "stop": 1792653870732,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPattern_UnmarshalAcceptsBothCountSpellings"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

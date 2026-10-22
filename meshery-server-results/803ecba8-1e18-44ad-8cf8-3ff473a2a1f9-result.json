@@ -1,0 +1,44 @@
+{
+  "uuid": "803ecba8-1e18-44ad-8cf8-3ff473a2a1f9",
+  "name": "TestBehaviorAlignment/from_and_to_components_exist",
+  "fullName": "github.com/meshery/meshery/server/policies::TestBehaviorAlignment/from_and_to_components_exist",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792653877664,
+  "stop": 1792653877814,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBehaviorAlignment/from_and_to_components_exist"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
