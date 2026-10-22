@@ -1,0 +1,44 @@
+{
+  "uuid": "605cc106-c368-4c4a-9b13-f93c6948db77",
+  "name": "TestK8sEventMetadataHasError/non-map_entries_are_ignored",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestK8sEventMetadataHasError/non-map_entries_are_ignored",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804916,
+  "stop": 1792642804916,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sEventMetadataHasError/non-map_entries_are_ignored"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

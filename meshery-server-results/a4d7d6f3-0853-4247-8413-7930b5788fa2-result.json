@@ -1,0 +1,44 @@
+{
+  "uuid": "a4d7d6f3-0853-4247-8413-7930b5788fa2",
+  "name": "TestMesheryPatternPOSTRequestBody_UnmarshalAcceptsBothSpellings/canonical_patternData_only",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMesheryPatternPOSTRequestBody_UnmarshalAcceptsBothSpellings/canonical_patternData_only",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804920,
+  "stop": 1792642804920,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMesheryPatternPOSTRequestBody_UnmarshalAcceptsBothSpellings/canonical_patternData_only"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

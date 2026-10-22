@@ -1,0 +1,44 @@
+{
+  "uuid": "a55fe2b5-20e1-4094-bb90-84525478a2be",
+  "name": "TestUndeployIsNotBlockedByAnUnresolvableChartVersion",
+  "fullName": "github.com/meshery/meshery/server/models::TestUndeployIsNotBlockedByAnUnresolvableChartVersion",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642805308,
+  "stop": 1792642805308,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUndeployIsNotBlockedByAnUnresolvableChartVersion"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "54cbc202-7555-43c1-82e3-f6007763fba0",
+  "name": "TestProvisionNeverDispatchesAnnotations",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionNeverDispatchesAnnotations",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642806709,
+  "stop": 1792642806725,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionNeverDispatchesAnnotations"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

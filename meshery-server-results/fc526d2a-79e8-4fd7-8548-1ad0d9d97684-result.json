@@ -1,0 +1,46 @@
+{
+  "uuid": "fc526d2a-79e8-4fd7-8548-1ad0d9d97684",
+  "name": "TestPostLoginHost",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginHost",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804826,
+  "stop": 1792642899924,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginHost\n=== CONT  TestPostLoginHost"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginHost"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

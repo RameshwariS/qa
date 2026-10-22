@@ -1,0 +1,44 @@
+{
+  "uuid": "fc9772ba-a5bc-4b26-83fc-9c6b2c039236",
+  "name": "TestBroadcastBurstWithinBufferNoLoss",
+  "fullName": "github.com/meshery/meshery/server/models::TestBroadcastBurstWithinBufferNoLoss",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804508,
+  "stop": 1792642804509,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBroadcastBurstWithinBufferNoLoss"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

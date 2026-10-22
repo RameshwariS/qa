@@ -1,0 +1,44 @@
+{
+  "uuid": "7438ca76-aaf8-4844-af29-8297e0bccbdf",
+  "name": "TestFlushMeshSyncResourcesForClusterNilHandler/nil_embedded_DB",
+  "fullName": "github.com/meshery/meshery/server/models::TestFlushMeshSyncResourcesForClusterNilHandler/nil_embedded_DB",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804732,
+  "stop": 1792642804732,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFlushMeshSyncResourcesForClusterNilHandler/nil_embedded_DB"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

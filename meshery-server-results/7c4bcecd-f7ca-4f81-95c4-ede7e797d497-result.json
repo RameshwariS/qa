@@ -1,0 +1,44 @@
+{
+  "uuid": "7c4bcecd-f7ca-4f81-95c4-ede7e797d497",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_operator.deploymentMode/connection_override",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_operator.deploymentMode/connection_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642804040,
+  "stop": 1792642804041,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/unknown_operator.deploymentMode/connection_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "b9941a4b-47ea-4991-bb88-f40a0d0308aa",
+  "name": "TestCreatePlanRejectsAmbiguousDependency",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanRejectsAmbiguousDependency",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792642806127,
+  "stop": 1792642806127,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanRejectsAmbiguousDependency"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
