@@ -1,0 +1,44 @@
+{
+  "uuid": "a1786fbb-1e1e-4365-8f17-0c92ebb48f45",
+  "name": "TestObjectGetNested/missing",
+  "fullName": "github.com/meshery/meshery/server/policies::TestObjectGetNested/missing",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861589118,
+  "stop": 1792861589118,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestObjectGetNested/missing"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

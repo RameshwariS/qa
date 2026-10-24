@@ -1,0 +1,44 @@
+{
+  "uuid": "45168c63-439e-4265-a747-5f4e28d498c3",
+  "name": "TestBroadcastUnsubscribeStopsDelivery",
+  "fullName": "github.com/meshery/meshery/server/models::TestBroadcastUnsubscribeStopsDelivery",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861542174,
+  "stop": 1792861542176,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestBroadcastUnsubscribeStopsDelivery"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

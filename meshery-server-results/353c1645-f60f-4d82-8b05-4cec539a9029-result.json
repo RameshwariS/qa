@@ -1,0 +1,44 @@
+{
+  "uuid": "353c1645-f60f-4d82-8b05-4cec539a9029",
+  "name": "TestCredentialAuthSecret",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861541950,
+  "stop": 1792861541951,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

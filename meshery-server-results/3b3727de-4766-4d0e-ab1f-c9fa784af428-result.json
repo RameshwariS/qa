@@ -1,0 +1,44 @@
+{
+  "uuid": "3b3727de-4766-4d0e-ab1f-c9fa784af428",
+  "name": "TestWriteMeshkitError_StatusTaggedErrorStillSerializes",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWriteMeshkitError_StatusTaggedErrorStillSerializes",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861544647,
+  "stop": 1792861544647,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWriteMeshkitError_StatusTaggedErrorStillSerializes"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

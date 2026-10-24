@@ -1,0 +1,44 @@
+{
+  "uuid": "9838e34f-1a37-411c-b103-a8d9364e517e",
+  "name": "TestHealthReturnsVersion",
+  "fullName": "github.com/meshery/meshery/server/models/telemetry/grafana::TestHealthReturnsVersion",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861549483,
+  "stop": 1792861549484,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/telemetry/grafana"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestHealthReturnsVersion"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

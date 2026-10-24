@@ -1,0 +1,44 @@
+{
+  "uuid": "5ab510dd-6209-4e7f-85a5-1be3d011e753",
+  "name": "TestMutateDoesNotRepeatADependencyTheDesignAlreadyDeclares",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestMutateDoesNotRepeatADependencyTheDesignAlreadyDeclares",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861549331,
+  "stop": 1792861549331,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMutateDoesNotRepeatADependencyTheDesignAlreadyDeclares"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

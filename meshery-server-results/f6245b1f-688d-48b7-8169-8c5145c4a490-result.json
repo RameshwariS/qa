@@ -1,0 +1,44 @@
+{
+  "uuid": "f6245b1f-688d-48b7-8169-8c5145c4a490",
+  "name": "TestResolveControllersConfigPrecedence",
+  "fullName": "github.com/meshery/meshery/server/models/connections::TestResolveControllersConfigPrecedence",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861543606,
+  "stop": 1792861543606,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/connections"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveControllersConfigPrecedence"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

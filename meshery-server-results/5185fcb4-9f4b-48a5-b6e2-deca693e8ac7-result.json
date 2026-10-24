@@ -1,0 +1,44 @@
+{
+  "uuid": "5185fcb4-9f4b-48a5-b6e2-deca693e8ac7",
+  "name": "TestDeleteMeshSyncResource/given_resource_table_migrated_when_DeleteMeshSyncResource_then_return_status_200_and_deleted_true",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestDeleteMeshSyncResource/given_resource_table_migrated_when_DeleteMeshSyncResource_then_return_status_200_and_deleted_true",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861550207,
+  "stop": 1792861550214,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDeleteMeshSyncResource/given_resource_table_migrated_when_DeleteMeshSyncResource_then_return_status_200_and_deleted_true"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

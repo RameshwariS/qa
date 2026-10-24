@@ -1,0 +1,44 @@
+{
+  "uuid": "9408b33f-764b-4401-99cb-771b22c04d25",
+  "name": "TestWriteMeshkitError_EmitsCauseAndRemediationAsArrays",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWriteMeshkitError_EmitsCauseAndRemediationAsArrays",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861544645,
+  "stop": 1792861544645,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWriteMeshkitError_EmitsCauseAndRemediationAsArrays"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

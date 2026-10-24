@@ -1,0 +1,46 @@
+{
+  "uuid": "ab5be8a1-f592-4bdf-9d28-b4a6a8d30b39",
+  "name": "TestParity_RegoAndGoEngineEmitEquivalentInventoryAdditions",
+  "fullName": "github.com/meshery/meshery/server/policies::TestParity_RegoAndGoEngineEmitEquivalentInventoryAdditions",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861558233,
+  "stop": 1792861589405,
+  "statusDetails": {
+    "message": "=== PAUSE TestParity_RegoAndGoEngineEmitEquivalentInventoryAdditions\n=== CONT  TestParity_RegoAndGoEngineEmitEquivalentInventoryAdditions"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestParity_RegoAndGoEngineEmitEquivalentInventoryAdditions"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

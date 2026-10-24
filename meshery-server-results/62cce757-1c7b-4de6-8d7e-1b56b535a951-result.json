@@ -1,0 +1,44 @@
+{
+  "uuid": "62cce757-1c7b-4de6-8d7e-1b56b535a951",
+  "name": "TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/edge-latest",
+  "fullName": "github.com/meshery/meshery/server/models::TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/edge-latest",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861542973,
+  "stop": 1792861542973,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestNewOperatorDeploymentConfigNeverStampsAMovingVersion/edge-latest"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "7cc229ec-9bc0-4f36-9ce5-dd1636350269",
+  "name": "TestDerivedChartVersionIsAlwaysPublished",
+  "fullName": "github.com/meshery/meshery/server/models::TestDerivedChartVersionIsAlwaysPublished",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861542837,
+  "stop": 1792861542837,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDerivedChartVersionIsAlwaysPublished"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

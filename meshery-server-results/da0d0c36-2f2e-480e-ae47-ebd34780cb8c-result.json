@@ -1,0 +1,44 @@
+{
+  "uuid": "da0d0c36-2f2e-480e-ae47-ebd34780cb8c",
+  "name": "TestResolveResourcePath_IrregularPlurals/Endpoints_with_RESTMapper_discovers_endpoints",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/patterns/k8s::TestResolveResourcePath_IrregularPlurals/Endpoints_with_RESTMapper_discovers_endpoints",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861546152,
+  "stop": 1792861546152,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/patterns/k8s"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolveResourcePath_IrregularPlurals/Endpoints_with_RESTMapper_discovers_endpoints"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "b3ce115e-bd11-4d61-8a8e-8b01fb010f14",
+  "name": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/connection_override",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/connection_override",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861549290,
+  "stop": 1792861549291,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestControllersConfigWriteEndpoints_RejectInvalidDocuments/watchList_whitelist_entry_without_a_resource/connection_override"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "3574cdd8-35c5-484f-b599-8c47d739c6c8",
+  "name": "TestUnreadableIndexWithholdsInstallationNotObservation",
+  "fullName": "github.com/meshery/meshery/server/models::TestUnreadableIndexWithholdsInstallationNotObservation",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861542879,
+  "stop": 1792861542884,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestUnreadableIndexWithholdsInstallationNotObservation"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

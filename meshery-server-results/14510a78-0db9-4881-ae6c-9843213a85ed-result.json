@@ -1,0 +1,44 @@
+{
+  "uuid": "14510a78-0db9-4881-ae6c-9843213a85ed",
+  "name": "TestRemoteProviderDeleteConnectionResponseShapes/404",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderDeleteConnectionResponseShapes/404",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861559153,
+  "stop": 1792861559154,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderDeleteConnectionResponseShapes/404"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

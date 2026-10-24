@@ -1,0 +1,44 @@
+{
+  "uuid": "5d0857fe-4130-4af5-a1ee-6c06af527234",
+  "name": "TestRegoSyntax/relationship_diff_policy.rego",
+  "fullName": "github.com/meshery/meshery/server/policies::TestRegoSyntax/relationship_diff_policy.rego",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861561078,
+  "stop": 1792861561081,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRegoSyntax/relationship_diff_policy.rego"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

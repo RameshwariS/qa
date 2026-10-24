@@ -1,0 +1,44 @@
+{
+  "uuid": "6953435a-7c66-4cb7-aade-8e25adba526d",
+  "name": "TestResolvePath/no_wildcard",
+  "fullName": "github.com/meshery/meshery/server/policies::TestResolvePath/no_wildcard",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861589123,
+  "stop": 1792861589123,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestResolvePath/no_wildcard"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

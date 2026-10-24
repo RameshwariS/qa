@@ -1,0 +1,44 @@
+{
+  "uuid": "ebf7301e-90cc-4c32-87fa-5d6767d4737f",
+  "name": "TestWithProviderStatus_RoundTrips/not_found_is_propagated",
+  "fullName": "github.com/meshery/meshery/server/models/httputil::TestWithProviderStatus_RoundTrips/not_found_is_propagated",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861544646,
+  "stop": 1792861544646,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/httputil"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestWithProviderStatus_RoundTrips/not_found_is_propagated"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

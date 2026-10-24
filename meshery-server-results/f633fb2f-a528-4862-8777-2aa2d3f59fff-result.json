@@ -1,0 +1,44 @@
+{
+  "uuid": "f633fb2f-a528-4862-8777-2aa2d3f59fff",
+  "name": "TestProvisionDeploysDependentsWhenOnlyAPrerequisiteFailed",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/stages::TestProvisionDeploysDependentsWhenOnlyAPrerequisiteFailed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792861547761,
+  "stop": 1792861547777,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/stages"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvisionDeploysDependentsWhenOnlyAPrerequisiteFailed"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
