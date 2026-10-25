@@ -1,0 +1,44 @@
+{
+  "uuid": "41e1eb72-477d-45ad-bcb9-22a58b9b97f0",
+  "name": "TestSanitizeOrderInput/single-word_column_is_unaffected_by_folding",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/single-word_column_is_unaffected_by_folding",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967549752,
+  "stop": 1792967549752,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/single-word_column_is_unaffected_by_folding"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

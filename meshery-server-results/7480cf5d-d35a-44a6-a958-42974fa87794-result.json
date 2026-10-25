@@ -1,0 +1,44 @@
+{
+  "uuid": "7480cf5d-d35a-44a6-a958-42974fa87794",
+  "name": "TestRestrictToEnforcedProvider",
+  "fullName": "github.com/meshery/meshery/server/models::TestRestrictToEnforcedProvider",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967496287,
+  "stop": 1792967496287,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRestrictToEnforcedProvider"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

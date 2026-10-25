@@ -1,0 +1,44 @@
+{
+  "uuid": "86e6bca2-be23-434d-8fa9-55f6402d369b",
+  "name": "TestAggregateSummariesByKind/empty_input",
+  "fullName": "github.com/meshery/meshery/server/models::TestAggregateSummariesByKind/empty_input",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967549751,
+  "stop": 1792967549751,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestAggregateSummariesByKind/empty_input"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "f8790d11-1d1f-4ec7-9eb9-f05a6bef2d7e",
+  "name": "TestCredentialAuthSecret/canonical_prometheus_payload_is_anonymous",
+  "fullName": "github.com/meshery/meshery/server/models::TestCredentialAuthSecret/canonical_prometheus_payload_is_anonymous",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967480205,
+  "stop": 1792967480205,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCredentialAuthSecret/canonical_prometheus_payload_is_anonymous"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

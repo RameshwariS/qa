@@ -1,0 +1,44 @@
+{
+  "uuid": "f0a69a95-b15d-4536-a7ee-ebb9ab2c5d1f",
+  "name": "TestRemoteProviderDoRequest_DoesNotRefreshAnonymousToken",
+  "fullName": "github.com/meshery/meshery/server/models::TestRemoteProviderDoRequest_DoesNotRefreshAnonymousToken",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967496287,
+  "stop": 1792967496288,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRemoteProviderDoRequest_DoesNotRefreshAnonymousToken"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "uuid": "467fc9ae-fa88-4779-9db7-13d57bea5ebc",
+  "name": "TestServeUI_MissingAssetDoesNotCache404",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestServeUI_MissingAssetDoesNotCache404",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478128,
+  "stop": 1792967478129,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestServeUI_MissingAssetDoesNotCache404"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

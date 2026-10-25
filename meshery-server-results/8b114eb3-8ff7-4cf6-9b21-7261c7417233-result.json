@@ -1,0 +1,44 @@
+{
+  "uuid": "8b114eb3-8ff7-4cf6-9b21-7261c7417233",
+  "name": "TestRunRelationshipEvaluation_PanicDoesNotDeadlock",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestRunRelationshipEvaluation_PanicDoesNotDeadlock",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478041,
+  "stop": 1792967478041,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestRunRelationshipEvaluation_PanicDoesNotDeadlock"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

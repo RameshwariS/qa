@@ -1,0 +1,44 @@
+{
+  "uuid": "cfe610b4-9bd2-442f-a2ec-c38889467191",
+  "name": "TestFlushMeshSyncResourcesForClusterNilHandler/nil_handler",
+  "fullName": "github.com/meshery/meshery/server/models::TestFlushMeshSyncResourcesForClusterNilHandler/nil_handler",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967480436,
+  "stop": 1792967480436,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFlushMeshSyncResourcesForClusterNilHandler/nil_handler"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

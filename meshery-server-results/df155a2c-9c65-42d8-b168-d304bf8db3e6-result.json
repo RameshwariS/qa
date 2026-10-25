@@ -1,0 +1,44 @@
+{
+  "uuid": "df155a2c-9c65-42d8-b168-d304bf8db3e6",
+  "name": "TestMatchName/Namespace_Namespace",
+  "fullName": "github.com/meshery/meshery/server/policies::TestMatchName/Namespace_Namespace",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967506460,
+  "stop": 1792967506460,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/policies"
+    },
+    {
+      "name": "suite",
+      "value": "server/policies"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestMatchName/Namespace_Namespace"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

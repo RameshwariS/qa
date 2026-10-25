@@ -1,0 +1,44 @@
+{
+  "uuid": "26c6493e-130e-40bc-8fc6-d00dac525dc9",
+  "name": "TestFetchChartIndexVersionsReadsEveryChart",
+  "fullName": "github.com/meshery/meshery/server/helpers/utils::TestFetchChartIndexVersionsReadsEveryChart",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967451317,
+  "stop": 1792967451319,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/helpers"
+    },
+    {
+      "name": "suite",
+      "value": "server/helpers/utils"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestFetchChartIndexVersionsReadsEveryChart"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

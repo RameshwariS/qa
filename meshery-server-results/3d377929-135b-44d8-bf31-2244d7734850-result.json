@@ -1,0 +1,44 @@
+{
+  "uuid": "3d377929-135b-44d8-bf31-2244d7734850",
+  "name": "TestSafeOpenFile/filename_containing_.._is_allowed",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestSafeOpenFile/filename_containing_.._is_allowed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478134,
+  "stop": 1792967478134,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSafeOpenFile/filename_containing_.._is_allowed"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

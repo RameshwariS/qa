@@ -1,0 +1,44 @@
+{
+  "uuid": "78449cc2-46fc-4941-8886-e5a6396cfe04",
+  "name": "TestApplyControllersConfigRestartsMeshSyncOnlyOnWatchListChange",
+  "fullName": "github.com/meshery/meshery/server/models::TestApplyControllersConfigRestartsMeshSyncOnlyOnWatchListChange",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478993,
+  "stop": 1792967480197,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestApplyControllersConfigRestartsMeshSyncOnlyOnWatchListChange"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

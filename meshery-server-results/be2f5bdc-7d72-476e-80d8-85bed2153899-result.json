@@ -1,0 +1,44 @@
+{
+  "uuid": "be2f5bdc-7d72-476e-80d8-85bed2153899",
+  "name": "TestSeedKeysPersistsAllShippedKeys",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedKeysPersistsAllShippedKeys",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967480498,
+  "stop": 1792967480524,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedKeysPersistsAllShippedKeys"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

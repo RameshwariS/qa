@@ -1,0 +1,44 @@
+{
+  "uuid": "8b14627e-6de2-4a75-8be8-5c427be72f03",
+  "name": "TestProvidersHandler_EnforcedRemoteOmitsLocal",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestProvidersHandler_EnforcedRemoteOmitsLocal",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478060,
+  "stop": 1792967478060,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProvidersHandler_EnforcedRemoteOmitsLocal"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

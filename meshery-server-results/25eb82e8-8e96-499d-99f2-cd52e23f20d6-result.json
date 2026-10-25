@@ -1,0 +1,44 @@
+{
+  "uuid": "25eb82e8-8e96-499d-99f2-cd52e23f20d6",
+  "name": "TestK8sEventMetadataHasError/a_single_failed_context_reports_an_error",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestK8sEventMetadataHasError/a_single_failed_context_reports_an_error",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967478030,
+  "stop": 1792967478030,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestK8sEventMetadataHasError/a_single_failed_context_reports_an_error"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

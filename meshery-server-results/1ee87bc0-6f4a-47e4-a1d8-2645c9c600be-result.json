@@ -1,0 +1,44 @@
+{
+  "uuid": "1ee87bc0-6f4a-47e4-a1d8-2645c9c600be",
+  "name": "TestToSnakeCase/updatedAt",
+  "fullName": "github.com/meshery/meshery/server/models::TestToSnakeCase/updatedAt",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1792967549752,
+  "stop": 1792967549752,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestToSnakeCase/updatedAt"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
