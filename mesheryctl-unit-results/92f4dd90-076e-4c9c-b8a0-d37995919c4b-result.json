@@ -1,0 +1,44 @@
+{
+  "uuid": "92f4dd90-076e-4c9c-b8a0-d37995919c4b",
+  "name": "TestPrepender/Root_mesheryctl_index",
+  "fullName": "github.com/meshery/meshery/mesheryctl/doc::TestPrepender/Root_mesheryctl_index",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793004870535,
+  "stop": 1793004870535,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "suite",
+      "value": "mesheryctl/doc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPrepender/Root_mesheryctl_index"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
