@@ -1,0 +1,44 @@
+{
+  "uuid": "2c284710-162b-4291-8759-f309292d1604",
+  "name": "TestDetectCycleRejectsAnEdgeToAnUnknownNode",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestDetectCycleRejectsAnEdgeToAnUnknownNode",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793004898114,
+  "stop": 1793004898115,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDetectCycleRejectsAnEdgeToAnUnknownNode"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

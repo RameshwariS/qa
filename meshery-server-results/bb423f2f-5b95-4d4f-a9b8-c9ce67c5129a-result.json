@@ -1,0 +1,44 @@
+{
+  "uuid": "bb423f2f-5b95-4d4f-a9b8-c9ce67c5129a",
+  "name": "TestSeedKeysIntactRegisterColumnSeedsWithoutReport",
+  "fullName": "github.com/meshery/meshery/server/models::TestSeedKeysIntactRegisterColumnSeedsWithoutReport",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793004894836,
+  "stop": 1793004894837,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSeedKeysIntactRegisterColumnSeedsWithoutReport"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

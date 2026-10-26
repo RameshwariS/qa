@@ -1,0 +1,46 @@
+{
+  "uuid": "cbd5644f-71a3-4fb2-80c9-34f6cb7d3fa9",
+  "name": "TestPostLoginRedirect_LocationKeepsOrdinaryDestinations//extension/meshmap#canvas",
+  "fullName": "github.com/meshery/meshery/server/models::TestPostLoginRedirect_LocationKeepsOrdinaryDestinations//extension/meshmap#canvas",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793005006369,
+  "stop": 1793005006372,
+  "statusDetails": {
+    "message": "=== PAUSE TestPostLoginRedirect_LocationKeepsOrdinaryDestinations//extension/meshmap#canvas\n=== CONT  TestPostLoginRedirect_LocationKeepsOrdinaryDestinations//extension/meshmap#canvas"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestPostLoginRedirect_LocationKeepsOrdinaryDestinations//extension/meshmap#canvas"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

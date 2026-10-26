@@ -1,0 +1,46 @@
+{
+  "uuid": "ad11cac1-b1dc-4b27-9c6c-5f72364a0ddd",
+  "name": "TestProcessEvaluationResponse_NilPointerGuard/explicit_DisplayName_is_preserved_on_unknown_component",
+  "fullName": "github.com/meshery/meshery/server/handlers::TestProcessEvaluationResponse_NilPointerGuard/explicit_DisplayName_is_preserved_on_unknown_component",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793004901072,
+  "stop": 1793004901124,
+  "statusDetails": {
+    "message": "=== PAUSE TestProcessEvaluationResponse_NilPointerGuard/explicit_DisplayName_is_preserved_on_unknown_component\n=== CONT  TestProcessEvaluationResponse_NilPointerGuard/explicit_DisplayName_is_preserved_on_unknown_component"
+  },
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "suite",
+      "value": "server/handlers"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestProcessEvaluationResponse_NilPointerGuard/explicit_DisplayName_is_preserved_on_unknown_component"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

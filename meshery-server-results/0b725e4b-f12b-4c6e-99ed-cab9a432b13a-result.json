@@ -1,0 +1,44 @@
+{
+  "uuid": "0b725e4b-f12b-4c6e-99ed-cab9a432b13a",
+  "name": "TestSanitizeOrderInput/performance_profile_lastRun_folds_to_its_aliased_column",
+  "fullName": "github.com/meshery/meshery/server/models::TestSanitizeOrderInput/performance_profile_lastRun_folds_to_its_aliased_column",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793005006323,
+  "stop": 1793005006323,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestSanitizeOrderInput/performance_profile_lastRun_folds_to_its_aliased_column"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}

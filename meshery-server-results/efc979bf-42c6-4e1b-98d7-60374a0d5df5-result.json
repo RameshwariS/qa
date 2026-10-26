@@ -1,0 +1,44 @@
+{
+  "uuid": "efc979bf-42c6-4e1b-98d7-60374a0d5df5",
+  "name": "TestCreatePlanAcceptsAbsentDependencyDeclaration",
+  "fullName": "github.com/meshery/meshery/server/models/pattern/planner::TestCreatePlanAcceptsAbsentDependencyDeclaration",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1793004898113,
+  "stop": 1793004898113,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "go-test"
+    },
+    {
+      "name": "language",
+      "value": "golang"
+    },
+    {
+      "name": "parentSuite",
+      "value": "server/models"
+    },
+    {
+      "name": "suite",
+      "value": "server/models/pattern/planner"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCreatePlanAcceptsAbsentDependencyDeclaration"
+    },
+    {
+      "name": "project",
+      "value": "Meshery"
+    },
+    {
+      "name": "type",
+      "value": "unit"
+    },
+    {
+      "name": "env",
+      "value": "ci"
+    }
+  ]
+}
